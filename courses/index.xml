@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on Suryajith Chillara</title>
+    <link>https://suryajith.github.io/courses/</link>
+    <description>Recent content in Courses on Suryajith Chillara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://suryajith.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS1.406 Advanced Algorithms (Spring 2022)</title>
+      <link>https://suryajith.github.io/courses/cs1.406spring2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/courses/cs1.406spring2022/</guid>
+      <description>Announcements  Teaching assistants: TBA Class schedule: Monday and Thursday, 11:30 &amp;ndash; 12:55 Classrom: TBA  Tentative topics  Introduction to randomized algorithms: RandQS, Min-Cut, Las vegas &amp;amp; Monte Carlo algorithms Analysis of randomized algorithms: Yao’s Min-max principle Concentration inequalities: Coupon collector&amp;rsquo;s problem, Balls and bins, Hashing, Set balancing Probabilistic method, Lovasz Local Lemma, Method of Conditional probabilities Markov chains and Random walks, 2-SAT, 3-SAT, $s\rightsquigarrow t$ connectivity Polynomial Identity testing, Isolation lemma, Mulmuley-Vazirani-Vazirani perfect matching Approximate counting Derandomization techniques &amp;amp; Pseudorandom numbers Number theoretic algorithms: Integer multiplication, Integer factorization, Primality, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
