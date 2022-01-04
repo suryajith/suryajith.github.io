@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://suryajith.github.io/courses/cs1.406spring2022/</guid>
-      <description>Announcements  Teaching assistants: TBA Schedule: Monday and Thursday, 11:30 &amp;ndash; 12:55 Classroom: TBA  Problem sets  Problem set 1 (Due: 12.01.2022)  Tentative topics  Introduction to randomized algorithms: RandQS, Min-Cut, Las vegas &amp;amp; Monte Carlo algorithms Analysis of randomized algorithms: Yao’s Min-max principle Concentration inequalities: Coupon collector&amp;rsquo;s problem, Balls and bins, Hashing, Set balancing Probabilistic method, Lovasz Local Lemma, Method of Conditional probabilities Markov chains and Random walks, 2-SAT, 3-SAT, $s\rightsquigarrow t$ connectivity Polynomial Identity testing, Isolation lemma, Mulmuley-Vazirani-Vazirani perfect matching Approximate counting Derandomization techniques &amp;amp; Pseudorandom numbers Number theoretic algorithms: Integer multiplication, Integer factorization, Primality, etc.</description>
+      <description>Announcements  Teaching assistants: Dixit Kumar Garg and S Shodasakshari Vidya Schedule: Monday and Thursday, 11:30 &amp;ndash; 12:55 Classroom: SH-2 (2nd floor, C-1 Vindhya)  Problem sets  Problem set 1 (Due: 12.01.2022)  Lectures  Introduction to Randomized algorithms, RandQS  Class notes References: Chapter 1 of [Motwani-Raghavan][1], Chapter 1 &amp;amp; Section 2.4 of [Mitzenmacher-Upfal][2]    References [1] R. Motwani and P. Raghavan (1995), Randomized Algorithms, Cambridge University Press.</description>
     </item>
     
   </channel>
