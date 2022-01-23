@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Suryajith Chillara</title>
@@ -5,45 +6,159 @@
     <description>Recent content on Suryajith Chillara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://suryajith.github.io/" rel="self" type="application/rss+xml" />
-
+    <lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://suryajith.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Functional Lower Bounds for Restricted Arithmetic Circuits of Depth Four</title>
+      <link>https://suryajith.github.io/papers/functional/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/papers/functional/</guid>
+      <description>Link to the article
+Authors Suryajith Chillara
+Publisher Information  Conference: FSTTCS 2021, Pages 14:1-14:15 (LIPIcs, Vol 213)  Abstract Recently, Forbes, Kumar and Saptharishi [CCC, 2016] proved that there exists an explicit $d^{O(1)}$-variate and degree $d$ polynomial $P_{d} \in VNP$ such that if any depth four circuit $C$ of bounded formal degree $d$ which computes a polynomial of bounded individual degree $O(1)$, that is functionally equivalent to $P_d$, then $C$ must have size $2^{\Omega(\sqrt{d}\log{d})}$.</description>
+    </item>
     
-      <item>
-        <title>Papers</title>
-        <link>https://suryajith.github.io/papers/</link>
-        <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-        
-        <guid>https://suryajith.github.io/papers/</guid>
-        <description>
-          
-        </description>
-      </item>
+    <item>
+      <title>New Exponential Size Lower Bounds against Depth Four Circuits of Bounded Individual Degree</title>
+      <link>https://suryajith.github.io/papers/multiric-d4-exp/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/papers/multiric-d4-exp/</guid>
+      <description>Link to the article
+Authors Suryajith Chillara
+Publisher Information  Preprint: Electron. Colloquium Comput. Complex. 27: 33 (2020)  Abstract Kayal, Saha and Tavenas [Theory of Computing, 2018] showed that for all large enough integers $n$ and $d$ such that $d\geq \omega(\log{n})$, any syntactic depth four circuit of bounded individual degree $\delta = o(d)$ that computes the Iterated Matrix Multiplication polynomial ($IMM_{n,d}$) must have size $n^{\Omega\left(\sqrt{d/\delta}\right)}$. Unfortunately, this bound deteriorates as the value of $\delta$ increases.</description>
+    </item>
     
-      <item>
-        <title>Brief Biography</title>
-        <link>https://suryajith.github.io/about/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://suryajith.github.io/about/</guid>
-        <description>
-          &lt;p&gt;I am an Assistant Professor with &lt;a href=&#34;https://cstar-iiit.github.io&#34;&gt;Center for Security, Theory and Algorithmic Research (CSTAR)&lt;/a&gt; at &lt;a href=&#34;https://www.iiit.ac.in&#34;&gt;International Institute of Information Technology, Hyderabad (IIIT Hyderabad)&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;My research broadly lies at the interface of Algorithms, &lt;a href=&#34;https://en.wikipedia.org/wiki/Computational_complexity_theory&#34;&gt;Computational Complexity Theory&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Error_correction_code&#34;&gt;Coding Theory&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Previously, I was a post doctoral fellow at &lt;a href=&#34;https://haifa.ac.il/index.php/en&#34;&gt;University of Haifa&lt;/a&gt; mentored by &lt;a href=&#34;https://cs.haifa.ac.il/~noga&#34;&gt;Prof. Noga Ron-Zewi&lt;/a&gt;, and at &lt;a href=&#34;https://www.cse.iitb.ac.in&#34;&gt;IIT Bombay&lt;/a&gt; mentored by &lt;a href=&#34;https://www.cse.iitb.ac.in/~nutan/&#34;&gt;Prof. Nutan Limaye&lt;/a&gt;. I got my MSc and PhD degrees in Computer Science from &lt;a href=&#34;http://www.cmi.ac.in&#34;&gt;Chennai Mathematical Institute (CMI)&lt;/a&gt; under the supervision of &lt;a href=&#34;http://www.cmi.ac.in/~partham&#34;&gt;Prof. Partha Mukhopadhyay&lt;/a&gt;. I got my undergraduate degree from &lt;a href=&#34;http://www.iitk.ac.in&#34;&gt;IIT Kanpur&lt;/a&gt;.&lt;/p&gt;
-
-        </description>
-      </item>
+    <item>
+      <title>On Computing Multilinear Polynomials using Multi-$r$-ic Depth Four Circuits</title>
+      <link>https://suryajith.github.io/papers/multiric-d4-qpoly/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/papers/multiric-d4-qpoly/</guid>
+      <description>Link to the article
+Authors Suryajith Chillara
+Publisher Information  Journal: ACM Transactions on Computation Theory, Vol. 13, Issue 3, Article 16, Pages 1-21 Conference: STACS 2020, Pages 47:1-47-16 (LIPIcs, Vol. 154)  Abstract In this paper, we are interested in understanding the complexity of computing multilinear polynomials using depth four circuits in which the polynomial computed at every node has a bound on the individual degree of $r \geq 1$ with respect to all its variables (referred to as multi-$r$-c circuits).</description>
+    </item>
     
-      <item>
-        <title>Courses</title>
-        <link>https://suryajith.github.io/courses/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://suryajith.github.io/courses/</guid>
-        <description>
-          
-        </description>
-      </item>
+    <item>
+      <title>Slightly Improved Lower Bounds for Homogeneous Multi-r-ic Formulas of Small-Depth</title>
+      <link>https://suryajith.github.io/papers/multiric-homform/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/papers/multiric-homform/</guid>
+      <description>Link to the article
+Authors Suryajith Chillara
+Publisher Information  Journal: Information Processing Letters, vol 156  Abstract Kayal, Saha and Tavenas (Theory of Computing, 2018), showed that any bounded-depth homogeneous formula of bounded individual degree (bounded by $r$) that computes an explicit polynomial over $n$ variables must have size $\exp\left(\Omega\left(\frac{1}{r}\left(\frac{n}{4}\right)^{1/\Delta}\right)\right)$ for all depths $\Delta \leq O\left({\frac{\log n}{\log r+ \log\log n}}\right)$. In this article we show an improved size lower bound of $\exp\left(\Omega\left(\frac{\Delta}{r}\left({\frac{nr}{2}}\right)^{1/\Delta}\right)\right)$ for all depths $\Delta \leq O\left({\frac{\log n}{\log r}}\right)$, and for the same explicit polynomial.</description>
+    </item>
+    
+    <item>
+      <title>A Near-Optimal Depth-Hierarchy Theorem for Small-Depth Multilinear Circuits</title>
+      <link>https://suryajith.github.io/papers/ml-dh/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/papers/ml-dh/</guid>
+      <description>Link to the article
+Authors Suryajith Chillara, Nutan Limaye and Srikanth Srinivasan
+Publisher Information  Conference: FOCS 2018, Pages 934-945  Abstract We study the size blow-up that is necessary to convert an algebraic circuit of product-depth $\Delta+1$ to one of product-depth $\Delta$ in the multilinear setting.
+We show that for every positive $\Delta = \Delta(n) = o(\log n/\log \log n)$, there is an explicit multilinear polynomial $P^{(\Delta)}$ on $n$ variables that can be computed by a multilinear formula of product-depth $\Delta+1$ and size $O(n)$, but not by any multilinear circuit of product-depth $\Delta$ and size less than $\exp(n^{\Omega(1/\Delta)})$.</description>
+    </item>
+    
+    <item>
+      <title>A Quadratic Size-Hierarchy Theorem for Small-Depth Multilinear Formulas</title>
+      <link>https://suryajith.github.io/papers/ml-sh/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/papers/ml-sh/</guid>
+      <description>Link to the article
+Authors Suryajith Chillara, Nutan Limaye and Srikanth Srinivasan
+Publisher Information  Conference: ICALP 2018, Pages 36:1-36:13 (LIPIcs, Vol. 107)  Abstract We show explicit separations between the expressive powers of multilinear formulas of small-depth and all polynomial sizes.
+Formally, for any $s = s(n) = n^{O(1)}$ and any $\delta&amp;gt;0$, we construct explicit families of multilinear polynomials $P_n\in\mathbb{F}[x_1,\ldots,x_n]$ that have multilinear formulas of size $s$ and depth three but no multilinear formulas of size $s^{1/2-\delta}$ and depth $o(\log n/\log \log n).</description>
+    </item>
+    
+    <item>
+      <title>Small-depth Multilinear Formula Lower Bounds for Iterated Matrix Multiplication, with Applications</title>
+      <link>https://suryajith.github.io/papers/imm-ml/</link>
+      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/papers/imm-ml/</guid>
+      <description>Link to the article
+Authors Suryajith Chillara, Nutan Limaye and Srikanth Srinivasan
+Publisher Information  Journal: SIAM Journal of Computing. 48(1): 70-92, 2019 Conference: STACS 2018, Pages 21:1-21:15  Abstract The complexity of Iterated Matrix Multiplication is a central theme in Computational Complexity theory, as the problem is closely related to the problem of separating various complexity classes within $\mathrm{P}$. In this paper, we study the algebraic formula complexity of multiplying $d$ many $2\times 2$ matrices, denoted $IMM_{d}$, and show that the well-known divide-and-conquer algorithm cannot be significantly improved at any depth, as long as the formulas are multilinear.</description>
+    </item>
+    
+    <item>
+      <title>Exponential Lower Bounds for Some Restricted Depth Five Powering Circuits</title>
+      <link>https://suryajith.github.io/papers/d5-pw-exp/</link>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/papers/d5-pw-exp/</guid>
+      <description>Link to the article
+Authors Suryajith Chillara, Christian Engels, B. V. Raghavendra Rao, Ramprasad Saptharishi and Karteek Sreenivasiah
+Publisher Information  Journal: Chicago Journal of Theoretical Computer Science (accepted)  Abstract Depth five powering circuits are arithmetic circuits of the form $\Sigma\wedge\Sigma\wedge\Sigma$ where $\Sigma$ and $\wedge$ represent gates that compute sum and power of their inputs respectively. Such circuits compute polynomials of the form $\sum_{i=1}^t Q_i^{\alpha_{i}}$, where each $Q_i$ is a sum of powers of linear polynomials.</description>
+    </item>
+    
+    <item>
+      <title>The Chasm at Depth Four, and Tensor Rank: Old results, new insights</title>
+      <link>https://suryajith.github.io/papers/d4-tr/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/papers/d4-tr/</guid>
+      <description>Link to the article
+Authors Suryajith Chillara, Mrinal Kumar, Ramprasad Saptharishi and V. Vinay
+Publisher Information  Preprint: Electron. Colloquium Comput. Complex. 23: 96 (2016)  Abstract Agrawal and Vinay (2008) showed how any polynomial size arithmetic circuit can be thought of as a depth four arithmetic circuit of subexponential size. This unexpected depth reduction to constant depth is in contrast to circuits in the Boolean setting. The resulting circuit size in this simulation was more carefully analyzed by Korian (2011) and subsequently by Tavenas (2013).</description>
+    </item>
+    
+    <item>
+      <title>On the Limits of Depth Reduction at Depth-3 Over Small Finite Fields</title>
+      <link>https://suryajith.github.io/papers/d3-ff-exp/</link>
+      <pubDate>Fri, 25 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/papers/d3-ff-exp/</guid>
+      <description>Link to the article
+Authors Suryajith Chillara and Partha Mukhopadhyay
+Publisher Information  Journal: Information and Computation, Vol 256, Pages 35-44 Conference: MFCS 2014, Vol 2, Pages 177-188  Abstract In a surprising recent result, Gupta-Kamath-Kayal-Saptharishi have proved that over $\mathbb{Q}$ any $n^{O(1)}$-variate and $n$-degree polynomial in $VP$ can also be computed by a depth three $\Sigma\Pi\Sigma$ circuit of size $2^{O(\sqrt{n} \log^{3/2}n)}$. Over fixed-size finite fields, Grigoriev and Karpinski proved that any $\Sigma\Pi\Sigma$ circuit that computes the determinant (or the permanent) polynomial of a $n\times n$ matrix must be of size $2^{\Omega(n)}$.</description>
+    </item>
+    
+    <item>
+      <title>Depth 4 Lower Bounds, Determinantal Complexity : A Unified Approach</title>
+      <link>https://suryajith.github.io/papers/d4-dc/</link>
+      <pubDate>Sun, 02 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/papers/d4-dc/</guid>
+      <description>Link to the article
+Authors Suryajith Chillara and Partha Mukhopadhyay
+Publisher Information  Journal: Computational Complexity 28, pages 545–572 (2019) Conference: STACS 2014, Pages 239-250 (LIPIcs, Vol. 25)  Abstract Tavenas has recently proved that any $n^{O(1)}$-variate and degree $n$ polynomial in $VP$ can be computed by a depth 4 $\Sigma\Pi\Sigma\Pi$ circuit of size $2^{O(\sqrt{n}\log n)}$ (see Tavenas (2013)). So, to prove $VP\neq VNP$ it is sufficient to show that an explicit polynomial in $VNP$ of degree $n$ requires $2^{\omega(\sqrt{n}\log n)}$ size depth 4 circuits.</description>
+    </item>
+    
+    <item>
+      <title>Brief Biography</title>
+      <link>https://suryajith.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/about/</guid>
+      <description>I am an Assistant Professor with Center for Security, Theory and Algorithmic Research (CSTAR) at International Institute of Information Technology, Hyderabad (IIIT Hyderabad).
+My research broadly lies at the interface of Algorithms, Computational Complexity Theory and Coding Theory.
+Previously, I was a post doctoral fellow at University of Haifa mentored by Prof. Noga Ron-Zewi, and at IIT Bombay mentored by Prof. Nutan Limaye. I got my MSc and PhD degrees in Computer Science from Chennai Mathematical Institute (CMI) under the supervision of Prof.</description>
+    </item>
+    
+    <item>
+      <title>CS1.406 Advanced Algorithms (Spring 2022)</title>
+      <link>https://suryajith.github.io/courses/cs1.406spring2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/courses/cs1.406spring2022/</guid>
+      <description>Announcements  Teaching assistants: Dixit Kumar Garg and S Shodasakshari Vidya Schedule: Monday and Thursday, 11:30 &amp;ndash; 12:55 Classroom: SH-2 (2nd floor, C-1 Vindhya)  Problem sets  Problem set 1 (Due: 12.01.2022) Problem set 2 (Due: 30.01.2022)  Lectures   Introduction to Randomized algorithms, RandQS
+ Class notes (Includes the list of tentative topics) References: Chapter 1 of [1], Chapter 1 &amp;amp; Section 2.4 of [2]    Min-Cut, and Las Vegas &amp;amp; Monte carlo</description>
+    </item>
+    
+    <item>
+      <title>Teaching at IIT Bombay</title>
+      <link>https://suryajith.github.io/courses/teachingiitb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/courses/teachingiitb/</guid>
+      <description>CS 604 - Combinatorics (Spring 2019)  Co instructor with Prof. Sundar Vishwanathan.  CS721 - Computational Complexity (Monsoon 2018)  Co instructor with Prof. Nutan Limaye.  </description>
+    </item>
     
   </channel>
 </rss>
