@@ -6,7 +6,18 @@
     <description>Recent content in Papers on Suryajith Chillara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://suryajith.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://suryajith.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Hardness of Testing Equivalence to Sparse Polynomials Under Shifts</title>
+      <link>https://suryajith.github.io/papers/sparsification-hardness/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/papers/sparsification-hardness/</guid>
+      <description>Link to the article
+Authors Suryajith Chillara, Coral Grichener and Amir Shpilka
+Publisher Information  Manuscript  Abstract We say that two given polynomials $f, g \in R[X]$, over a ring $R$, are equivalent under shifts if there exists a vector $a \in R^n$ such that $f(X+a) = g(X)$. Grigoriev and Karpinski (FOCS 1990), Lakshman and Saunders (SICOMP, 1995), and Grigoriev and Lakshman (ISSAC 1995) studied the problem of testing polynomial equivalence of a given polynomial to “any” $t$-sparse polynomial, over the rational numbers, and gave exponential time algorithms.</description>
+    </item>
+    
     <item>
       <title>Functional Lower Bounds for Restricted Arithmetic Circuits of Depth Four</title>
       <link>https://suryajith.github.io/papers/functional/</link>

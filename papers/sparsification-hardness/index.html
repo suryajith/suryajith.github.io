@@ -6,7 +6,7 @@
 <meta name="description"
     content="Link to the article
 Authors Suryajith Chillara, Coral Grichener and Amir Shpilka
-Publisher Information  Manuscript  Abstract We say that two given polynomials $f, g \in R[x_1, \ldots, x_n]$, over a ring $R$, are equivalent under shifts if there exists a vector $(a_1, \ldots, a_n)\in R^N$ such that $f(x_1&#43;a_1, \ldots, x_n&#43;a_n) = g(x_1, \ldots, x_n)$. This is a special variant of the polynomial projection problem in Algebraic Complexity Theory. ">
+Publisher Information  Manuscript  Abstract We say that two given polynomials $f, g \in R[X]$, over a ring $R$, are equivalent under shifts if there exists a vector $a \in R^n$ such that $f(X&#43;a) = g(X)$. Grigoriev and Karpinski (FOCS 1990), Lakshman and Saunders (SICOMP, 1995), and Grigoriev and Lakshman (ISSAC 1995) studied the problem of testing polynomial equivalence of a given polynomial to “any” $t$-sparse polynomial, over the rational numbers, and gave exponential time algorithms. ">
 <link rel="canonical" href="https://suryajith.github.io/papers/sparsification-hardness/" />
 
 <link rel="icon" type="image/x-icon" href="/favicon/favicon.ico">
@@ -66,19 +66,16 @@ Publisher Information  Manuscript  Abstract We say that two given polynomials $f
 <li>Manuscript</li>
 </ul>
 <h2 id="abstract">Abstract</h2>
-<p>We say that two given polynomials $f, g \in R[x_1, \ldots, x_n]$, over a ring $R$, are equivalent under shifts if there exists a vector $(a_1, \ldots, a_n)\in R^N$ such that $f(x_1+a_1, \ldots, x_n+a_n) = g(x_1, \ldots, x_n)$. This is a special variant of the polynomial projection problem in Algebraic Complexity Theory.</p>
-<p>Grigoriev and Karpinski (FOCS 1990), Lakshman and Saunders (SIAM J. Computing, 1995), and Grigoriev and Lakshman (ISSAC 1995) studied the problem of testing polynomial equivalence of a given polynomial to any $t$-sparse polynomial, over the rational numbers, and gave exponential time algorithms. In this paper, we provide  hardness results for this problem.</p>
-<p>Formally, for a ring $R$, let $\mathrm{SparseShift}_R$ be the following decision problem &ndash; Given a polynomial $P(X)$, is there a vector $\mathbf{a}$ such that $P(X+\mathbf{a})$ contains fewer monomials than $P(X)$. We show that $\mathrm{SparseShift}_R$ is at least as hard as checking if a given system of polynomial equations over $R[x_1,\ldots, x_n]$ has a solution (Hilbert&rsquo;s Nullstellensatz).</p>
-<p>As a consequence of this reduction, we get the following results.</p>
+<p>We say that two given polynomials $f, g \in R[X]$, over a ring $R$, are equivalent under shifts if there exists a vector $a \in R^n$ such that $f(X+a) = g(X)$. Grigoriev and Karpinski (FOCS 1990), Lakshman and Saunders (SICOMP, 1995), and Grigoriev and Lakshman (ISSAC 1995) studied the problem of testing polynomial equivalence of a given polynomial to “any” $t$-sparse polynomial, over the rational numbers, and gave exponential time algorithms. In this paper, we provide  hardness results for this problem. Formally, for a ring $R$, let $\mathrm{SparseShift}_R$ be the following decision problem — Given a polynomial $P(X)$, is there a vector $a$ such that $P(X+a)$ contains fewer monomials than $P(X)$. We show that $\mathrm{SparseShift}_R$ is at least as hard as checking if a given system of polynomial equations over $R[x_1,\ldots, x_n]$ has a solution (Hilbert&rsquo;s Nullstellensatz).</p>
+<p>As a consequence of this reduction, we get the following results</p>
 <ol>
 <li>$\mathrm{SparseShift}_\mathbb{Z}$ is undecidable.</li>
-<li>Over the Blum-Shub-Smale model of computation ${\mathrm{SparseShift}}<em>{\mathbb{R}}$ is $NP</em>{\mathbb{R}}$-complete.</li>
+<li>For any ring $R$ (which is not a field) such that $\mathrm{HN}<em>R$ is $\mathrm{NP}<em>R$-complete over the Blum-Shub-Smale model of computation, $\mathrm{SparseShift}</em>{R}$ is also $\mathrm{NP}</em>{R}$-complete.  In particular, $\mathrm{SparseShift}<em>{\mathbb{Z}}$ is also $\mathrm{NP}</em>{\mathbb{Z}}$-complete.</li>
 </ol>
 <p>We also study the gap version of the $\mathrm{SparseShift}_R$ and show the following.</p>
 <ol>
-<li>For all $\alpha &gt;1$, $\alpha$-gap-$\mathrm{SparseShift}_\mathbb{Z}$ is also undecidable.</li>
-<li>For $R=\mathbb{F}_p, \mathbb{Q}, \mathbb{R}$ and $\mathbb{Z}_q$ and for all $\alpha &gt;1$, $\alpha$-gap-$\mathrm{SparseShift}_R$ is $NP$-hard.</li>
-<li>Over the Blum-Shub-Smale model of computation $\alpha$-gap-$\mathrm{SparseShift}<em>{\mathbb{R}}$ is $NP</em>{\mathbb{R}}$-complete, for any $\alpha&gt;1$.</li>
+<li>For every function $\beta:\mathbb{N}\to\mathbb{R}<em>+$ such that $\beta\in o(1)$, $N^\beta$-gap-$\mathrm{SparseShift}</em>\mathbb{Z}$ is also undecidable (where $N$ is the input length).</li>
+<li>For $R=\mathbb{F}_p, \mathbb{Q}, \mathbb{R}$ or $\mathbb{Z}_q$ and for every $\beta&gt;1$  the $\beta$-gap-$\mathrm{SparseShift}_R$ problem is $\mathrm{NP}$-hard.</li>
 </ol>
 
 </div>
