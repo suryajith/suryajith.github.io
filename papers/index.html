@@ -64,16 +64,16 @@
 <li>Manuscript</li>
 </ul>
 <h2 id="abstract">Abstract</h2>
-<p>We say that two given polynomials $f, g \in R[X]$, over a ring $R$, are equivalent under shifts if there exists a vector $a \in R^n$ such that $f(X+a) = g(X)$. Grigoriev and Karpinski (FOCS 1990), Lakshman and Saunders (SICOMP, 1995), and Grigoriev and Lakshman (ISSAC 1995) studied the problem of testing polynomial equivalence of a given polynomial to “any” $t$-sparse polynomial, over the rational numbers, and gave exponential time algorithms. In this paper, we provide  hardness results for this problem. Formally, for a ring $R$, let $\mathrm{SparseShift}_R$ be the following decision problem — Given a polynomial $P(X)$, is there a vector $a$ such that $P(X+a)$ contains fewer monomials than $P(X)$. We show that $\mathrm{SparseShift}_R$ is at least as hard as checking if a given system of polynomial equations over $R[x_1,\ldots, x_n]$ has a solution (Hilbert&rsquo;s Nullstellensatz).</p>
+<p>We say that two given polynomials $f, g \in R[X]$, over a ring $R$, are equivalent under shifts if there exists a vector $a \in R^n$ such that $f(X+a) = g(X)$. This is a special variant of the polynomial projection problem in Algebraic Complexity Theory. Grigoriev and Karpinski (FOCS 1990), Lakshman and Saunders (SICOMP, 1995), and Grigoriev and Lakshman (ISSAC 1995) studied the problem of testing polynomial equivalence of a given polynomial to <em>any</em> $t$-sparse polynomial, over the rational numbers, and gave exponential time algorithms. In this paper, we provide  hardness results for this problem. Formally, for a ring $R$, let $\mathrm{SparseShift}_R$ be the following decision problem — Given a polynomial $P(X)$, is there a vector $a$ such that $P(X+a)$ contains fewer monomials than $P(X)$. We show that $\mathrm{SparseShift}_R$ is at least as hard as checking if a given system of polynomial equations over $R[x_1,\ldots, x_n]$ has a solution (Hilbert&rsquo;s Nullstellensatz).</p>
 <p>As a consequence of this reduction, we get the following results</p>
 <ol>
 <li>$\mathrm{SparseShift}_\mathbb{Z}$ is undecidable.</li>
-<li>For any ring $R$ (which is not a field) such that $\mathrm{HN}<em>R$ is $\mathrm{NP}<em>R$-complete over the Blum-Shub-Smale model of computation, $\mathrm{SparseShift}</em>{R}$ is also $\mathrm{NP}</em>{R}$-complete.  In particular, $\mathrm{SparseShift}<em>{\mathbb{Z}}$ is also $\mathrm{NP}</em>{\mathbb{Z}}$-complete.</li>
+<li>For any ring $R$ (which is not a field) such that $HN_R$ is $NP_R$-complete over the Blum-Shub-Smale model of computation, $\mathrm{SparseShift}_R$ is also $NP_R$-complete.</li>
 </ol>
 <p>We also study the gap version of the $\mathrm{SparseShift}_R$ and show the following.</p>
 <ol>
-<li>For every function $\beta:\mathbb{N}\to\mathbb{R}<em>+$ such that $\beta\in o(1)$, $N^\beta$-gap-$\mathrm{SparseShift}</em>\mathbb{Z}$ is also undecidable (where $N$ is the input length).</li>
-<li>For $R=\mathbb{F}_p, \mathbb{Q}, \mathbb{R}$ or $\mathbb{Z}_q$ and for every $\beta&gt;1$  the $\beta$-gap-$\mathrm{SparseShift}_R$ problem is $\mathrm{NP}$-hard.</li>
+<li>For every positive function $\beta:\mathbb{N}\to \mathbb{R}$ such that $\beta\in o(1)$, $N^\beta$-gap-$\mathrm{SparseShift}_\mathbb{Z}$ is also undecidable (where $N$ is the input length).</li>
+<li>For $R=\mathbb{F}_p, \mathbb{Q}, \mathbb{R}$ or $\mathbb{Z}_q$ and for every $\beta&gt;1$  the $\beta$-gap-$\mathrm{SparseShift}_R$ problem is ${NP}$-hard.</li>
 </ol>
 
     </article>
