@@ -2,14 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://suryajith.github.io/courses/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://suryajith.github.io/courses/cs1.201spring2023/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://suryajith.github.io/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://suryajith.github.io/courses/cs2.201aspring2023/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://suryajith.github.io/courses/cs1.406spring2023/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://suryajith.github.io/courses/cs1.301monsoon2022/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://suryajith.github.io/papers/sparsification-hardness/</loc>
     <lastmod>2022-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://suryajith.github.io/papers/</loc>
     <lastmod>2022-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://suryajith.github.io/</loc>
-    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+    <loc>https://suryajith.github.io/courses/cs1.406spring2022/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://suryajith.github.io/papers/functional/</loc>
     <lastmod>2021-07-20T00:00:00+00:00</lastmod>
@@ -47,12 +65,6 @@
     <loc>https://suryajith.github.io/about/</loc>
   </url><url>
     <loc>https://suryajith.github.io/categories/</loc>
-  </url><url>
-    <loc>https://suryajith.github.io/courses/</loc>
-  </url><url>
-    <loc>https://suryajith.github.io/courses/cs1.301monsoon2022/</loc>
-  </url><url>
-    <loc>https://suryajith.github.io/courses/cs1.406spring2022/</loc>
   </url><url>
     <loc>https://suryajith.github.io/series/</loc>
   </url><url>

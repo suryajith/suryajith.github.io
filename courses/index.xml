@@ -5,11 +5,39 @@
     <link>https://suryajith.github.io/courses/</link>
     <description>Recent content in Courses on Suryajith Chillara</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://suryajith.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://suryajith.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS1.201 Data Structures and Algorithms: Lab (Spring 2023)</title>
+      <link>https://suryajith.github.io/courses/cs1.201spring2023/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/courses/cs1.201spring2023/</guid>
+      <description>Co-instructor with Sujit Gujar and Ravi Kiran S.</description>
+    </item>
+    
+    <item>
+      <title>CS2.201a Computer Systems Organization (Spring 2023)</title>
+      <link>https://suryajith.github.io/courses/cs2.201aspring2023/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/courses/cs2.201aspring2023/</guid>
+      <description>Co-instructor with Girish Varma.</description>
+    </item>
+    
+    <item>
+      <title>CS1.406 Advanced Algorithms (Spring 2023)</title>
+      <link>https://suryajith.github.io/courses/cs1.406spring2023/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/courses/cs1.406spring2023/</guid>
+      <description>Announcements  Teaching assistants: TBA Schedule: Monday and Thursday, 14:00 &amp;ndash; 15:25 Classroom: TBA  References  R. Motwani and P. Raghavan (1995), Randomized Algorithms, Cambridge University Press. M. Mitzenmacher and E. Upfal (2005), Probability and Computing, Cambridge University Press. N. Alon and J. Spencer (2015), The Probabilistic Method, Wiley, USA. V. Shoup (2005), A Computational Introduction to Number Theory and Algebra, Cambridge University Press. J. von zur Gathen and J.</description>
+    </item>
+    
     <item>
       <title>CS1.301 Algorithm Analysis and Design (Monsoon 2022)</title>
       <link>https://suryajith.github.io/courses/cs1.301monsoon2022/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://suryajith.github.io/courses/cs1.301monsoon2022/</guid>
       <description>Announcements  Teaching assistants: Posted on Moodle Schedule: Lectures: Wednesday and Saturday, 10:00 &amp;ndash; 11:25, Tutorial: Wednesday, 14:00 - 15:00 Classroom: H-105  Lectures   Introduction to Algorithm Analysis
@@ -20,7 +48,7 @@
     <item>
       <title>CS1.406 Advanced Algorithms (Spring 2022)</title>
       <link>https://suryajith.github.io/courses/cs1.406spring2022/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://suryajith.github.io/courses/cs1.406spring2022/</guid>
       <description>Announcements  Teaching assistants: Dixit Kumar Garg and S Shodasakshari Vidya Schedule: Monday and Thursday, 11:30 &amp;ndash; 12:55 Classroom: SH-2 (2nd floor, C-1 Vindhya)  Problem sets  Problem set 1 (Due: 12.01.2022) Problem set 2 (Due: 05.02.2022) Problem set 3 (Due: 07.03.2022) Review Problem set  Lectures   Introduction to Randomized algorithms, RandQS
