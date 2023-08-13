@@ -6,7 +6,29 @@
     <description>Recent content in Courses on Suryajith Chillara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://suryajith.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://suryajith.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS1.301 Algorithm Analysis and Design (Monsoon 2023)</title>
+      <link>https://suryajith.github.io/courses/cs1.301monsoon2023/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/courses/cs1.301monsoon2023/</guid>
+      <description>Announcements  Teaching assistants: Posted on Moodle Schedule: Lectures: Tuesday and Friday, 10:00 &amp;ndash; 11:25, Tutorial: Saturday, 12:40 - 13:40 Classroom: H-205  Lectures   Introduction to Algorithm Analysis
+ Class notes (Includes the list of tentative topics) References: Chapter 2 of [1]    Basic Graph Algorithms: Breadth first search
+ Class notes References: Section 3.2 of [1]    Basic Graph Algorithms: Applications of Breadth first search</description>
+    </item>
+    
+    <item>
+      <title>CS1.501 Mathematical Foundations of Data Science (Monsoon 2023)</title>
+      <link>https://suryajith.github.io/courses/mfdsmonsoon2023/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/courses/mfdsmonsoon2023/</guid>
+      <description>Announcements  Instructors: Girish Varma, Suryajith Chillara Teaching assistants: Posted on Moodle Schedule: Lectures: Tuesday and Friday, 14:00 &amp;ndash; 15:25, Tutorial: Saturday, 12:40 - 13:40 Classroom: Digital classroom, B5 Vindhya  Tentative topics Course portal: elearn @ IIIT Hyderabad
+  Estimation from Random Samples
+ Examples in Vote Share surveys, Medical Tests etc. Mathematical Formulation in terms of Random Variables Linearity of Expectation &amp;amp; Tail Bounds Gaussian &amp;amp; Confidence Intervals Predictions, Precision/Recall Curve    WWW Graph, Page Rank &amp;amp; Eigenvalues Matrices, Eigenvalues, Convergence, Page Rank</description>
+    </item>
+    
     <item>
       <title>CS1.201 Data Structures and Algorithms: Lab (Spring 2023)</title>
       <link>https://suryajith.github.io/courses/cs1.201spring2023/</link>

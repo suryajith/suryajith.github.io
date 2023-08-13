@@ -1,0 +1,212 @@
+
+<head>
+<title>Suryajith Chillara - CS1.501 Mathematical Foundations of Data Science (Monsoon 2023)</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description"
+    content="Announcements  Instructors: Girish Varma, Suryajith Chillara Teaching assistants: Posted on Moodle Schedule: Lectures: Tuesday and Friday, 14:00 &ndash; 15:25, Tutorial: Saturday, 12:40 - 13:40 Classroom: Digital classroom, B5 Vindhya  Tentative topics Course portal: elearn @ IIIT Hyderabad
+  Estimation from Random Samples
+ Examples in Vote Share surveys, Medical Tests etc. Mathematical Formulation in terms of Random Variables Linearity of Expectation &amp; Tail Bounds Gaussian &amp; Confidence Intervals Predictions, Precision/Recall Curve    WWW Graph, Page Rank &amp; Eigenvalues Matrices, Eigenvalues, Convergence, Page Rank ">
+<link rel="canonical" href="https://suryajith.github.io/courses/mfdsmonsoon2023/" />
+
+<link rel="icon" type="image/x-icon" href="/favicon/favicon.ico">
+  
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.css">
+
+<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css">
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
+
+
+
+<link rel="stylesheet" href="/css/hugo-tufte.min.css">
+
+<link rel="stylesheet"  href="/css/hugo-tufte-override.css">
+
+
+
+  
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script defer>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']]
+            }
+        };
+    </script>
+
+
+</head>
+
+<body>
+<div id="layout" class="pure-g">
+<article class="pure-u-1">
+
+
+
+
+<div class="container">
+  <h2 class="py-3">CS1.501 Mathematical Foundations of Data Science (Monsoon 2023)</h2>
+  <hr width="85%" align="left">
+  <h2 id="announcements">Announcements</h2>
+<ul>
+<li><strong>Instructors:</strong> <a href="https://girishvarma.in">Girish Varma</a>, Suryajith Chillara</li>
+<li><strong>Teaching assistants:</strong> Posted on Moodle</li>
+<li><strong>Schedule:</strong> Lectures: Tuesday and Friday, 14:00 &ndash; 15:25, Tutorial: Saturday, 12:40 - 13:40</li>
+<li><strong>Classroom:</strong> Digital classroom, B5 Vindhya</li>
+</ul>
+<h2 id="tentative-topics">Tentative topics</h2>
+<p>Course portal: <a href="https://elearn.iiit.ac.in/courses/course-v1:IIITH+CS1.503+Monsoon_2023/course/">elearn @ IIIT Hyderabad</a></p>
+<ol>
+<li>
+<p>Estimation from Random Samples</p>
+<ul>
+<li>Examples in Vote Share surveys, Medical Tests etc.</li>
+<li>Mathematical Formulation in terms of Random Variables</li>
+<li>Linearity of Expectation &amp; Tail Bounds</li>
+<li>Gaussian &amp; Confidence Intervals</li>
+<li>Predictions, Precision/Recall Curve</li>
+</ul>
+</li>
+<li>
+<p>WWW Graph, Page Rank &amp; Eigenvalues
+Matrices, Eigenvalues, Convergence, Page Rank</p>
+<ul>
+<li>World Wide Web Graph and Ranking Problem</li>
+<li>Random Walks and Eigenvalues</li>
+<li>Stationery Distributions and Degree</li>
+<li>Convergence and Second Largest Eigen Value</li>
+</ul>
+</li>
+<li>
+<p>Dimensionality Reduction
+SVD, PCA and Best fit subspaces</p>
+<ul>
+<li>Dimension Reduction Problem</li>
+<li>Examples: Axis of a Spiral Galaxy, Recommender Systems</li>
+<li>Singular Value Decomposition</li>
+<li>Best fit subspaces from SVD</li>
+<li>Low Rank Assumption and Applications</li>
+<li>Projection to Random Subspace (Johnson-Lindenstrauss)</li>
+</ul>
+</li>
+<li>
+<p>Data Streaming Algorithms</p>
+<ul>
+<li>Finding distinct elements, missing numbers and duplicates</li>
+<li>Streaming algorithms</li>
+<li>Fingerprinting Method</li>
+<li>Frequency Moments and k-wise Independence</li>
+<li>Limits of Streaming Algorithms</li>
+</ul>
+</li>
+<li>
+<p>Nearest Neighbor Search, Hashing and Clustering</p>
+<ul>
+<li>Nearest Neighbor Classifier</li>
+<li>Hashing</li>
+<li>Appropriate NN from Locally Sensitive Hashing</li>
+<li>Clustering</li>
+</ul>
+</li>
+<li>
+<p>Sublinear time algorithms</p>
+<ul>
+<li>Property testing</li>
+<li>Sublinear time algorithms for graphs</li>
+<li>Sublinear time algorithms for boolean functions</li>
+<li>Distribution testing</li>
+</ul>
+</li>
+<li>
+<p>Supervised Learning
+PAC Learning. Learning Linear functions using gradient updates. Overfitting</p>
+<ul>
+<li>PAC learning</li>
+<li>Infinite hypothesis classes and VC dimension</li>
+<li>Learning linear functions using gradient updates</li>
+</ul>
+</li>
+</ol>
+<h2 id="references">References</h2>
+<ol>
+<li>Avrim Blum, John Hopcroft, and Ravindran Kannan (2018), Foundations of Data Science, <a href="https://www.cs.cornell.edu/jeh/book.pdf">Free draft on web</a>.</li>
+<li>Martin J. Wainwright and Michael I. Jordan (2018), Graphical Models, Exponential Families, and Variational Inference, <a href="https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf">Now publishers</a>.</li>
+<li>S. Muthukrishnan (2004), Data Streams: Algorithms and Applications, <a href="https://www.cs.princeton.edu/courses/archive/spr04/cos598B/bib/Muthu-Survey.pdf">survey</a>.</li>
+<li>Moran Feldman (2020), Algorithms for Big Data, World Scientific.</li>
+<li>Shai Shalev-Schwartz and Shai Ben David (2014), Understanding Machine Learning: From theory to Algorithms, <a href="https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf">Cambridge University Press</a>.</li>
+</ol>
+
+</div>
+
+
+
+<footer class="page-footer">
+		<hr>
+
+    
+		<div class="previous-post" style="display:inline-block;">
+			<a class="link-reverse" href="/">« Home</a><br/>
+		</div>
+
+		<ul class="page-footer-menu">
+
+      
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+      
+      
+		</ul>
+
+  
+    <p>
+      Powered by <a href="https://gohugo.io">Hugo</a> and the
+      <a href="https://github.com/slashformotion/hugo-tufte">Tufte theme</a>.
+    </p>
+  
+
+	<div class="copyright">
+	<p>
+    
+      &copy; 2023
+    Suryajith C.
+    
+  </p>
+</div>
+</footer>
+
+</article>
+</div>
+</body>
+</html>
