@@ -6,16 +6,34 @@
     <description>Recent content in Courses on Suryajith Chillara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://suryajith.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://suryajith.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS1.301 Algorithm Analysis and Design (Monsoon 2024)</title>
+      <link>https://suryajith.github.io/courses/cs1.301monsoon2024/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/courses/cs1.301monsoon2024/</guid>
+      <description>Announcements  Teaching assistants: Posted on Moodle Schedule: Lectures: Tuesday and Friday, 10:00 &amp;ndash; 11:25, Tutorial: TBA Classroom: TBA  Lectures  Almost the same as the previous years&#39;.  References  J. Kleinberg, and E. Tardos (2005), Algorithm Design, Pearson (Addison Wesley). T. H. Cormen, C. E. Leiserson, R. Rivest, and C. Stein, Introduction to Algorithms (third edition, 2009), MIT press and McGraw Hill. S. Dasgupta, C. Papadimitrou, and U.</description>
+    </item>
+    
+    <item>
+      <title>CS1.406 Advanced Algorithms (Spring 2024)</title>
+      <link>https://suryajith.github.io/courses/cs1.406spring2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/courses/cs1.406spring2024/</guid>
+      <description>Announcements  Teaching assistants: Nithish Raja, Vidit Jain Schedule: Tuesday and Friday, 14:00 &amp;ndash; 15:30 Classroom: H104  Topics   Introduction to Polynomial Identity Testing, Univariate Interpolation, Verifying Matrix Multiplication
+ Class notes References: Section 7.2 &amp;amp; 7.3 of [1], and Section 1.1 &amp;amp; 1.3 of [2].    DeMillo-Lipton-Schwartz–Zippel lemma, The isolation lemma and Mulmuley, Vazirani, and Vazirani algorithm for matching
+ Class notes References: Section 12.4 of [1], Section Moshkovitz&amp;rsquo;s alternate proof of DLSZ lemma, and Mulmuley-Vazirani-Vazirani &amp;lsquo;87    Randomized routing</description>
+    </item>
+    
     <item>
       <title>CS1.301 Algorithm Analysis and Design (Monsoon 2023)</title>
       <link>https://suryajith.github.io/courses/cs1.301monsoon2023/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://suryajith.github.io/courses/cs1.301monsoon2023/</guid>
-      <description>Announcements  Teaching assistants: Posted on Moodle Schedule: Lectures: Tuesday and Friday, 10:00 &amp;ndash; 11:25, Tutorial: Saturday, 12:40 - 13:40 Classroom: H-205  Lectures   Introduction to Algorithm Analysis
- Class notes (Includes the list of tentative topics) References: Chapter 2 of [1]    Basic Graph Algorithms: Breadth first search
- Class notes References: Section 3.2 of [1]    Basic Graph Algorithms: Applications of Breadth first search</description>
+      <description>Announcements  Teaching assistants: Posted on Moodle Schedule: Lectures: Tuesday and Friday, 10:00 &amp;ndash; 11:25, Tutorial: Saturday, 12:40 - 13:40 Classroom: H-205  Lectures  Almost the same as the previous years&#39;.  References  J. Kleinberg, and E. Tardos (2005), Algorithm Design, Pearson (Addison Wesley). T. H. Cormen, C. E. Leiserson, R. Rivest, and C. Stein, Introduction to Algorithms (third edition, 2009), MIT press and McGraw Hill. S. Dasgupta, C.</description>
     </item>
     
     <item>

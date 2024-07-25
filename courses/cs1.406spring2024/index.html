@@ -1,13 +1,13 @@
 
 <head>
-<title>Suryajith Chillara - CS1.406 Advanced Algorithms (Spring 2023)</title>
+<title>Suryajith Chillara - CS1.406 Advanced Algorithms (Spring 2024)</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="description"
-    content="Announcements  Teaching assistants: Amul Agarwal, Kunal Jain, Nithish Raja Schedule: Tuesday and Friday, 15:35 &ndash; 17:00 Classroom: H103  Lectures   Introduction to Randomized algorithms, RandQS
- Class notes (Includes the list of tentative topics) References: Chapter 1 of [1], Chapter 1 &amp; Section 2.4 of [2]    Min-Cut, and Las Vegas &amp; Monte carlo
- Class notes References: Sections 1.1 and 1.2 of [1] and Section 1. ">
-<link rel="canonical" href="https://suryajith.github.io/courses/cs1.406spring2023/" />
+    content="Announcements  Teaching assistants: Nithish Raja, Vidit Jain Schedule: Tuesday and Friday, 14:00 &ndash; 15:30 Classroom: H104  Topics   Introduction to Polynomial Identity Testing, Univariate Interpolation, Verifying Matrix Multiplication
+ Class notes References: Section 7.2 &amp; 7.3 of [1], and Section 1.1 &amp; 1.3 of [2].    DeMillo-Lipton-Schwartz–Zippel lemma, The isolation lemma and Mulmuley, Vazirani, and Vazirani algorithm for matching
+ Class notes References: Section 12.4 of [1], Section Moshkovitz&rsquo;s alternate proof of DLSZ lemma, and Mulmuley-Vazirani-Vazirani &lsquo;87    Randomized routing ">
+<link rel="canonical" href="https://suryajith.github.io/courses/cs1.406spring2024/" />
 
 <link rel="icon" type="image/x-icon" href="/favicon/favicon.ico">
   
@@ -56,67 +56,16 @@
 
 
 <div class="container">
-  <h2 class="py-3">CS1.406 Advanced Algorithms (Spring 2023)</h2>
+  <h2 class="py-3">CS1.406 Advanced Algorithms (Spring 2024)</h2>
   <hr width="85%" align="left">
   <h2 id="announcements">Announcements</h2>
 <ul>
-<li><strong>Teaching assistants:</strong> Amul Agarwal, Kunal Jain, Nithish Raja</li>
-<li><strong>Schedule:</strong> Tuesday and Friday, 15:35 &ndash; 17:00</li>
-<li><strong>Classroom:</strong> H103</li>
+<li><strong>Teaching assistants:</strong> Nithish Raja, Vidit Jain</li>
+<li><strong>Schedule:</strong> Tuesday and Friday, 14:00 &ndash; 15:30</li>
+<li><strong>Classroom:</strong> H104</li>
 </ul>
-<h2 id="lectures">Lectures</h2>
+<h2 id="topics">Topics</h2>
 <ol>
-<li>
-<p>Introduction to Randomized algorithms, RandQS</p>
-<ul>
-<li><a href="/storage/coursework/CS1406/Lecture1.pdf">Class notes</a> (Includes the list of tentative topics)</li>
-<li>References: Chapter 1 of [1], Chapter 1 &amp; Section 2.4 of [2]</li>
-</ul>
-</li>
-<li>
-<p>Min-Cut, and Las Vegas &amp; Monte carlo</p>
-<ul>
-<li><a href="/storage/coursework/CS1406/Lecture2.pdf">Class notes</a></li>
-<li>References: Sections 1.1 and 1.2 of [1] and Section 1.4 of [2].</li>
-</ul>
-</li>
-<li>
-<p>Coupon collector&rsquo;s problem, Markov Inequality, Chebyshev&rsquo;s inequality</p>
-<ul>
-<li><a href="/storage/coursework/CS1406/Lecture3.pdf">Class notes</a></li>
-<li>References: Section 3.6 of [1] and Chapter 3 of [2].</li>
-</ul>
-</li>
-<li>
-<p>Minimum Spanning Trees, Boruvka&rsquo;s algorithm</p>
-<ul>
-<li>References: <a href="http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15850-f20/www/notes/lec1.pdf">Draft notes</a> of Anupam Gupta (CMU), <a href="https://www.cs.jhu.edu/~jason/papers/eisner.mst-tutorial.pdf">Survey</a> by Jason Eisner</li>
-</ul>
-</li>
-<li>
-<p>Karger-Klein-Tarjan Randomized Minimum Spanning Tree</p>
-<ul>
-<li>References: <a href="http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15850-f20/www/notes/lec1.pdf">Draft notes</a> of Anupam Gupta (CMU), <a href="https://www.cs.jhu.edu/~jason/papers/eisner.mst-tutorial.pdf">Survey</a> by Jason Eisner, <a href="https://cs.brown.edu/research/pubs/pdfs/1995/Karger-1995-RLT.pdf">Original paper</a> of Karger-Klein-Tarjan.</li>
-</ul>
-</li>
-<li>
-<p>Karger-Klein-Tarjan Randomized Minimum Spanning Tree (contd.)</p>
-<ul>
-<li>References: <a href="http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15850-f20/www/notes/lec1.pdf">Draft notes</a> of Anupam Gupta (CMU), <a href="https://www.cs.jhu.edu/~jason/papers/eisner.mst-tutorial.pdf">Survey</a> by Jason Eisner, <a href="https://cs.brown.edu/research/pubs/pdfs/1995/Karger-1995-RLT.pdf">Original paper</a> of Karger-Klein-Tarjan.</li>
-</ul>
-</li>
-<li>
-<p>Introduction to Matroids</p>
-<ul>
-<li>References: <a href="https://jeffe.cs.illinois.edu/teaching/algorithms/notes/E-matroids.pdf">Extra material</a> from Jeff Erickson&rsquo;s book, <a href="https://www.youtube.com/watch?v=a5W3oQ8gdtw&amp;t=1s">NPTEL video</a> of Prof. Shashank Mehta.</li>
-</ul>
-</li>
-<li>
-<p>Matroids (contd.)</p>
-<ul>
-<li>References: <a href="https://jeffe.cs.illinois.edu/teaching/algorithms/notes/E-matroids.pdf">Extra material</a> from Jeff Erickson&rsquo;s book, <a href="https://www.youtube.com/watch?v=a5W3oQ8gdtw&amp;t=1s">NPTEL video</a> of Prof. Shashank Mehta.</li>
-</ul>
-</li>
 <li>
 <p>Introduction to Polynomial Identity Testing, Univariate Interpolation, Verifying Matrix Multiplication</p>
 <ul>
@@ -132,20 +81,6 @@
 </ul>
 </li>
 <li>
-<p>Concentration bounds</p>
-<ul>
-<li><a href="/storage/coursework/CS1406/Lecture5.pdf">Class notes</a></li>
-<li>References: Chapter 4 of [2].</li>
-</ul>
-</li>
-<li>
-<p>Chernoff bound, Error reduction, Set balancing</p>
-<ul>
-<li><a href="/storage/coursework/CS1406/Lecture5.pdf">Class notes</a></li>
-<li>References: Chapter 4 of [2].</li>
-</ul>
-</li>
-<li>
 <p>Randomized routing</p>
 <ul>
 <li><a href="/storage/coursework/CS1406/Lecture8.pdf">Class notes</a></li>
@@ -153,27 +88,21 @@
 </ul>
 </li>
 <li>
-<p>Randomized routing (contd.), Maximum Satisfiability</p>
-<ul>
-<li><a href="/storage/coursework/CS1406/Lecture9.pdf">Class notes</a></li>
-<li>References: Section 5.2 of [1], and Section 6.2.2 of [2].</li>
-</ul>
-</li>
-<li>
-<p>MAXCUT, Derandomization with conditional probabilities</p>
+<p>MaxSAT, MaxCUT, Derandomization with conditional probabilities</p>
 <ul>
 <li><a href="/storage/coursework/CS1406/Lecture10.pdf">Class notes</a></li>
 <li>References: Section 6.2 and 6.3 of [2].</li>
 </ul>
 </li>
 <li>
-<p>Introduction to Quantum Algorithms (guest lecture by Kannan Srinathan)</p>
+<p>Min-Cut, and Las Vegas &amp; Monte carlo</p>
+<ul>
+<li><a href="/storage/coursework/CS1406/Lecture2.pdf">Class notes</a></li>
+<li>References: Sections 1.1 and 1.2 of [1] and Section 1.4 of [2].</li>
+</ul>
 </li>
 <li>
-<p>Shor&rsquo;s integer factoring (guest lecture by Kannan Srinathan)</p>
-</li>
-<li>
-<p>Approximate counting: DNFs</p>
+<p>Approximate Counting &amp; Approximate Sampling</p>
 <ul>
 <li><a href="/storage/coursework/CS1406/Lecture17.pdf">Class notes</a></li>
 <li>References: Section 11.2 of [1] and Sections 10.1 and 10.2 of [2].</li>
@@ -201,9 +130,17 @@
 </ul>
 </li>
 <li>
-<p>Goemans-Williamson algorithm for MAXCUT</p>
+<p>Concentration bounds</p>
 <ul>
-<li>References: <a href="https://math.mit.edu/~goemans/PAPERS/maxcut-jacm.pdf">Original paper</a> of Goemans and Williamson.</li>
+<li><a href="/storage/coursework/CS1406/Lecture5.pdf">Class notes</a></li>
+<li>References: Chapter 4 of [2].</li>
+</ul>
+</li>
+<li>
+<p>Chernoff bound, Error reduction, Set balancing</p>
+<ul>
+<li><a href="/storage/coursework/CS1406/Lecture5.pdf">Class notes</a></li>
+<li>References: Chapter 4 of [2].</li>
 </ul>
 </li>
 </ol>
