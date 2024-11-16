@@ -23,8 +23,8 @@
       
       <guid>https://suryajith.github.io/courses/cs1.406spring2024/</guid>
       <description>Announcements  Teaching assistants: Nithish Raja, Vidit Jain Schedule: Tuesday and Friday, 14:00 &amp;ndash; 15:30 Classroom: H104  Topics   Introduction to Polynomial Identity Testing, Univariate Interpolation, Verifying Matrix Multiplication
- Class notes References: Section 7.2 &amp;amp; 7.3 of [1], and Section 1.1 &amp;amp; 1.3 of [2].    DeMillo-Lipton-Schwartz–Zippel lemma, The isolation lemma and Mulmuley, Vazirani, and Vazirani algorithm for matching
- Class notes References: Section 12.4 of [1], Section Moshkovitz&amp;rsquo;s alternate proof of DLSZ lemma, and Mulmuley-Vazirani-Vazirani &amp;lsquo;87    Randomized routing</description>
+ References: Section 7.2 &amp;amp; 7.3 of [1], and Section 1.1 &amp;amp; 1.3 of [2].    DeMillo-Lipton-Schwartz–Zippel lemma, The isolation lemma and Mulmuley, Vazirani, and Vazirani algorithm for matching
+ References: Section 12.4 of [1], Section Moshkovitz&amp;rsquo;s alternate proof of DLSZ lemma, and Mulmuley-Vazirani-Vazirani &amp;lsquo;87    Randomized routing</description>
     </item>
     
     <item>
@@ -73,9 +73,9 @@
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://suryajith.github.io/courses/cs1.406spring2023/</guid>
-      <description>Announcements  Teaching assistants: Amul Agarwal, Kunal Jain, Nithish Raja Schedule: Tuesday and Friday, 15:35 &amp;ndash; 17:00 Classroom: H103  Lectures   Introduction to Randomized algorithms, RandQS
- Class notes (Includes the list of tentative topics) References: Chapter 1 of [1], Chapter 1 &amp;amp; Section 2.4 of [2]    Min-Cut, and Las Vegas &amp;amp; Monte carlo
- Class notes References: Sections 1.1 and 1.2 of [1] and Section 1.</description>
+      <description>Announcements  Teaching assistants: Amul Agarwal, Kunal Jain, Nithish Raja Schedule: Tuesday and Friday, 15:35 &amp;ndash; 17:00 Classroom: H103  Lectures   Introduction to Randomized algorithms, RandQS (Includes the list of tentative topics)
+ References: Chapter 1 of [1], Chapter 1 &amp;amp; Section 2.4 of [2]    Min-Cut, and Las Vegas &amp;amp; Monte carlo
+ References: Sections 1.1 and 1.2 of [1] and Section 1.4 of [2].    Coupon collector&amp;rsquo;s problem, Markov Inequality, Chebyshev&amp;rsquo;s inequality</description>
     </item>
     
     <item>
@@ -85,8 +85,9 @@
       
       <guid>https://suryajith.github.io/courses/cs1.301monsoon2022/</guid>
       <description>Announcements  Teaching assistants: Posted on Moodle Schedule: Lectures: Wednesday and Saturday, 10:00 &amp;ndash; 11:25, Tutorial: Wednesday, 14:00 - 15:00 Classroom: H-105  Lectures   Introduction to Algorithm Analysis
- Class notes (Includes the list of tentative topics) References: Chapter 2 of [1]    Basic Graph Algorithms: BFS and DFS
- Class notes References: Section 3.2 of [1]    Basic Graph Algorithms: DFS (contd), and Testing bipartiteness</description>
+ References: Chapter 2 of [1]    Basic Graph Algorithms: BFS and DFS
+ References: Section 3.2 of [1]    Basic Graph Algorithms: DFS (contd), and Testing bipartiteness
+ References: Sections 3.3 and 3.4 of [1]    Basic Graph Algorithms: Testing bipartiteness, Search algorithms on Directed graphs</description>
     </item>
     
     <item>
@@ -95,8 +96,9 @@
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://suryajith.github.io/courses/cs1.406spring2022/</guid>
-      <description>Announcements  Teaching assistants: Dixit Kumar Garg and S Shodasakshari Vidya Schedule: Monday and Thursday, 11:30 &amp;ndash; 12:55 Classroom: SH-2 (2nd floor, C-1 Vindhya)  Problem sets  Problem set 1 (Due: 12.01.2022) Problem set 2 (Due: 05.02.2022) Problem set 3 (Due: 07.03.2022) Review Problem set  Lectures   Introduction to Randomized algorithms, RandQS
- Class notes (Includes the list of tentative topics) References: Chapter 1 of [1], Chapter 1 &amp;amp; Section 2.</description>
+      <description>Announcements  Teaching assistants: Dixit Kumar Garg and S Shodasakshari Vidya Schedule: Monday and Thursday, 11:30 &amp;ndash; 12:55 Classroom: SH-2 (2nd floor, C-1 Vindhya)  Lectures   Introduction to Randomized algorithms, RandQS (Includes the list of tentative topics)
+ References: Chapter 1 of [1], Chapter 1 &amp;amp; Section 2.4 of [2]    Min-Cut, and Las Vegas &amp;amp; Monte carlo
+ References: Sections 1.1 and 1.2 of [1] and Section 1.</description>
     </item>
     
     <item>
