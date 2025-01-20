@@ -6,7 +6,48 @@
     <description>Recent content on Suryajith Chillara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://suryajith.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://suryajith.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fractional Subadditivity of Submodular Functions: Equality Conditions and Their Applications</title>
+      <link>https://suryajith.github.io/papers/fracsubadd-equality/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/papers/fracsubadd-equality/</guid>
+      <description>Authors Gunank Jahkar, Gowtham R. Kurri, Suryajith Chillara, and Vinod M. Prabhakaran
+Publisher Information  Under submission  Abstract Submodular functions are known to satisfy various forms of fractional subadditivity. This work investigates the conditions for equality to hold exactly or approximately in the fractional subadditivity of submodular functions. We establish that a small gap in the inequality implies that the function is close to being modular, and that the gap is zero if and only if the function is modular.</description>
+    </item>
+    
+    <item>
+      <title>CS1.406 Advanced Algorithms (Spring 2025)</title>
+      <link>https://suryajith.github.io/courses/cs1.406spring2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/courses/cs1.406spring2025/</guid>
+      <description>Announcements  Teaching assistants: Schedule: Monday and Friday, 11:40 &amp;ndash; 13:05 Classroom: H204  Lectures </description>
+    </item>
+    
+    <item>
+      <title>CS1.503 Mathematical Foundations of Data Science (Spring 2025)</title>
+      <link>https://suryajith.github.io/courses/mfdsspring2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/courses/mfdsspring2025/</guid>
+      <description>Announcements  Instructors: Girish Varma, Suryajith Chillara Teaching assistants: Schedule: Lectures: Tuesday and Friday, 14:00 &amp;ndash; 15:25 Classroom: H203  Tentative topics   Estimation from Random Samples
+ Examples in Vote Share surveys, Medical Tests etc. Mathematical Formulation in terms of Random Variables Linearity of Expectation &amp;amp; Tail Bounds Gaussian &amp;amp; Confidence Intervals Predictions, Precision/Recall Curve    WWW Graph, Page Rank &amp;amp; Eigenvalues
+ World Wide Web Graph and Ranking Problem Random Walks and Eigenvalues Stationery Distributions and Degree Convergence and Second Largest Eigen Value    Dimensionality Reduction</description>
+    </item>
+    
+    <item>
+      <title>Branching Programs with Extended Memory: New Insights</title>
+      <link>https://suryajith.github.io/papers/sbp-vnp/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/papers/sbp-vnp/</guid>
+      <description>Link to the article
+Authors Suryajith Chillara and Nithish Raja
+Publisher Information Abstract One of the central themes of Algebraic Complexity Theory is to understand the relative computation power of algebraic complexity classes $\mathsf{VP}$ and $\mathsf{VNP}$. $\mathsf{VP}$ is a class of polynomial families which can be computed efficiently by algebraic circuits. $\mathsf{VNP}$ is a class of polynomials which can be efficiently expressed through polynomial families in $\mathsf{VP}$, but we do not know if they can be computed efficiently.</description>
+    </item>
+    
     <item>
       <title>CS1.301 Algorithm Analysis and Design (Monsoon 2024)</title>
       <link>https://suryajith.github.io/courses/cs1.301monsoon2024/</link>

@@ -6,7 +6,28 @@
     <description>Recent content in Papers on Suryajith Chillara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://suryajith.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://suryajith.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fractional Subadditivity of Submodular Functions: Equality Conditions and Their Applications</title>
+      <link>https://suryajith.github.io/papers/fracsubadd-equality/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/papers/fracsubadd-equality/</guid>
+      <description>Authors Gunank Jahkar, Gowtham R. Kurri, Suryajith Chillara, and Vinod M. Prabhakaran
+Publisher Information  Under submission  Abstract Submodular functions are known to satisfy various forms of fractional subadditivity. This work investigates the conditions for equality to hold exactly or approximately in the fractional subadditivity of submodular functions. We establish that a small gap in the inequality implies that the function is close to being modular, and that the gap is zero if and only if the function is modular.</description>
+    </item>
+    
+    <item>
+      <title>Branching Programs with Extended Memory: New Insights</title>
+      <link>https://suryajith.github.io/papers/sbp-vnp/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/papers/sbp-vnp/</guid>
+      <description>Link to the article
+Authors Suryajith Chillara and Nithish Raja
+Publisher Information Abstract One of the central themes of Algebraic Complexity Theory is to understand the relative computation power of algebraic complexity classes $\mathsf{VP}$ and $\mathsf{VNP}$. $\mathsf{VP}$ is a class of polynomial families which can be computed efficiently by algebraic circuits. $\mathsf{VNP}$ is a class of polynomials which can be efficiently expressed through polynomial families in $\mathsf{VP}$, but we do not know if they can be computed efficiently.</description>
+    </item>
+    
     <item>
       <title>On Hardness of Testing Equivalence to Sparse Polynomials Under Shifts</title>
       <link>https://suryajith.github.io/papers/sparsification-hardness/</link>

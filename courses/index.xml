@@ -6,7 +6,27 @@
     <description>Recent content in Courses on Suryajith Chillara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://suryajith.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://suryajith.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS1.406 Advanced Algorithms (Spring 2025)</title>
+      <link>https://suryajith.github.io/courses/cs1.406spring2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/courses/cs1.406spring2025/</guid>
+      <description>Announcements  Teaching assistants: Schedule: Monday and Friday, 11:40 &amp;ndash; 13:05 Classroom: H204  Lectures </description>
+    </item>
+    
+    <item>
+      <title>CS1.503 Mathematical Foundations of Data Science (Spring 2025)</title>
+      <link>https://suryajith.github.io/courses/mfdsspring2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryajith.github.io/courses/mfdsspring2025/</guid>
+      <description>Announcements  Instructors: Girish Varma, Suryajith Chillara Teaching assistants: Schedule: Lectures: Tuesday and Friday, 14:00 &amp;ndash; 15:25 Classroom: H203  Tentative topics   Estimation from Random Samples
+ Examples in Vote Share surveys, Medical Tests etc. Mathematical Formulation in terms of Random Variables Linearity of Expectation &amp;amp; Tail Bounds Gaussian &amp;amp; Confidence Intervals Predictions, Precision/Recall Curve    WWW Graph, Page Rank &amp;amp; Eigenvalues
+ World Wide Web Graph and Ranking Problem Random Walks and Eigenvalues Stationery Distributions and Degree Convergence and Second Largest Eigen Value    Dimensionality Reduction</description>
+    </item>
+    
     <item>
       <title>CS1.301 Algorithm Analysis and Design (Monsoon 2024)</title>
       <link>https://suryajith.github.io/courses/cs1.301monsoon2024/</link>
