@@ -26,7 +26,7 @@ Publisher Information  Under submission  Abstract Submodular functions are known
       <guid>https://suryajith.github.io/papers/sbp-vnp/</guid>
       <description>Link to the article
 Authors Suryajith Chillara and Nithish Raja
-Publisher Information Abstract One of the central themes of Algebraic Complexity Theory is to understand the relative computation power of algebraic complexity classes $\mathsf{VP}$ and $\mathsf{VNP}$. $\mathsf{VP}$ is a class of polynomial families which can be computed efficiently by algebraic circuits. $\mathsf{VNP}$ is a class of polynomials which can be efficiently expressed through polynomial families in $\mathsf{VP}$, but we do not know if they can be computed efficiently.</description>
+Publisher Information  Conf: CIAC 2025 (to appear)  Abstract One of the central themes of Algebraic Complexity Theory is to understand the relative computation power of algebraic complexity classes $\mathsf{VP}$ and $\mathsf{VNP}$. $\mathsf{VP}$ is a class of polynomial families which can be computed efficiently by algebraic circuits. $\mathsf{VNP}$ is a class of polynomials which can be efficiently expressed through polynomial families in $\mathsf{VP}$, but we do not know if they can be computed efficiently.</description>
     </item>
     
     <item>
