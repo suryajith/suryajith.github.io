@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Students – Suryajith Chillara</title>
+<title>Research – Suryajith Chillara</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,6 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -65,12 +67,83 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-papers .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-url','listing-authors','listing-venue','listing-type','listing-year',{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: ["listing-title","listing-url","listing-authors","listing-venue","listing-type","listing-year"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-papers'] = new List('listing-papers', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
+  <script>document.addEventListener("DOMContentLoaded", function () {
+ var mathElements = document.getElementsByClassName("math");
+ var macros = [];
+ for (var i = 0; i < mathElements.length; i++) {
+  var texText = mathElements[i].firstChild;
+  if (mathElements[i].tagName == "SPAN") {
+   katex.render(texText.data, mathElements[i], {
+    displayMode: mathElements[i].classList.contains('display'),
+    throwOnError: false,
+    macros: macros,
+    fleqn: false
+   });
+}}});
+  </script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css">
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="Students – Suryajith Chillara">
-<meta property="og:description" content="">
+<meta property="og:title" content="Research – Suryajith Chillara">
 <meta property="og:site_name" content="Suryajith Chillara">
 </head>
 
@@ -96,11 +169,11 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../research/index.html"> 
+    <a class="nav-link active" href="../research/index.html" aria-current="page"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../students/index.html" aria-current="page"> 
+    <a class="nav-link" href="../students/index.html"> 
 <span class="menu-text">Students</span></a>
   </li>  
   <li class="nav-item">
@@ -126,11 +199,11 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content page-columns page-full column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Students</h1>
+<h1 class="title">Research</h1>
 </div>
 
 
@@ -147,39 +220,95 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="column-body-outset">
 <p>
 &nbsp;
 </p>
-<section id="phd" class="level3">
-<h3 class="anchored" data-anchor-id="phd">PhD</h3>
-<ul>
-<li>Gunank Singh Jakhar (2023 - , Jointly with <a href="https://sites.google.com/view/gowtham-r-kurri/home">Gowtham R. Kurri</a>)</li>
-</ul>
-</section>
-<section id="masters" class="level3">
-<h3 class="anchored" data-anchor-id="masters">Masters</h3>
-<ul>
-<li>Pruthvi Boyapati (2024 - , Jointly with <a href="https://sites.google.com/view/kshitijgajjar/">Kshitij Gajjar</a>)</li>
-<li><a href="https://nithishraja.github.io">Nithish Raja</a> (2022 - 2024, → PhD position at TU/e) – <a href="https://www.google.com/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://web2py.iiit.ac.in/research_centres/publications/download/mastersthesis.pdf.86a3ccef6b72d7b7.4e6974686973685f52616a615f5468657369732e706466.pdf&amp;ved=2ahUKEwjQgJOPhqqLAxW8d2wGHd9dEFYQFnoECBoQAQ&amp;usg=AOvVaw1ZzD2H7DngsOeZM1DpApu6"> MS Thesis </a></li>
-</ul>
-</section>
-<section id="dual-degree" class="level3">
-<h3 class="anchored" data-anchor-id="dual-degree">Dual Degree</h3>
-<ul>
-<li>Keval Jain (2023 - , Jointly with <a href="https://girishvarma.in">Girish Varma</a>)</li>
-<li>Kriti Gupta (2023 - , Jointly with <a href="https://girishvarma.in">Girish Varma</a>)</li>
-<li>Anushka Jain (2024 - )</li>
-</ul>
-</section>
-<section id="honours" class="level3">
-<h3 class="anchored" data-anchor-id="honours">Honours</h3>
-<ul>
-<li>Chitturi Meghana Sai Rama Lakshmi (2023 - )</li>
-<li>Arnav Negi (2024 - )</li>
-</ul>
+<div id="listing-papers" class="quarto-listing quarto-listing-container-custom">
+<table class="quarto-listing-table table caption-top" data-quarto-postprocess="true">
+<tbody class="list">
+<tr class="odd" data-categories="null" data-index="0">
+<td class="listing-url"><span><a href="../research/papers/fracsubadd-equality.html"><span class="bi bi-link"></span></a></span></td>
+<td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">G. Jakhar, G. R. Kurri, S. Chillara, and V. M. Prabhakaran, <a href="../research/papers/fracsubadd-equality.html">Fractional Subadditivity of Submodular Functions, Equality Conditions and Their Applications</a>, Under Submission</span></td>
+<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="preprint" style="background:grey;">preprint</span></td>
+</tr>
+<tr class="even" data-categories="null" data-index="1">
+<td class="listing-url"><span><a href="../research/papers/sbp-vnp.html"><span class="bi bi-link"></span></a></span></td>
+<td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara and N. Raja, <a href="../research/papers/sbp-vnp.html">Branching Programs with Extended Memory, New Insights</a>, CIAC 2025</span></td>
+<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="conf" style="background:darkorchid;">conf</span></td>
+</tr>
+<tr class="odd" data-categories="null" data-index="2">
+<td class="listing-url"><span><a href="../research/papers/sparsification-hardness.html"><span class="bi bi-link"></span></a></span></td>
+<td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, C. Grichener, and A. Shpilka, <a href="../research/papers/sparsification-hardness.html">On Hardness of Testing Equivalence to Sparse Polynomials Under Shifts</a>, STACS 2023</span></td>
+<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="conf" style="background:darkorchid;">conf</span></td>
+</tr>
+<tr class="even" data-categories="null" data-index="3">
+<td class="listing-url"><span><a href="../research/papers/functional.html"><span class="bi bi-link"></span></a></span></td>
+<td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, <a href="../research/papers/functional.html">Functional Lower Bounds for Restricted Arithmetic Circuits of Depth Four</a>, FSTTCS 2021</span></td>
+<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="conf" style="background:darkorchid;">conf</span></td>
+</tr>
+<tr class="odd" data-categories="null" data-index="4">
+<td class="listing-url"><span><a href="../research/papers/multiric-d4-exp.html"><span class="bi bi-link"></span></a></span></td>
+<td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, <a href="../research/papers/multiric-d4-exp.html">New Exponential Size Lower Bounds against Depth Four Circuits of Bounded Individual Degree</a>, Electron. Colloquium Comput. Complex.</span></td>
+<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="preprint" style="background:grey;">preprint</span></td>
+</tr>
+<tr class="even" data-categories="null" data-index="5">
+<td class="listing-url"><span><a href="../research/papers/multiric-d4-qpoly.html"><span class="bi bi-link"></span></a></span></td>
+<td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, <a href="../research/papers/multiric-d4-qpoly.html">On Computing Multilinear Polynomials using Multi-ic Depth Four Circuits</a>, ACM Transactions on Computation Theory</span></td>
+<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="journal" style="background:olivedrab;">journal</span></td>
+</tr>
+<tr class="odd" data-categories="null" data-index="6">
+<td class="listing-url"><span><a href="../research/papers/multiric-homform.html"><span class="bi bi-link"></span></a></span></td>
+<td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, <a href="../research/papers/multiric-homform.html">Slightly Improved Lower Bounds for Homogeneous Multi-r-ic Formulas of Small-Depth</a>, Information Processing Letters</span></td>
+<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="journal" style="background:olivedrab;">journal</span></td>
+</tr>
+<tr class="even" data-categories="null" data-index="7">
+<td class="listing-url"><span><a href="../research/papers/imm-ml.html"><span class="bi bi-link"></span></a></span></td>
+<td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, N. Limaye, and S. Srinivasan, <a href="../research/papers/imm-ml.html">Small-depth Multilinear Formula Lower Bounds for Iterated Matrix Multiplication, with Applications</a>, SIAM Journal of Computing</span></td>
+<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="journal" style="background:olivedrab;">journal</span></td>
+</tr>
+<tr class="odd" data-categories="null" data-index="8">
+<td class="listing-url"><span><a href="../research/papers/d4-dc.html"><span class="bi bi-link"></span></a></span></td>
+<td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara and P. Mukhopadhyay, <a href="../research/papers/d4-dc.html">Depth 4 Lower Bounds, Determinantal Complexity, A Unified Approach</a>, Computational Complexity</span></td>
+<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="journal" style="background:olivedrab;">journal</span></td>
+</tr>
+<tr class="even" data-categories="null" data-index="9">
+<td class="listing-url"><span><a href="../research/papers/ml-dh.html"><span class="bi bi-link"></span></a></span></td>
+<td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, C. Engels, N. Limaye, and S. Srinivasan, <a href="../research/papers/ml-dh.html">A Near-Optimal Depth-Hierarchy Theorem for Small-Depth Multilinear Circuits</a>, FOCS 2018</span></td>
+<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="conf" style="background:darkorchid;">conf</span></td>
+</tr>
+<tr class="odd" data-categories="null" data-index="10">
+<td class="listing-url"><span><a href="../research/papers/ml-sh.html"><span class="bi bi-link"></span></a></span></td>
+<td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, N. Limaye, and S. Srinivasan, <a href="../research/papers/ml-sh.html">A Quadratic Size-Hierarchy Theorem for Small-Depth Multilinear Formulas</a>, ICALP 2018</span></td>
+<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="conf" style="background:darkorchid;">conf</span></td>
+</tr>
+<tr class="even" data-categories="null" data-index="11">
+<td class="listing-url"><span><a href="../research/papers/d5-pw-exp.html"><span class="bi bi-link"></span></a></span></td>
+<td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, C. Engels, B. V. R. Rao, R. Saptharishi, and K. Sreenivasiah, <a href="../research/papers/d5-pw-exp.html">Exponential Lower Bounds for Some Restricted Depth Five Powering Circuits</a>, Chicago Journal of Theoretical Computer Science</span></td>
+<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="journal" style="background:olivedrab;">journal</span></td>
+</tr>
+<tr class="odd" data-categories="null" data-index="12">
+<td class="listing-url"><span><a href="../research/papers/d4-tr.html"><span class="bi bi-link"></span></a></span></td>
+<td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, M. Kumar, R. Saptharishi, and V. Vinay, <a href="../research/papers/d4-tr.html">The Chasm at Depth Four, and Tensor Rank, Old results, new insights</a>, Electron. Colloquium Comput. Complex.</span></td>
+<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="preprint" style="background:grey;">preprint</span></td>
+</tr>
+<tr class="even" data-categories="null" data-index="13">
+<td class="listing-url"><span><a href="../research/papers/d3-ff-exp.html"><span class="bi bi-link"></span></a></span></td>
+<td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara and P. Mukhopadhyay, <a href="../research/papers/d3-ff-exp.html">On the Limits of Depth Reduction at Depth-3 Over Small Finite Fields</a>, Information and Computation</span></td>
+<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="journal" style="background:olivedrab;">journal</span></td>
+</tr>
+</tbody>
+</table>
 
 
-</section>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+
+
+
+</div>
 
 </main> <!-- /main -->
 <footer>

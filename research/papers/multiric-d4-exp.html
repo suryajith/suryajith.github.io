@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2020-06-15">
 
-<title>Students – Suryajith Chillara</title>
+<title>New Exponential Size Lower Bounds against Depth Four Circuits of Bounded Individual Degree – Suryajith Chillara</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,21 +24,21 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-3827a8487ac4149603024367d5dc113d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-3827a8487ac4149603024367d5dc113d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,9 +68,52 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
+  <script>document.addEventListener("DOMContentLoaded", function () {
+ var mathElements = document.getElementsByClassName("math");
+ var macros = [];
+ for (var i = 0; i < mathElements.length; i++) {
+  var texText = mathElements[i].firstChild;
+  if (mathElements[i].tagName == "SPAN") {
+   katex.render(texText.data, mathElements[i], {
+    displayMode: mathElements[i].classList.contains('display'),
+    throwOnError: false,
+    macros: macros,
+    fleqn: false
+   });
+}}});
+  </script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css">
 
-<link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="Students – Suryajith Chillara">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="New Exponential Size Lower Bounds against Depth Four Circuits of Bounded Individual Degree – Suryajith Chillara">
 <meta property="og:description" content="">
 <meta property="og:site_name" content="Suryajith Chillara">
 </head>
@@ -81,7 +125,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Suryajith Chillara</span>
     </a>
   </div>
@@ -92,25 +136,25 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../research/index.html"> 
+    <a class="nav-link" href="../../research/index.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../students/index.html" aria-current="page"> 
+    <a class="nav-link" href="../../students/index.html"> 
 <span class="menu-text">Students</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../teaching/index.html"> 
+    <a class="nav-link" href="../../teaching/index.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../contact/index.html"> 
+    <a class="nav-link" href="../../contact/index.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -121,23 +165,45 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#authors" id="toc-authors" class="nav-link active" data-scroll-target="#authors">Authors</a></li>
+  <li><a href="#publisher-information" id="toc-publisher-information" class="nav-link" data-scroll-target="#publisher-information">Publisher Information</a></li>
+  <li><a href="#abstract" id="toc-abstract" class="nav-link" data-scroll-target="#abstract">Abstract</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Students</h1>
+<h1 class="title">New Exponential Size Lower Bounds against Depth Four Circuits of Bounded Individual Degree</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>S. Chillara </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">June 15, 2020</p>
+    </div>
+  </div>
   
     
   </div>
@@ -147,36 +213,21 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>
-&nbsp;
-</p>
-<section id="phd" class="level3">
-<h3 class="anchored" data-anchor-id="phd">PhD</h3>
+<p><a href="../../storage/papers/exp-ml-mkic-d4.pdf">Link to the article</a></p>
+<section id="authors" class="level3">
+<h3 class="anchored" data-anchor-id="authors">Authors</h3>
+<p>Suryajith Chillara</p>
+</section>
+<section id="publisher-information" class="level3">
+<h3 class="anchored" data-anchor-id="publisher-information">Publisher Information</h3>
 <ul>
-<li>Gunank Singh Jakhar (2023 - , Jointly with <a href="https://sites.google.com/view/gowtham-r-kurri/home">Gowtham R. Kurri</a>)</li>
+<li>Preprint: <a href="https://eccc.weizmann.ac.il/report/2020/033/">Electron. Colloquium Comput. Complex. 27: 33 (2020)</a></li>
 </ul>
 </section>
-<section id="masters" class="level3">
-<h3 class="anchored" data-anchor-id="masters">Masters</h3>
-<ul>
-<li>Pruthvi Boyapati (2024 - , Jointly with <a href="https://sites.google.com/view/kshitijgajjar/">Kshitij Gajjar</a>)</li>
-<li><a href="https://nithishraja.github.io">Nithish Raja</a> (2022 - 2024, → PhD position at TU/e) – <a href="https://www.google.com/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://web2py.iiit.ac.in/research_centres/publications/download/mastersthesis.pdf.86a3ccef6b72d7b7.4e6974686973685f52616a615f5468657369732e706466.pdf&amp;ved=2ahUKEwjQgJOPhqqLAxW8d2wGHd9dEFYQFnoECBoQAQ&amp;usg=AOvVaw1ZzD2H7DngsOeZM1DpApu6"> MS Thesis </a></li>
-</ul>
-</section>
-<section id="dual-degree" class="level3">
-<h3 class="anchored" data-anchor-id="dual-degree">Dual Degree</h3>
-<ul>
-<li>Keval Jain (2023 - , Jointly with <a href="https://girishvarma.in">Girish Varma</a>)</li>
-<li>Kriti Gupta (2023 - , Jointly with <a href="https://girishvarma.in">Girish Varma</a>)</li>
-<li>Anushka Jain (2024 - )</li>
-</ul>
-</section>
-<section id="honours" class="level3">
-<h3 class="anchored" data-anchor-id="honours">Honours</h3>
-<ul>
-<li>Chitturi Meghana Sai Rama Lakshmi (2023 - )</li>
-<li>Arnav Negi (2024 - )</li>
-</ul>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Kayal, Saha and Tavenas [Theory of Computing, 2018] showed that for all large enough integers <span class="math inline">n</span> and <span class="math inline">d</span> such that <span class="math inline">d\geq \omega(\log{n})</span>, any syntactic depth four circuit of bounded individual degree <span class="math inline">\delta = o(d)</span> that computes the Iterated Matrix Multiplication polynomial (<span class="math inline">IMM_{n,d}</span>) must have size <span class="math inline">n^{\Omega\left(\sqrt{d/\delta}\right)}</span>. Unfortunately, this bound deteriorates as the value of <span class="math inline">\delta</span> increases. Further, the bound is superpolynomial only when <span class="math inline">\delta</span> is <span class="math inline">o(d)</span>. It is natural to ask if the dependence on <span class="math inline">\delta</span> in the bound could be weakened. Towards this, in an earlier result [STACS, 2020], we showed that for all large enough integers <span class="math inline">n</span> and <span class="math inline">d</span> such that <span class="math inline">d = \Theta(\log^2{n})</span>, any syntactic depth four circuit of bounded individual degree <span class="math inline">\delta\leq n^{0.2}</span> that computes <span class="math inline">IMM_{n,d}</span> must have size <span class="math inline">n^{\Omega(\log{n})}</span>.</p>
+<p>In this paper, we make further progress by proving that for all large enough integers <span class="math inline">n</span> and <span class="math inline">d</span>, and absolute constants <span class="math inline">a</span> and <span class="math inline">b</span> such that <span class="math inline">\omega(\log^2n)\leq d\leq n^{a}</span>, any syntactic depth four circuit of bounded individual degree <span class="math inline">\delta\leq n^{b}</span> that computes <span class="math inline">IMM_{n,d}</span> must have size <span class="math inline">n^{\Omega(\sqrt{d})}</span>. Our bound is obtained by carefully adapting the proof of Kumar and Saraf [SIAM J. Computing, 2017] to the complexity measure introduced in our earlier work [STACS, 2020].</p>
 
 
 </section>
@@ -610,5 +661,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

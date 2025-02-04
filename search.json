@@ -1,0 +1,562 @@
+[
+  {
+    "objectID": "teaching/courses/CS1.301Monsoon2024/index.html",
+    "href": "teaching/courses/CS1.301Monsoon2024/index.html",
+    "title": "CS1.301 Algorithm Analysis and Design (Monsoon 2024)",
+    "section": "",
+    "text": "Teaching assistants: Posted on Moodle\nSchedule: Lectures: Tuesday and Friday, 10:00 – 11:25, Tutorial: TBA\nClassroom: TBA"
+  },
+  {
+    "objectID": "teaching/courses/CS1.301Monsoon2024/index.html#announcements",
+    "href": "teaching/courses/CS1.301Monsoon2024/index.html#announcements",
+    "title": "CS1.301 Algorithm Analysis and Design (Monsoon 2024)",
+    "section": "",
+    "text": "Teaching assistants: Posted on Moodle\nSchedule: Lectures: Tuesday and Friday, 10:00 – 11:25, Tutorial: TBA\nClassroom: TBA"
+  },
+  {
+    "objectID": "teaching/courses/CS1.301Monsoon2024/index.html#lectures",
+    "href": "teaching/courses/CS1.301Monsoon2024/index.html#lectures",
+    "title": "CS1.301 Algorithm Analysis and Design (Monsoon 2024)",
+    "section": "Lectures",
+    "text": "Lectures\n\nAlmost the same as the previous years’."
+  },
+  {
+    "objectID": "teaching/courses/CS1.301Monsoon2024/index.html#references",
+    "href": "teaching/courses/CS1.301Monsoon2024/index.html#references",
+    "title": "CS1.301 Algorithm Analysis and Design (Monsoon 2024)",
+    "section": "References",
+    "text": "References\n\nJ. Kleinberg, and E. Tardos (2005), Algorithm Design, Pearson (Addison Wesley).\nT. H. Cormen, C. E. Leiserson, R. Rivest, and C. Stein, Introduction to Algorithms (third edition, 2009), MIT press and McGraw Hill.\nS. Dasgupta, C. Papadimitrou, and U. Vazirani, Algorithms (first edition, 2006), McGraw Hill Education.\nJ. Erickson, Algorithms (first edition, 2019).\nA. Aho, J. Hopcraft, and J. Ullman, Design and Analysis of Algorithms (1974), Addison Wesley."
+  },
+  {
+    "objectID": "teaching/courses/MFDSSpring2025/index.html",
+    "href": "teaching/courses/MFDSSpring2025/index.html",
+    "title": "CS1.503 Mathematical Foundations of Data Science (Spring 2025)",
+    "section": "",
+    "text": "Instructors: Girish Varma, Suryajith Chillara\nTeaching assistants:\nSchedule: Lectures: Tuesday and Friday, 14:00 – 15:25\nClassroom: H203"
+  },
+  {
+    "objectID": "teaching/courses/MFDSSpring2025/index.html#announcements",
+    "href": "teaching/courses/MFDSSpring2025/index.html#announcements",
+    "title": "CS1.503 Mathematical Foundations of Data Science (Spring 2025)",
+    "section": "",
+    "text": "Instructors: Girish Varma, Suryajith Chillara\nTeaching assistants:\nSchedule: Lectures: Tuesday and Friday, 14:00 – 15:25\nClassroom: H203"
+  },
+  {
+    "objectID": "teaching/courses/MFDSSpring2025/index.html#tentative-topics",
+    "href": "teaching/courses/MFDSSpring2025/index.html#tentative-topics",
+    "title": "CS1.503 Mathematical Foundations of Data Science (Spring 2025)",
+    "section": "Tentative topics",
+    "text": "Tentative topics\n\nEstimation from Random Samples\n\nExamples in Vote Share surveys, Medical Tests etc.\nMathematical Formulation in terms of Random Variables\nLinearity of Expectation & Tail Bounds\nGaussian & Confidence Intervals\nPredictions, Precision/Recall Curve\n\nWWW Graph, Page Rank & Eigenvalues\n\nWorld Wide Web Graph and Ranking Problem\nRandom Walks and Eigenvalues\nStationery Distributions and Degree\nConvergence and Second Largest Eigen Value\n\nDimensionality Reduction\n\nDimension Reduction Problem\nExamples: Axis of a Spiral Galaxy, Recommender Systems\nSingular Value Decomposition\nBest fit subspaces from SVD\nLow Rank Assumption and Applications\nProjection to Random Subspace (Johnson-Lindenstrauss)\n\nData Streaming Algorithms\n\nFinding distinct elements, missing numbers and duplicates\nStreaming algorithms\nFingerprinting Method\nFrequency Moments and k-wise Independence\nLimits of Streaming Algorithms\n\nNearest Neighbor Search, Hashing and Clustering\n\nNearest Neighbor Classifier\nHashing\nAppropriate NN from Locally Sensitive Hashing\nClustering\n\nSublinear time algorithms\n\nProperty testing\nSublinear time algorithms for graphs\nSublinear time algorithms for boolean functions\nDistribution testing\n\nSupervised Learning\n\nPAC learning\nInfinite hypothesis classes and VC dimension\nLearning linear functions using gradient updates"
+  },
+  {
+    "objectID": "teaching/courses/MFDSSpring2025/index.html#references",
+    "href": "teaching/courses/MFDSSpring2025/index.html#references",
+    "title": "CS1.503 Mathematical Foundations of Data Science (Spring 2025)",
+    "section": "References",
+    "text": "References\n\nAvrim Blum, John Hopcroft, and Ravindran Kannan (2018), Foundations of Data Science, Free draft on web.\nMartin J. Wainwright and Michael I. Jordan (2018), Graphical Models, Exponential Families, and Variational Inference, Now publishers.\nS. Muthukrishnan (2004), Data Streams: Algorithms and Applications, survey.\nMoran Feldman (2020), Algorithms for Big Data, World Scientific.\nShai Shalev-Schwartz and Shai Ben David (2014), Understanding Machine Learning: From theory to Algorithms, Cambridge University Press."
+  },
+  {
+    "objectID": "teaching/courses/MFDSMonsoon2023/index.html",
+    "href": "teaching/courses/MFDSMonsoon2023/index.html",
+    "title": "CS1.503 Mathematical Foundations of Data Science (Monsoon 2023)",
+    "section": "",
+    "text": "Instructors: Girish Varma, Suryajith Chillara\nTeaching assistants: Nithish Raja\nSchedule: Lectures: Tuesday and Friday, 14:00 – 15:25, Tutorial: Saturday, 12:40 - 13:40\nClassroom: Digital classroom, B5 Vindhya\nCourse portal: elearn @ IIIT Hyderabad"
+  },
+  {
+    "objectID": "teaching/courses/MFDSMonsoon2023/index.html#announcements",
+    "href": "teaching/courses/MFDSMonsoon2023/index.html#announcements",
+    "title": "CS1.503 Mathematical Foundations of Data Science (Monsoon 2023)",
+    "section": "",
+    "text": "Instructors: Girish Varma, Suryajith Chillara\nTeaching assistants: Nithish Raja\nSchedule: Lectures: Tuesday and Friday, 14:00 – 15:25, Tutorial: Saturday, 12:40 - 13:40\nClassroom: Digital classroom, B5 Vindhya\nCourse portal: elearn @ IIIT Hyderabad"
+  },
+  {
+    "objectID": "teaching/courses/MFDSMonsoon2023/index.html#tentative-topics",
+    "href": "teaching/courses/MFDSMonsoon2023/index.html#tentative-topics",
+    "title": "CS1.503 Mathematical Foundations of Data Science (Monsoon 2023)",
+    "section": "Tentative topics",
+    "text": "Tentative topics\n\nEstimation from Random Samples\n\nExamples in Vote Share surveys, Medical Tests etc.\nMathematical Formulation in terms of Random Variables\nLinearity of Expectation & Tail Bounds\nGaussian & Confidence Intervals\nPredictions, Precision/Recall Curve\n\nWWW Graph, Page Rank & Eigenvalues\n\nWorld Wide Web Graph and Ranking Problem\nRandom Walks and Eigenvalues\nStationery Distributions and Degree\nConvergence and Second Largest Eigen Value\n\nDimensionality Reduction\n\nDimension Reduction Problem\nExamples: Axis of a Spiral Galaxy, Recommender Systems\nSingular Value Decomposition\nBest fit subspaces from SVD\nLow Rank Assumption and Applications\nProjection to Random Subspace (Johnson-Lindenstrauss)\n\nData Streaming Algorithms\n\nFinding distinct elements, missing numbers and duplicates\nStreaming algorithms\nFingerprinting Method\nFrequency Moments and k-wise Independence\nLimits of Streaming Algorithms\n\nNearest Neighbor Search, Hashing and Clustering\n\nNearest Neighbor Classifier\nHashing\nAppropriate NN from Locally Sensitive Hashing\nClustering\n\nSublinear time algorithms\n\nProperty testing\nSublinear time algorithms for graphs\nSublinear time algorithms for boolean functions\nDistribution testing\n\nSupervised Learning\n\nPAC learning\nInfinite hypothesis classes and VC dimension\nLearning linear functions using gradient updates"
+  },
+  {
+    "objectID": "teaching/courses/MFDSMonsoon2023/index.html#references",
+    "href": "teaching/courses/MFDSMonsoon2023/index.html#references",
+    "title": "CS1.503 Mathematical Foundations of Data Science (Monsoon 2023)",
+    "section": "References",
+    "text": "References\n\nAvrim Blum, John Hopcroft, and Ravindran Kannan (2018), Foundations of Data Science, Free draft on web.\nMartin J. Wainwright and Michael I. Jordan (2018), Graphical Models, Exponential Families, and Variational Inference, Now publishers.\nS. Muthukrishnan (2004), Data Streams: Algorithms and Applications, survey.\nMoran Feldman (2020), Algorithms for Big Data, World Scientific.\nShai Shalev-Schwartz and Shai Ben David (2014), Understanding Machine Learning: From theory to Algorithms, Cambridge University Press."
+  },
+  {
+    "objectID": "teaching/courses/Teaching@IITB/index.html",
+    "href": "teaching/courses/Teaching@IITB/index.html",
+    "title": "Teaching at IIT Bombay",
+    "section": "",
+    "text": "Co instructor with Prof. Sundar Vishwanathan."
+  },
+  {
+    "objectID": "teaching/courses/Teaching@IITB/index.html#cs-604---combinatorics-spring-2019",
+    "href": "teaching/courses/Teaching@IITB/index.html#cs-604---combinatorics-spring-2019",
+    "title": "Teaching at IIT Bombay",
+    "section": "",
+    "text": "Co instructor with Prof. Sundar Vishwanathan."
+  },
+  {
+    "objectID": "teaching/courses/Teaching@IITB/index.html#cs721---computational-complexity-monsoon-2018",
+    "href": "teaching/courses/Teaching@IITB/index.html#cs721---computational-complexity-monsoon-2018",
+    "title": "Teaching at IIT Bombay",
+    "section": "CS721 - Computational Complexity (Monsoon 2018)",
+    "text": "CS721 - Computational Complexity (Monsoon 2018)\n\nCo instructor with Prof. Nutan Limaye."
+  },
+  {
+    "objectID": "teaching/courses/CS1.406Spring2022/index.html",
+    "href": "teaching/courses/CS1.406Spring2022/index.html",
+    "title": "CS1.406 Advanced Algorithms (Spring 2022)",
+    "section": "",
+    "text": "Teaching assistants: Dixit Kumar Garg and S Shodasakshari Vidya\nSchedule: Monday and Thursday, 11:30 – 12:55\nClassroom: SH-2 (2nd floor, C-1 Vindhya)"
+  },
+  {
+    "objectID": "teaching/courses/CS1.406Spring2022/index.html#announcements",
+    "href": "teaching/courses/CS1.406Spring2022/index.html#announcements",
+    "title": "CS1.406 Advanced Algorithms (Spring 2022)",
+    "section": "",
+    "text": "Teaching assistants: Dixit Kumar Garg and S Shodasakshari Vidya\nSchedule: Monday and Thursday, 11:30 – 12:55\nClassroom: SH-2 (2nd floor, C-1 Vindhya)"
+  },
+  {
+    "objectID": "teaching/courses/CS1.406Spring2022/index.html#lectures",
+    "href": "teaching/courses/CS1.406Spring2022/index.html#lectures",
+    "title": "CS1.406 Advanced Algorithms (Spring 2022)",
+    "section": "Lectures",
+    "text": "Lectures\n\nIntroduction to Randomized algorithms, RandQS (Includes the list of tentative topics)\n\nReferences: Chapter 1 of [1], Chapter 1 & Section 2.4 of [2]\n\nMin-Cut, and Las Vegas & Monte carlo\n\nReferences: Sections 1.1 and 1.2 of [1] and Section 1.4 of [2].\n\nCoupon collector’s problem, Markov Inequality, Chebyshev’s inequality\n\nReferences: Section 3.6 of [1] and Chapter 3 of [2].\n\nBalls and Bins, Tail inequalities (contd.)\n\nReferences: Chapter 3 of [1].\n\nConcentration bounds, Chernoff bound, Error reduction, Set balancing\n\nReferences: Chapter 4 of [2].\n\nMartingales, Azuma’s inequality, Bounded difference inequalities.\n\nReferences: [Kamath, Motwani, Palem and Spirakis ’94], Section 4.3 of [1], and Chapter 12 of [2].\n\nMartingales (contd.), Balls and Bins, Chromatic number of a random graph\n\nReferences: Section 4.3 of [1], [Shamir and Spencer ’87], Upfal’s slides, Sinclair’s lecture notes, and Chapter 12 of [2].\n\nRandomized routing\n\nReferences: Section 4.2 of [1], Section 4.5.1 of [2], Lovett’s course notes from UCSD, and J R Lee’s course notes from UWash.\n\nRandomized routing (contd.), Maximum Satisfiability\n\nReferences: Section 5.2 of [1], and Section 6.2.2 of [2].\n\nMAXCUT, Derandomization with conditional probabilities\n\nReferences: Section 6.2 and 6.3 of [2].\n\nIntroduction to Polynomial Identity Testing, Univariate Interpolation, Verifying Matrix Multiplication\n\nReferences: Section 7.2 & 7.3 of [1], and Section 1.1 & 1.3 of [2].\n\nDeMillo-Lipton-Schwartz–Zippel lemma, The isolation lemma and Mulmuley, Vazirani, and Vazirani algorithm for matching\n\nReferences: Section 12.4 of [1], Section Moshkovitz’s alternate proof of DLSZ lemma, and Mulmuley-Vazirani-Vazirani ’87\n\nMVV (contd.), Maximal Independent Set\n\nReferences: Section 12.3 of [1].\n\nMaximal Independent Set (contd.)\n\nReferences: Section 12.3 of [1].\n\nHashing: Universal Hashing, Perfect Hashing\n\nReferences: Section 8.4 of [1], and Section 13.3 of [2].\n\nHashing: Universal Hashing, Perfect Hashing (contd.)\n\nReferences: Section 8.4 of [1], and Section 13.3 of [2].\n\nApproximate counting: DNFs\n\nReferences: Section 11.2 of [1] and Sections 10.1 and 10.2 of [2].\n\nRandom walks and Markov chains\n\nReferences: Sections 6.1, 6.2 and 6.3 of [1], and Section 7.1 of [2].\n\nMarkov Chains – 2SAT\n\nReferences: Sections 6.1, 6.2 and 6.3 of [1], and Section 7.1 of [2].\n\nMarkov Chains – 3SAT\n\nReferences: Sections 6.1, 6.2 and 6.3 of [1], and Section 7.1 of [2].\n\nKaratsuba’s integer multiplication, Discrete Fourier Transform, Fast Fourier Transform.\n\nReferences: Sections 1.1 – 1.3 and 2.2 of [6].\n\nDFT in Mod-m rings, Chinese Remaindering Theorem, Schonhage-Strassen integer multiplication.\n\nReferences: Sections 2.3 and 2.7 of [6].\n\nFermat’s little theorem, Fermat’s test, Miller-Rabin primality test, RSA encryption and Fingerprinting.\n\nReferences: Section 14.6, and sections 7.4 – 7.6 of [1]."
+  },
+  {
+    "objectID": "teaching/courses/CS1.406Spring2022/index.html#references",
+    "href": "teaching/courses/CS1.406Spring2022/index.html#references",
+    "title": "CS1.406 Advanced Algorithms (Spring 2022)",
+    "section": "References",
+    "text": "References\n\nR. Motwani and P. Raghavan (1995), Randomized Algorithms, Cambridge University Press.\nM. Mitzenmacher and E. Upfal (2005), Probability and Computing, Cambridge University Press.\nN. Alon and J. Spencer (2015), The Probabilistic Method, Wiley, USA.\nV. Shoup (2005), A Computational Introduction to Number Theory and Algebra, Cambridge University Press.\nJ. von zur Gathen and J. Gerhard (2003), Modern Computer Algebra, Cambridge University Press.\nR. Brent and P. Zimmerman (2010), Modern Computer Arithmetic, Web draft."
+  },
+  {
+    "objectID": "teaching/courses/CS1.406Spring2022/index.html#similar-courses",
+    "href": "teaching/courses/CS1.406Spring2022/index.html#similar-courses",
+    "title": "CS1.406 Advanced Algorithms (Spring 2022)",
+    "section": "Similar courses",
+    "text": "Similar courses\nSee the course at IISc by Siddharth Barman & Arindam Khan (and a list of similar courses on that page)."
+  },
+  {
+    "objectID": "teaching/courses/CS1.406Spring2024/index.html",
+    "href": "teaching/courses/CS1.406Spring2024/index.html",
+    "title": "CS1.406 Advanced Algorithms (Spring 2024)",
+    "section": "",
+    "text": "Teaching assistants: Nithish Raja, Vidit Jain\nSchedule: Tuesday and Friday, 14:00 – 15:30\nClassroom: H104"
+  },
+  {
+    "objectID": "teaching/courses/CS1.406Spring2024/index.html#announcements",
+    "href": "teaching/courses/CS1.406Spring2024/index.html#announcements",
+    "title": "CS1.406 Advanced Algorithms (Spring 2024)",
+    "section": "",
+    "text": "Teaching assistants: Nithish Raja, Vidit Jain\nSchedule: Tuesday and Friday, 14:00 – 15:30\nClassroom: H104"
+  },
+  {
+    "objectID": "teaching/courses/CS1.406Spring2024/index.html#topics",
+    "href": "teaching/courses/CS1.406Spring2024/index.html#topics",
+    "title": "CS1.406 Advanced Algorithms (Spring 2024)",
+    "section": "Topics",
+    "text": "Topics\n\nIntroduction to Polynomial Identity Testing, Univariate Interpolation, Verifying Matrix Multiplication\n\nReferences: Section 7.2 & 7.3 of [1], and Section 1.1 & 1.3 of [2].\n\nDeMillo-Lipton-Schwartz–Zippel lemma, The isolation lemma and Mulmuley, Vazirani, and Vazirani algorithm for matching\n\nReferences: Section 12.4 of [1], Section Moshkovitz’s alternate proof of DLSZ lemma, and Mulmuley-Vazirani-Vazirani ’87\n\nRandomized routing\n\nReferences: Section 4.2 of [1], Section 4.5.1 of [2], Lovett’s course notes from UCSD, and J R Lee’s course notes from UWash.\n\nMaxSAT, MaxCUT, Derandomization with conditional probabilities\n\nReferences: Section 6.2 and 6.3 of [2].\n\nMin-Cut, and Las Vegas & Monte carlo\n\nReferences: Sections 1.1 and 1.2 of [1] and Section 1.4 of [2].\n\nApproximate Counting & Approximate Sampling\n\nReferences: Section 11.2 of [1] and Sections 10.1 and 10.2 of [2].\n\nRandom walks and Markov chains\n\nReferences: Sections 6.1, 6.2 and 6.3 of [1], and Section 7.1 of [2].\n\nMarkov Chains – 2SAT\n\nReferences: Sections 6.1, 6.2 and 6.3 of [1], and Section 7.1 of [2].\n\nMarkov Chains – 3SAT\n\nReferences: Sections 6.1, 6.2 and 6.3 of [1], and Section 7.1 of [2].\n\nConcentration bounds\n\nReferences: Chapter 4 of [2].\n\nChernoff bound, Error reduction, Set balancing\n\nReferences: Chapter 4 of [2]."
+  },
+  {
+    "objectID": "teaching/courses/CS1.406Spring2024/index.html#references",
+    "href": "teaching/courses/CS1.406Spring2024/index.html#references",
+    "title": "CS1.406 Advanced Algorithms (Spring 2024)",
+    "section": "References",
+    "text": "References\n\nR. Motwani and P. Raghavan (1995), Randomized Algorithms, Cambridge University Press.\nM. Mitzenmacher and E. Upfal (2005), Probability and Computing, Cambridge University Press.\nN. Alon and J. Spencer (2015), The Probabilistic Method, Wiley, USA."
+  },
+  {
+    "objectID": "teaching/courses/CS1.406Spring2024/index.html#similar-courses",
+    "href": "teaching/courses/CS1.406Spring2024/index.html#similar-courses",
+    "title": "CS1.406 Advanced Algorithms (Spring 2024)",
+    "section": "Similar courses",
+    "text": "Similar courses\n\nPrevious offering of the course - Spring 2022\nSee the course at IISc by Siddharth Barman & Arindam Khan (and a list of similar courses on that page)."
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "CS 1.503\nMathematical Foundations of Data Science\n Spring 2025\n\n\n\n\nCS 1.406\nAdvanced Algorithms\n Spring 2025\n\n\n\n\nCS 1.301\nAlgorithm Analysis and Design\n Fall 2024\n\n\n\n\nCS 1.406\nAdvanced Algorithms\n Spring 2024\n\n\n\n\nCS 1.503\nMathematical Foundations of Data Science\n Fall 2023\n\n\n\n\nCS 1.301\nAlgorithm Analysis and Design\n Fall 2023\n\n\n\n\nCS 1.201\nData Structures and Algorithms (lab)\n Spring 2023\n\n\n\n\nCS 2.201a\nComputer Systems Organization\n Spring 2023\n\n\n\n\nCS 1.406\nAdvanced Algorithms\n Spring 2023\n\n\n\n\nCS 1.301\nAlgorithm Analysis and Design\n Fall 2022\n\n\n\n\nCS 1.406\nAdvanced Algorithms\n Spring 2022\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Suryajith Chillara",
+    "section": "",
+    "text": "I am an Assistant Professor with Center for Security, Theory and Algorithmic Research (CSTAR) at International Institute of Information Technology, Hyderabad (IIIT Hyderabad).\nMy research broadly lies at the interface of Algorithms, Computational Complexity Theory and Coding Theory.\nPreviously, I was a post-doctoral fellow at University of Haifa mentored by Noga Ron-Zewi, and at IIT Bombay mentored by Nutan Limaye. I got my MSc and PhD degrees in Computer Science from Chennai Mathematical Institute (CMI) under the supervision of Partha Mukhopadhyay. I got my undergraduate degree from IIT Kanpur."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Suryajith Chillara",
+    "section": "",
+    "text": "I am an Assistant Professor with Center for Security, Theory and Algorithmic Research (CSTAR) at International Institute of Information Technology, Hyderabad (IIIT Hyderabad).\nMy research broadly lies at the interface of Algorithms, Computational Complexity Theory and Coding Theory.\nPreviously, I was a post-doctoral fellow at University of Haifa mentored by Noga Ron-Zewi, and at IIT Bombay mentored by Nutan Limaye. I got my MSc and PhD degrees in Computer Science from Chennai Mathematical Institute (CMI) under the supervision of Partha Mukhopadhyay. I got my undergraduate degree from IIT Kanpur."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "G. Jakhar, G. R. Kurri, S. Chillara, and V. M. Prabhakaran, Fractional Subadditivity of Submodular Functions, Equality Conditions and Their Applications, Under Submission\npreprint\n\n\n\nS. Chillara and N. Raja, Branching Programs with Extended Memory, New Insights, CIAC 2025\nconf\n\n\n\nS. Chillara, C. Grichener, and A. Shpilka, On Hardness of Testing Equivalence to Sparse Polynomials Under Shifts, STACS 2023\nconf\n\n\n\nS. Chillara, Functional Lower Bounds for Restricted Arithmetic Circuits of Depth Four, FSTTCS 2021\nconf\n\n\n\nS. Chillara, New Exponential Size Lower Bounds against Depth Four Circuits of Bounded Individual Degree, Electron. Colloquium Comput. Complex.\npreprint\n\n\n\nS. Chillara, On Computing Multilinear Polynomials using Multi-ic Depth Four Circuits, ACM Transactions on Computation Theory\njournal\n\n\n\nS. Chillara, Slightly Improved Lower Bounds for Homogeneous Multi-r-ic Formulas of Small-Depth, Information Processing Letters\njournal\n\n\n\nS. Chillara, N. Limaye, and S. Srinivasan, Small-depth Multilinear Formula Lower Bounds for Iterated Matrix Multiplication, with Applications, SIAM Journal of Computing\njournal\n\n\n\nS. Chillara and P. Mukhopadhyay, Depth 4 Lower Bounds, Determinantal Complexity, A Unified Approach, Computational Complexity\njournal\n\n\n\nS. Chillara, C. Engels, N. Limaye, and S. Srinivasan, A Near-Optimal Depth-Hierarchy Theorem for Small-Depth Multilinear Circuits, FOCS 2018\nconf\n\n\n\nS. Chillara, N. Limaye, and S. Srinivasan, A Quadratic Size-Hierarchy Theorem for Small-Depth Multilinear Formulas, ICALP 2018\nconf\n\n\n\nS. Chillara, C. Engels, B. V. R. Rao, R. Saptharishi, and K. Sreenivasiah, Exponential Lower Bounds for Some Restricted Depth Five Powering Circuits, Chicago Journal of Theoretical Computer Science\njournal\n\n\n\nS. Chillara, M. Kumar, R. Saptharishi, and V. Vinay, The Chasm at Depth Four, and Tensor Rank, Old results, new insights, Electron. Colloquium Comput. Complex.\npreprint\n\n\n\nS. Chillara and P. Mukhopadhyay, On the Limits of Depth Reduction at Depth-3 Over Small Finite Fields, Information and Computation\njournal\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/papers/ml-sh.html",
+    "href": "research/papers/ml-sh.html",
+    "title": "A Quadratic Size-Hierarchy Theorem for Small-Depth Multilinear Formulas",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/ml-sh.html#abstract",
+    "href": "research/papers/ml-sh.html#abstract",
+    "title": "A Quadratic Size-Hierarchy Theorem for Small-Depth Multilinear Formulas",
+    "section": "Abstract",
+    "text": "Abstract\nWe show explicit separations between the expressive powers of multilinear formulas of small-depth and all polynomial sizes.\nFormally, for any s = s(n) = n^{O(1)} and any \\delta&gt;0, we construct explicit families of multilinear polynomials P_n\\in\\mathbb{F}[x_1,\\ldots,x_n] that have multilinear formulas of size s and depth three but no multilinear formulas of size s^{1/2-\\delta} and depth o(\\log n/\\log \\log n).\nAs far as we know, this is the first such result for an algebraic model of computation.\nOur proof can be viewed as a derandomization of a lower bound technique of Raz (JACM 2009) using \\varepsilon-biased spaces."
+  },
+  {
+    "objectID": "research/papers/d5-pw-exp.html",
+    "href": "research/papers/d5-pw-exp.html",
+    "title": "Exponential Lower Bounds for Some Restricted Depth Five Powering Circuits",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/d5-pw-exp.html#abstract",
+    "href": "research/papers/d5-pw-exp.html#abstract",
+    "title": "Exponential Lower Bounds for Some Restricted Depth Five Powering Circuits",
+    "section": "Abstract",
+    "text": "Abstract\nDepth five powering circuits are arithmetic circuits of the form \\Sigma\\wedge\\Sigma\\wedge\\Sigma where \\Sigma and \\wedge represent gates that compute sum and power of their inputs respectively. Such circuits compute polynomials of the form \\sum_{i=1}^t Q_i^{\\alpha_{i}}, where each Q_i is a sum of powers of linear polynomials. These circuits are a natural generalization of the well known class of depth three powering circuits (\\Sigma\\wedge\\Sigma circuits). In this paper, we study the complexity of some restricted classes of depth five powering circuits that compute the monomial x_1x_2\\cdots x_n. The restrictions we study are on the fan-ins of the \\Sigma and \\wedge gates (denoted by \\Sigma^{[a]} and \\wedge^{[d]}) while the bottom \\Sigma gates compute homogeneous linear polynomials.\nWe prove size lower bound of 2^{\\Omega(n)} against the following classes of depth five powering circuits that compute the monomial x_1x_2\\cdots x_n.\n\nThe \\Sigma\\wedge\\Sigma^{[m]}\\wedge^{[\\ge d]}\\Sigma_{\\text{Hom}} circuits where d\\geq 8 and m&lt; \\frac{0.29n}{d^2}2^{0.955d}.\nThe \\Sigma\\wedge\\Sigma^{\\{r\\}}\\wedge^{[= d]}\\Sigma_{\\text{Hom}} circuits where r &lt; \\epsilon\\cdot d is the rank of the linear forms under that sum gate, \\epsilon &gt;0 is a constant and d\\geq 8.\n\nFrom this, we infer that the monomial can be computed by a \\Sigma\\wedge\\Sigma^{[=2^{\\sqrt{n}}]}\\wedge^{[=\\sqrt{n}]}\\Sigma_{\\text{Hom}} (or a \\Sigma\\wedge\\Sigma^{\\{=\\sqrt{n}\\}}\\wedge^{[=\\sqrt{n}]}\\Sigma_{\\text{Hom}}) circuit of size 2^{O(\\sqrt{n})} but any \\Sigma\\wedge\\Sigma^{[\\leq 2^{0.955\\sqrt{n}}]}\\wedge^{[\\ge \\sqrt{n}]}\\Sigma_{\\text{Hom}} (or a \\Sigma\\wedge\\Sigma^{\\{\\leq \\epsilon\\sqrt{n}\\}}\\wedge^{[= \\sqrt{n}]}\\Sigma_{\\text{Hom}}) circuit computing it must be of size 2^{\\Omega(n)}.\nOur results show how the fan-in of the middle \\Sigma gates, the degree of the bottom powering gates and the homogeneity at the bottom \\Sigma gates play a crucial role in the computational power of \\Sigma\\wedge\\Sigma\\wedge\\Sigma circuits."
+  },
+  {
+    "objectID": "research/papers/d4-dc.html",
+    "href": "research/papers/d4-dc.html",
+    "title": "Depth 4 Lower Bounds, Determinantal Complexity : A Unified Approach",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/d4-dc.html#abstract",
+    "href": "research/papers/d4-dc.html#abstract",
+    "title": "Depth 4 Lower Bounds, Determinantal Complexity : A Unified Approach",
+    "section": "Abstract",
+    "text": "Abstract\nTavenas has recently proved that any n^{O(1)}-variate and degree n polynomial in VP can be computed by a depth 4 \\Sigma\\Pi\\Sigma\\Pi circuit of size 2^{O(\\sqrt{n}\\log n)} (see Tavenas (2013)). So, to prove VP\\neq VNP it is sufficient to show that an explicit polynomial in VNP of degree n requires 2^{\\omega(\\sqrt{n}\\log n)} size depth 4 circuits. Soon after Tavenas’ result, for two different explicit polynomials, depth 4 circuit size lower bounds of 2^{\\Omega(\\sqrt{n}\\log n)} have been proved (see Kayal-Saha-Saptharishi (2013) and Fournier-Limaye-Malod-Srinivasan (2013)). In particular, using combinatorial design Kayal et al. construct an explicit polynomial in VNP that requires depth 4 circuits of size 2^{\\Omega(\\sqrt{n}\\log n)} and Fournier et al. show that the iterated matrix multiplication polynomial (which is in VP) also requires 2^{\\Omega(\\sqrt{n}\\log n)} size depth 4 circuits.\nIn this paper, we identify a simple combinatorial property such that any polynomial f that satisfies this property would achieve a similar depth 4 circuit size lower bound. In particular, it does not matter whether f is in VP or in VNP. As a result, we get a simple unified lower bound analysis for the above mentioned polynomials.\nAnother goal of this paper is to compare our current knowledge of the depth 4 circuit size lower bounds and the determinantal complexity lower bounds. Currently the best known determinantal complexity lower bound is \\Omega(n^2) for Permanent of a n\\times n matrix (which is a n^2-variate and degree n polynomial) (due to Cai, Chen and Li (2008)). We prove that the determinantal complexity of the iterated matrix multiplication polynomial is \\Omega(dn) where d is the number of matrices and n is the dimension of the matrices. So for d=n, we get that the iterated matrix multiplication polynomial achieves the current best known lower bounds in both fronts: depth 4 circuit size and determinantal complexity. Our result also settles the determinantal complexity of the iterated matrix multiplication polynomial to \\Theta(dn).\nTo the best of our knowledge, a \\Theta(n) bound for the determinantal complexity for the iterated matrix multiplication polynomial was known only for any constant d&gt;1 (cf. Jansen (2011))."
+  },
+  {
+    "objectID": "research/papers/multiric-homform.html",
+    "href": "research/papers/multiric-homform.html",
+    "title": "Slightly Improved Lower Bounds for Homogeneous Multi-r-ic Formulas of Small-Depth",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/multiric-homform.html#abstract",
+    "href": "research/papers/multiric-homform.html#abstract",
+    "title": "Slightly Improved Lower Bounds for Homogeneous Multi-r-ic Formulas of Small-Depth",
+    "section": "Abstract",
+    "text": "Abstract\nKayal, Saha and Tavenas (Theory of Computing, 2018), showed that any bounded-depth homogeneous formula of bounded individual degree (bounded by r) that computes an explicit polynomial over n variables must have size \\exp\\left(\\Omega\\left(\\frac{1}{r}\\left(\\frac{n}{4}\\right)^{1/\\Delta}\\right)\\right) for all depths \\Delta \\leq O\\left({\\frac{\\log n}{\\log r+ \\log\\log n}}\\right). In this article we show an improved size lower bound of \\exp\\left(\\Omega\\left(\\frac{\\Delta}{r}\\left({\\frac{nr}{2}}\\right)^{1/\\Delta}\\right)\\right) for all depths \\Delta \\leq O\\left({\\frac{\\log n}{\\log r}}\\right), and for the same explicit polynomial.\nIn comparison to Kayal, Saha and Tavenas (Theory of Computing, 2018) 1. our results give superpolynomial lower bounds in a wider regime of depth \\Delta, and 2. for all \\Delta \\in \\left[\\omega(1), o\\left(\\frac{\\log n}{\\log r}\\right)\\right] our lower bound is asymptotically better.\nThis improvement is due to a finer product decomposition of general homogeneous formulas of bounded-depth. This follows from an adaptation of a new for bounded-depth multilinear formulas shown by Chillara, Limaye and Srinivasan (SIAM Journal of Computing, 2019)."
+  },
+  {
+    "objectID": "research/papers/d3-ff-exp.html",
+    "href": "research/papers/d3-ff-exp.html",
+    "title": "On the Limits of Depth Reduction at Depth-3 Over Small Finite Fields",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/d3-ff-exp.html#abstract",
+    "href": "research/papers/d3-ff-exp.html#abstract",
+    "title": "On the Limits of Depth Reduction at Depth-3 Over Small Finite Fields",
+    "section": "Abstract",
+    "text": "Abstract\nIn a surprising recent result, Gupta-Kamath-Kayal-Saptharishi have proved that over \\mathbb{Q} any n^{O(1)}-variate and n-degree polynomial in VP can also be computed by a depth three \\Sigma\\Pi\\Sigma circuit of size 2^{O(\\sqrt{n} \\log^{3/2}n)}. Over fixed-size finite fields, Grigoriev and Karpinski proved that any \\Sigma\\Pi\\Sigma circuit that computes the determinant (or the permanent) polynomial of a n\\times n matrix must be of size 2^{\\Omega(n)}. In this paper, for an explicit polynomial in VP (over fixed-size finite fields), we prove that any \\Sigma\\Pi\\Sigma circuit computing it must be of size 2^{\\Omega(n\\log n)}. The explicit polynomial that we consider is the iterated matrix multiplication polynomial of n generic matrices of size n\\times n. The importance of this result is that over fixed-size fields there is no depth reduction technique that can be used to compute all the n^{O(1)}-variate and n-degree polynomials in VP by depth 3 circuits of size 2^{o(n\\log n)}. The result of Grigoriev and Karpinski can only rule out such a possibility for \\Sigma\\Pi\\Sigma circuits of size 2^{o(n)}.\nWe also give an example of an explicit polynomial (NW_{n,\\epsilon}(X)) in VNP (which is not known to be in VP), for which any \\Sigma\\Pi\\Sigma circuit computing it (over fixed-size fields) must be of size 2^{\\Omega(n\\log n)}. The polynomial we consider is constructed from the combinatorial design of Nisan and Wigderson, and is closely related to the polynomials considered in many recent papers (by Kayal-Saha-Saptharishi, Kayal-Limaye-Saha-Srinivasan, and Kumar-Saraf), where strong depth 4 circuit size lower bounds are shown."
+  },
+  {
+    "objectID": "research/papers/ml-dh.html",
+    "href": "research/papers/ml-dh.html",
+    "title": "A Near-Optimal Depth-Hierarchy Theorem for Small-Depth Multilinear Circuits",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/ml-dh.html#abstract",
+    "href": "research/papers/ml-dh.html#abstract",
+    "title": "A Near-Optimal Depth-Hierarchy Theorem for Small-Depth Multilinear Circuits",
+    "section": "Abstract",
+    "text": "Abstract\nWe study the size blow-up that is necessary to convert an algebraic circuit of product-depth \\Delta+1 to one of product-depth \\Delta in the multilinear setting.\nWe show that for every positive \\Delta = \\Delta(n) = o(\\log n/\\log \\log n), there is an explicit multilinear polynomial P^{(\\Delta)} on n variables that can be computed by a multilinear formula of product-depth \\Delta+1 and size O(n), but not by any multilinear circuit of product-depth \\Delta and size less than \\exp(n^{\\Omega(1/\\Delta)}). This result is tight up to the constant implicit in the double exponent for all \\Delta = o(\\log n/\\log \\log n).\nThis strengthens a result of Raz and Yehudayoff (Computational Complexity 2009) who prove a quasipolynomial separation for constant-depth multilinear circuits, and a result of Kayal, Nair and Saha (STACS 2016) who give an exponential separation in the case \\Delta = 1.\nOur separating examples may be viewed as algebraic analogues of variants of the Graph Reachability problem studied by Chen, Oliveira, Servedio and Tan (STOC 2016), who used them to prove lower bounds for constant-depth Boolean circuits."
+  },
+  {
+    "objectID": "research/papers/imm-ml.html",
+    "href": "research/papers/imm-ml.html",
+    "title": "Small-depth Multilinear Formula Lower Bounds for Iterated Matrix Multiplication, with Applications",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/imm-ml.html#abstract",
+    "href": "research/papers/imm-ml.html#abstract",
+    "title": "Small-depth Multilinear Formula Lower Bounds for Iterated Matrix Multiplication, with Applications",
+    "section": "Abstract",
+    "text": "Abstract\nThe complexity of Iterated Matrix Multiplication is a central theme in Computational Complexity theory, as the problem is closely related to the problem of separating various complexity classes within \\mathrm{P}. In this paper, we study the algebraic formula complexity of multiplying d many 2\\times 2 matrices, denoted IMM_{d}, and show that the well-known divide-and-conquer algorithm cannot be significantly improved at any depth, as long as the formulas are multilinear.\nFormally, for each depth \\Delta \\leq \\log d, we show that any product-depth \\Delta multilinear formula for IMM_d must have size \\exp(\\Omega(\\Delta d^{1/\\Delta})). It also follows from this that any multilinear circuit of product-depth \\Delta for the same polynomial of the above form must have a size of \\exp(\\Omega(d^{1/\\Delta})). In particular, any polynomial-sized multilinear formula for IMM_d must have depth \\Omega(\\log d), and any polynomial-sized multilinear circuit for IMM_d must have depth \\Omega(\\log d/\\log \\log d). Both these bounds are tight up to constant factors.\nOur lower bound has the following consequences for multilinear formula complexity.\n\nDepth-reduction: A well-known result of Brent (JACM 1974) implies that any formula of size s can be converted to one of size s^{O(1)} and depth O(\\log s); further, this reduction continues to hold for multilinear formulas. On the other hand, our lower bound implies that any depth-reduction in the multilinear setting cannot reduce the depth to o(\\log s) without a superpolynomial blow-up in size.\nCircuits vs. formulas: Any circuit of size s and product-depth \\Delta can be converted into a formula of product-depth \\Delta and size s^{O(\\Delta)}. In the multilinear setting, we show that it is not possible to improve on this significantly for small depths. Formally, our results imply that for all large enough s and \\Delta = o(\\log s/\\log \\log s), there is an explicit multilinear polynomial P_{s,\\Delta} that has a syntactic multilinear circuit of size s and is such that any multilinear formula of product-depth \\Delta computing P_{s,\\Delta} must have size s^{\\Omega(\\Delta)}.\nSeparations from general formulas: Shpilka and Yehudayoff (FnTTCS 2010) asked whether general formulas can be more efficient than multilinear formulas for computing multilinear polynomials. Our result, along with a non-trivial upper bound for IMM_{d} implied by a result of Gupta, Kamath, Kayal and Saptharishi (SICOMP 2016), shows that for any size s and product-depth \\Delta = o(\\log s), general formulas of size s and product-depth \\Delta cannot be converted to multilinear formulas of size s^{O(1)} and product-depth \\Delta, when the underlying field has characteristic zero."
+  },
+  {
+    "objectID": "research/papers/d4-tr.html",
+    "href": "research/papers/d4-tr.html",
+    "title": "The Chasm at Depth Four, and Tensor Rank: Old results, new insights",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/d4-tr.html#abstract",
+    "href": "research/papers/d4-tr.html#abstract",
+    "title": "The Chasm at Depth Four, and Tensor Rank: Old results, new insights",
+    "section": "Abstract",
+    "text": "Abstract\nAgrawal and Vinay (2008) showed how any polynomial size arithmetic circuit can be thought of as a depth four arithmetic circuit of subexponential size. This unexpected depth reduction to constant depth is in contrast to circuits in the Boolean setting. The resulting circuit size in this simulation was more carefully analyzed by Korian (2011) and subsequently by Tavenas (2013). We provide a simple proof of this chain of results. We then abstract the main ingredient to apply it to formulas and constant depth circuits, and show more structured depth reductions for them.\nIn an apriori surprising result, Raz (2010) showed that for any n and d, such that $ (1) d O()$, constructing explicit tensors T:[n]^d \\rightarrow \\mathbb{F} of high enough rank would imply superpolynomial lower bounds for arithmetic formulas over the field \\mathbb{F}. Using the additional structure we obtain from our proof of the depth reduction for arithmetic formulas, we give a new and arguably simpler proof of this connection. We also extend this result for homogeneous formulas to show that, in fact, the connection holds for any d such that \\omega(1) \\leq d \\leq n^{o(1)}."
+  },
+  {
+    "objectID": "research/papers/functional.html",
+    "href": "research/papers/functional.html",
+    "title": "Functional Lower Bounds for Restricted Arithmetic Circuits of Depth Four",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/functional.html#abstract",
+    "href": "research/papers/functional.html#abstract",
+    "title": "Functional Lower Bounds for Restricted Arithmetic Circuits of Depth Four",
+    "section": "Abstract",
+    "text": "Abstract\nRecently, Forbes, Kumar and Saptharishi [CCC, 2016] proved that there exists an explicit d^{O(1)}-variate and degree d polynomial P_{d} \\in VNP such that if any depth four circuit C of bounded formal degree d which computes a polynomial of bounded individual degree O(1), that is functionally equivalent to P_d, then C must have size 2^{\\Omega(\\sqrt{d}\\log{d})}.\nThe motivation for their work comes from Boolean Circuit Complexity. Based on a characterization for ACC^0 circuits by Yao [FOCS, 1985] and Beigel and Tarui [CC, 1994], Forbes, Kumar and Saptharishi [CCC, 2016] observed that functions in ACC^0 can also be computed by algebraic \\Sigma\\mathord{\\wedge}\\Sigma\\Pi circuits (i.e., circuits of the form – sums of powers of polynomials) of 2^{\\log^{O(1)}n} size. Thus they argued that a 2^{\\omega(\\log^{O(1)}{n})} functional lower bound for an explicit polynomial Q against \\Sigma\\mathord{\\wedge}\\Sigma\\Pi circuits would imply a lower bound for the corresponding Boolean function of Q against non-uniform ACC^0. In their work, they ask if their lower bound be extended to \\Sigma\\mathord{\\wedge}\\Sigma\\Pi circuits.\nIn this paper, for large integers n and d such that \\Omega(\\log^2{n})\\leq d\\leq n^{0.01}, we show that any \\Sigma\\mathord{\\wedge}\\Sigma\\Pi circuit of bounded individual degree at most O(\\frac{d}{k^2}) that functionally computes Iterated Matrix Multiplication polynomial IMM_{n,d} (\\in VP) over {\\{0,1\\}}^{n^2d} must have size n^{\\Omega(k)}. Since Iterated Matrix Multiplication IMM_{n,d} over \\{0,1\\}^{n^2d} is functionally in GapL, improvement of the afore mentioned lower bound to hold for quasipolynomially large values of individual degree would imply a fine-grained separation of ACC^0 from GapL.\nFor the sake of completeness, we also show a syntactic size lower bound against any \\Sigma\\mathord{\\wedge}\\Sigma\\Pi circuit computing IMM_{n,d} (for the same regime of d) which is tight over large fields. Like Forbes, Kumar and Saptharishi [CCC, 2016], we too prove lower bounds against circuits of bounded formal degree which functionally compute IMM_{n,d}, for a slightly larger range of individual degree."
+  },
+  {
+    "objectID": "research/papers/multiric-d4-exp.html",
+    "href": "research/papers/multiric-d4-exp.html",
+    "title": "New Exponential Size Lower Bounds against Depth Four Circuits of Bounded Individual Degree",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/multiric-d4-exp.html#abstract",
+    "href": "research/papers/multiric-d4-exp.html#abstract",
+    "title": "New Exponential Size Lower Bounds against Depth Four Circuits of Bounded Individual Degree",
+    "section": "Abstract",
+    "text": "Abstract\nKayal, Saha and Tavenas [Theory of Computing, 2018] showed that for all large enough integers n and d such that d\\geq \\omega(\\log{n}), any syntactic depth four circuit of bounded individual degree \\delta = o(d) that computes the Iterated Matrix Multiplication polynomial (IMM_{n,d}) must have size n^{\\Omega\\left(\\sqrt{d/\\delta}\\right)}. Unfortunately, this bound deteriorates as the value of \\delta increases. Further, the bound is superpolynomial only when \\delta is o(d). It is natural to ask if the dependence on \\delta in the bound could be weakened. Towards this, in an earlier result [STACS, 2020], we showed that for all large enough integers n and d such that d = \\Theta(\\log^2{n}), any syntactic depth four circuit of bounded individual degree \\delta\\leq n^{0.2} that computes IMM_{n,d} must have size n^{\\Omega(\\log{n})}.\nIn this paper, we make further progress by proving that for all large enough integers n and d, and absolute constants a and b such that \\omega(\\log^2n)\\leq d\\leq n^{a}, any syntactic depth four circuit of bounded individual degree \\delta\\leq n^{b} that computes IMM_{n,d} must have size n^{\\Omega(\\sqrt{d})}. Our bound is obtained by carefully adapting the proof of Kumar and Saraf [SIAM J. Computing, 2017] to the complexity measure introduced in our earlier work [STACS, 2020]."
+  },
+  {
+    "objectID": "research/papers/fracsubadd-equality.html",
+    "href": "research/papers/fracsubadd-equality.html",
+    "title": "Fractional Subadditivity of Submodular Functions: Equality Conditions and Their Applications",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/fracsubadd-equality.html#abstract",
+    "href": "research/papers/fracsubadd-equality.html#abstract",
+    "title": "Fractional Subadditivity of Submodular Functions: Equality Conditions and Their Applications",
+    "section": "Abstract",
+    "text": "Abstract\nSubmodular functions are known to satisfy various forms of fractional subadditivity. This work investigates the conditions for equality to hold exactly or approximately in the fractional subadditivity of submodular functions. We establish that a small gap in the inequality implies that the function is close to being modular, and that the gap is zero if and only if the function is modular. We then present natural implications of these results for special cases of submodular functions, such as entropy, relative entropy, and matroid rank. As a consequence, we characterize the necessary and sufficient conditions for equality to hold in Shearer’s lemma, recovering a result of Ellis et al. (2016) as a special case. We leverage our results to propose a new multivariate mutual information, which generalizes Watanabe’s total correlation (1960), Han’s dual total correlation (1978), and Csisz'ar and Narayan’s shared information (2004), and analyze its properties. Among these properties, we extend Watanabe’s characterization of total correlation as the maximum correlation over partitions to fractional partitions. When applied to matrix determinantal inequalities for positive definite matrices, our results recover the equality conditions of the classical determinantal inequalities of Hadamard, Szasz, and Fischer as special cases."
+  },
+  {
+    "objectID": "research/papers/sparsification-hardness.html",
+    "href": "research/papers/sparsification-hardness.html",
+    "title": "On Hardness of Testing Equivalence to Sparse Polynomials Under Shifts",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/sparsification-hardness.html#abstract",
+    "href": "research/papers/sparsification-hardness.html#abstract",
+    "title": "On Hardness of Testing Equivalence to Sparse Polynomials Under Shifts",
+    "section": "Abstract",
+    "text": "Abstract\nWe say that two given polynomials f, g \\in R[X], over a ring R, are equivalent under shifts if there exists a vector a \\in R^n such that f(X+a) = g(X). This is a special variant of the polynomial projection problem in Algebraic Complexity Theory. Grigoriev and Karpinski (FOCS 1990), Lakshman and Saunders (SICOMP, 1995), and Grigoriev and Lakshman (ISSAC 1995) studied the problem of testing polynomial equivalence of a given polynomial to any t-sparse polynomial, over the rational numbers, and gave exponential time algorithms. In this paper, we provide hardness results for this problem. Formally, for a ring R, let \\mathrm{SparseShift}_R be the following decision problem — Given a polynomial P(X), is there a vector a such that P(X+a) contains fewer monomials than P(X). We show that \\mathrm{SparseShift}_R is at least as hard as checking if a given system of polynomial equations over R[x_1,\\ldots, x_n] has a solution (Hilbert’s Nullstellensatz).\nAs a consequence of this reduction, we get the following results\n\n\\mathrm{SparseShift}_\\mathbb{Z} is undecidable.\nFor any ring R (which is not a field) such that HN_R is NP_R-complete over the Blum-Shub-Smale model of computation, \\mathrm{SparseShift}_R is also NP_R-complete.\n\nWe also study the gap version of the \\mathrm{SparseShift}_R and show the following.\n\nFor every positive function \\beta:\\mathbb{N}\\to \\mathbb{R} such that \\beta\\in o(1), N^\\beta-gap-\\mathrm{SparseShift}_\\mathbb{Z} is also undecidable (where N is the input length).\nFor R=\\mathbb{F}_p, \\mathbb{Q}, \\mathbb{R} or \\mathbb{Z}_q and for every \\beta&gt;1 the \\beta-gap-\\mathrm{SparseShift}_R problem is {NP}-hard."
+  },
+  {
+    "objectID": "research/papers/multiric-d4-qpoly.html",
+    "href": "research/papers/multiric-d4-qpoly.html",
+    "title": "On Computing Multilinear Polynomials using Multi-r-ic Depth Four Circuits",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/multiric-d4-qpoly.html#abstract",
+    "href": "research/papers/multiric-d4-qpoly.html#abstract",
+    "title": "On Computing Multilinear Polynomials using Multi-r-ic Depth Four Circuits",
+    "section": "Abstract",
+    "text": "Abstract\nIn this paper, we are interested in understanding the complexity of computing multilinear polynomials using depth four circuits in which the polynomial computed at every node has a bound on the individual degree of r \\geq 1 with respect to all its variables (referred to as multi-r-c circuits). The goal of this study is to make progress towards proving superpolynomial lower bounds for general depth four circuits computing multilinear polynomials, by proving better bounds as the value of r increases.\nRecently, Kayal, Saha and Tavenas (Theory of Computing, 2018) showed that any depth four arithmetic circuit of bounded individual degree r computing an explicit multilinear polynomial on n^{O(1)} variables and degree d, must have size at least \\left(\\frac{n}{r^{1.1}}\\right)^{\\Omega\\left(\\sqrt{\\frac{d}{r}}\\right)}. This bound however deteriorates as the value of r increases. It is a natural question to ask if we can prove a bound that does not deteriorate as the value of r increases, or a bound that holds for a larger regime of r.\nIn this paper, we prove a lower bound which does not deteriorate with increasing values of r, albeit for a specific instance of d = d(n) but for a wider range of r. Formally, for all large enough integers n and a small constant \\eta, we show that there exists an explicit polynomial on n^{O(1)} variables and degree \\Theta(\\log^2 n) such that any depth four circuit of bounded individual degree r\\leq n^{\\eta} must have size at least \\exp\\left(\\Omega\\left(\\log^2 n\\right)\\right). This improvement is obtained by suitably adapting the complexity measure of Kayal et al. (Theory of Computing, 2018). This adaptation of the measure is inspired by the complexity measure used by Kayal et al. (SIAM J. Computing, 2017)."
+  },
+  {
+    "objectID": "research/papers/sbp-vnp.html",
+    "href": "research/papers/sbp-vnp.html",
+    "title": "Branching Programs with Extended Memory: New Insights",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/sbp-vnp.html#abstract",
+    "href": "research/papers/sbp-vnp.html#abstract",
+    "title": "Branching Programs with Extended Memory: New Insights",
+    "section": "Abstract",
+    "text": "Abstract\nOne of the central themes of Algebraic Complexity Theory is to understand the relative computation power of algebraic complexity classes \\mathsf{VP} and \\mathsf{VNP}. \\mathsf{VP} is a class of polynomial families which can be computed efficiently by algebraic circuits. \\mathsf{VNP} is a class of polynomials which can be efficiently expressed through polynomial families in \\mathsf{VP}, but we do not know if they can be computed efficiently. It is a long standing open problem in this area to show that \\mathsf{VP} is a strict subset of \\mathsf{VNP}. At this juncture, it is fair to believe that newer characterization of these complexity classes could help us understand these models better (and possibly help us is resolving this question in restricted settings like non-commutativity at the very least).\nRecently, Mengel [MFCS, 2013] showed that Algebraic Branching Programs (ABPs) (it is well known that algebraic branching programs (ABPs) characterize the class \\mathsf{VBP} (or equivalently \\mathsf{VP}_{\\mathrm{skew}})) can be extended with memory and the computational models thus obtained can be used to characterize \\mathsf{VP} and \\mathsf{VNP}. In particular, Mengel showed that ABPs with a single stack characterize \\mathsf{VP}, and branching programs with random-access memory characterize \\mathsf{VNP}.\nIn this work we show that algebraic branching programs with just 2 stacks efficiently simulates the polynomial families in \\mathsf{VNP}, and two stack branching programs are \\mathsf{VNP}-complete.\nFurther, we observe that k-stack branching programs (for all polynomially bounded k) are no more powerful than 2-stack branching programs (upto a polynomial blowup in size).\nThis strengthens the work of Mengel in the following way – \\mathsf{VBP} vs. \\mathsf{VP} vs. \\mathsf{VNP} are characterized by algebraic branching programs with 0, 1, and 2 stacks, respectively, or no-memory, a stack as memory, and a queue as memory respectively, which hold even in the non-commutative setting.\nWe also refine Mengel’s characterization of \\mathsf{VP} through stack-height characterization."
+  },
+  {
+    "objectID": "contact/index.html",
+    "href": "contact/index.html",
+    "title": "Suryajith Chillara",
+    "section": "",
+    "text": "Contact:\n111, CSTAR, Vindhya A3,\nInternational Institute of Information Technology,\nGachibowli, Hyderabad, India.\nEmail: {firstname}.{lastname}@iiit.ac.in"
+  },
+  {
+    "objectID": "students/index.html",
+    "href": "students/index.html",
+    "title": "Students",
+    "section": "",
+    "text": "PhD\n\nGunank Singh Jakhar (2023 - , Jointly with Gowtham R. Kurri)\n\n\n\nMasters\n\nPruthvi Boyapati (2024 - , Jointly with Kshitij Gajjar)\nNithish Raja (2022 - 2024, → PhD position at TU/e) –  MS Thesis \n\n\n\nDual Degree\n\nKeval Jain (2023 - , Jointly with Girish Varma)\nKriti Gupta (2023 - , Jointly with Girish Varma)\nAnushka Jain (2024 - )\n\n\n\nHonours\n\nChitturi Meghana Sai Rama Lakshmi (2023 - )\nArnav Negi (2024 - )"
+  },
+  {
+    "objectID": "teaching/courses/CS1.201Spring2023/index.html",
+    "href": "teaching/courses/CS1.201Spring2023/index.html",
+    "title": "CS1.201 Data Structures and Algorithms: Lab (Spring 2023)",
+    "section": "",
+    "text": "Lab-instructor while Sujit Gujar and Ravi Kiran S were main instructors."
+  },
+  {
+    "objectID": "teaching/courses/CS1.406Spring2023/index.html",
+    "href": "teaching/courses/CS1.406Spring2023/index.html",
+    "title": "CS1.406 Advanced Algorithms (Spring 2023)",
+    "section": "",
+    "text": "Teaching assistants: Amul Agarwal, Kunal Jain, Nithish Raja\nSchedule: Tuesday and Friday, 15:35 – 17:00\nClassroom: H103"
+  },
+  {
+    "objectID": "teaching/courses/CS1.406Spring2023/index.html#announcements",
+    "href": "teaching/courses/CS1.406Spring2023/index.html#announcements",
+    "title": "CS1.406 Advanced Algorithms (Spring 2023)",
+    "section": "",
+    "text": "Teaching assistants: Amul Agarwal, Kunal Jain, Nithish Raja\nSchedule: Tuesday and Friday, 15:35 – 17:00\nClassroom: H103"
+  },
+  {
+    "objectID": "teaching/courses/CS1.406Spring2023/index.html#lectures",
+    "href": "teaching/courses/CS1.406Spring2023/index.html#lectures",
+    "title": "CS1.406 Advanced Algorithms (Spring 2023)",
+    "section": "Lectures",
+    "text": "Lectures\n\nIntroduction to Randomized algorithms, RandQS (Includes the list of tentative topics)\n\nReferences: Chapter 1 of [1], Chapter 1 & Section 2.4 of [2]\n\nMin-Cut, and Las Vegas & Monte carlo\n\nReferences: Sections 1.1 and 1.2 of [1] and Section 1.4 of [2].\n\nCoupon collector’s problem, Markov Inequality, Chebyshev’s inequality\n\nReferences: Section 3.6 of [1] and Chapter 3 of [2].\n\nMinimum Spanning Trees, Boruvka’s algorithm\n\nReferences: Draft notes of Anupam Gupta (CMU), Survey by Jason Eisner\n\nKarger-Klein-Tarjan Randomized Minimum Spanning Tree\n\nReferences: Draft notes of Anupam Gupta (CMU), Survey by Jason Eisner, Original paper of Karger-Klein-Tarjan.\n\nKarger-Klein-Tarjan Randomized Minimum Spanning Tree (contd.)\n\nReferences: Draft notes of Anupam Gupta (CMU), Survey by Jason Eisner, Original paper of Karger-Klein-Tarjan.\n\nIntroduction to Matroids\n\nReferences: Extra material from Jeff Erickson’s book, NPTEL video of Prof. Shashank Mehta.\n\nMatroids (contd.)\n\nReferences: Extra material from Jeff Erickson’s book, NPTEL video of Prof. Shashank Mehta.\n\nIntroduction to Polynomial Identity Testing, Univariate Interpolation, Verifying Matrix Multiplication\n\nReferences: Section 7.2 & 7.3 of [1], and Section 1.1 & 1.3 of [2].\n\nDeMillo-Lipton-Schwartz–Zippel lemma, The isolation lemma and Mulmuley, Vazirani, and Vazirani algorithm for matching\n\nReferences: Section 12.4 of [1], Section Moshkovitz’s alternate proof of DLSZ lemma, and Mulmuley-Vazirani-Vazirani ’87\n\nConcentration bounds\n\nReferences: Chapter 4 of [2].\n\nChernoff bound, Error reduction, Set balancing\n\nReferences: Chapter 4 of [2].\n\nRandomized routing\n\nReferences: Section 4.2 of [1], Section 4.5.1 of [2], Lovett’s course notes from UCSD, and J R Lee’s course notes from UWash.\n\nRandomized routing (contd.), Maximum Satisfiability\n\nReferences: Section 5.2 of [1], and Section 6.2.2 of [2].\n\nMAXCUT, Derandomization with conditional probabilities\n\nReferences: Section 6.2 and 6.3 of [2].\n\nIntroduction to Quantum Algorithms (guest lecture by Kannan Srinathan)\nShor’s integer factoring (guest lecture by Kannan Srinathan)\nApproximate counting: DNFs\n\nReferences: Section 11.2 of [1] and Sections 10.1 and 10.2 of [2].\n\nRandom walks and Markov chains\n\nReferences: Sections 6.1, 6.2 and 6.3 of [1], and Section 7.1 of [2].\n\nMarkov Chains – 2SAT\n\nReferences: Sections 6.1, 6.2 and 6.3 of [1], and Section 7.1 of [2].\n\nMarkov Chains – 3SAT\n\nReferences: Sections 6.1, 6.2 and 6.3 of [1], and Section 7.1 of [2].\n\nGoemans-Williamson algorithm for MAXCUT\n\nReferences: Original paper of Goemans and Williamson."
+  },
+  {
+    "objectID": "teaching/courses/CS1.406Spring2023/index.html#references",
+    "href": "teaching/courses/CS1.406Spring2023/index.html#references",
+    "title": "CS1.406 Advanced Algorithms (Spring 2023)",
+    "section": "References",
+    "text": "References\n\nR. Motwani and P. Raghavan (1995), Randomized Algorithms, Cambridge University Press.\nM. Mitzenmacher and E. Upfal (2005), Probability and Computing, Cambridge University Press.\nN. Alon and J. Spencer (2015), The Probabilistic Method, Wiley, USA."
+  },
+  {
+    "objectID": "teaching/courses/CS1.406Spring2023/index.html#similar-courses",
+    "href": "teaching/courses/CS1.406Spring2023/index.html#similar-courses",
+    "title": "CS1.406 Advanced Algorithms (Spring 2023)",
+    "section": "Similar courses",
+    "text": "Similar courses\n\nPrevious offering of the course - Spring 2022\nSee the course at IISc by Siddharth Barman & Arindam Khan (and a list of similar courses on that page)."
+  },
+  {
+    "objectID": "teaching/courses/CS1.406Spring2025/index.html",
+    "href": "teaching/courses/CS1.406Spring2025/index.html",
+    "title": "CS1.406 Advanced Algorithms (Spring 2025)",
+    "section": "",
+    "text": "Teaching assistants:\nSchedule: Monday and Friday, 11:40 – 13:05\nClassroom: H204"
+  },
+  {
+    "objectID": "teaching/courses/CS1.406Spring2025/index.html#announcements",
+    "href": "teaching/courses/CS1.406Spring2025/index.html#announcements",
+    "title": "CS1.406 Advanced Algorithms (Spring 2025)",
+    "section": "",
+    "text": "Teaching assistants:\nSchedule: Monday and Friday, 11:40 – 13:05\nClassroom: H204"
+  },
+  {
+    "objectID": "teaching/courses/CS1.406Spring2025/index.html#lectures",
+    "href": "teaching/courses/CS1.406Spring2025/index.html#lectures",
+    "title": "CS1.406 Advanced Algorithms (Spring 2025)",
+    "section": "Lectures",
+    "text": "Lectures"
+  },
+  {
+    "objectID": "teaching/courses/CS2.201aSpring2023/index.html",
+    "href": "teaching/courses/CS2.201aSpring2023/index.html",
+    "title": "CS2.201a Computer Systems Organization (Spring 2023)",
+    "section": "",
+    "text": "Instructors: Suryajith Chillara and Girish Varma\nTeaching assistants: Sriram Devata and A Kishore Kumar\nSchedule: Monday and Tuesday, 14:00 – 15:25\nClassroom: H-103"
+  },
+  {
+    "objectID": "teaching/courses/CS2.201aSpring2023/index.html#announcements",
+    "href": "teaching/courses/CS2.201aSpring2023/index.html#announcements",
+    "title": "CS2.201a Computer Systems Organization (Spring 2023)",
+    "section": "",
+    "text": "Instructors: Suryajith Chillara and Girish Varma\nTeaching assistants: Sriram Devata and A Kishore Kumar\nSchedule: Monday and Tuesday, 14:00 – 15:25\nClassroom: H-103"
+  },
+  {
+    "objectID": "teaching/courses/CS2.201aSpring2023/index.html#lectures",
+    "href": "teaching/courses/CS2.201aSpring2023/index.html#lectures",
+    "title": "CS2.201a Computer Systems Organization (Spring 2023)",
+    "section": "Lectures",
+    "text": "Lectures\n\nPart I\n\nIntroduction to Computer Systems File\n\nClass notes\nReferences: Chapter 1 of [1]\n\nComputer Arithmetic 1\n\nClass notes\nReferences: Sections 2.1 and 2.2 of [1]\n\nComputer Arithmetic 2\n\nClass notes\nReferences: Sections 2.2 and 2.3 of [1]\n\nComputer Arithmetic 3\n\nClass notes\nReferences: Section 2.4 of [1]\n\nAssembly language programming 1 (SimpleRISC)\n\nReferences: Chapter 3 from [2]\n\nAssembly language programming 1 (SimpleRISC) (contd.)\n\nReferences: Chapter 3 from [2]\n\nAssembly language programming 1 (SimpleRISC) (contd.)\n\nReferences: Chapter 3 from [2]\n\nAssembly language programming 1 (SimpleRISC) (contd.)\n\nReferences: Chapter 3 from [2]\n\nAssembly language programming 2 (ARM)\n\nReferences: Chapter 4 of [2]\n\nAssembly language programming 2 (ARM) (contd.)\n\nReferences: Chapter 4 of [2]\n\nAssembly programming 3 (x86)\n\nReferences: Chapter 3 of [1], and Chapter 5 of [2]\n\nAssembly programming 3 (x86) (contd.)\n\nReferences: Chapter 3 of [1], and Chapter 5 of [2]\n\nAssembly programming 3 (x86) (contd.)\n\nReferences: Chapter 3 of [1], and Chapter 5 of [2]\n\n\n\n\nPart II\n\nTaught by Dr. Girish Varma."
+  },
+  {
+    "objectID": "teaching/courses/CS2.201aSpring2023/index.html#references",
+    "href": "teaching/courses/CS2.201aSpring2023/index.html#references",
+    "title": "CS2.201a Computer Systems Organization (Spring 2023)",
+    "section": "References",
+    "text": "References\n\nR. Bryant and D. O’Hallaron (2015), Computer Systems: A programmer’s perspective (Third edition), Addison-Wesley Publishing Company, USA.\nS. R. Sarangi (2021), Basic Computer Architechture, White Falcon Publishing, India."
+  },
+  {
+    "objectID": "teaching/courses/CS1.301Monsoon2022/index.html",
+    "href": "teaching/courses/CS1.301Monsoon2022/index.html",
+    "title": "CS1.301 Algorithm Analysis and Design (Monsoon 2022)",
+    "section": "",
+    "text": "Teaching assistants: Posted on Moodle\nSchedule: Lectures: Wednesday and Saturday, 10:00 – 11:25, Tutorial: Wednesday, 14:00 - 15:00\nClassroom: H-105"
+  },
+  {
+    "objectID": "teaching/courses/CS1.301Monsoon2022/index.html#announcements",
+    "href": "teaching/courses/CS1.301Monsoon2022/index.html#announcements",
+    "title": "CS1.301 Algorithm Analysis and Design (Monsoon 2022)",
+    "section": "",
+    "text": "Teaching assistants: Posted on Moodle\nSchedule: Lectures: Wednesday and Saturday, 10:00 – 11:25, Tutorial: Wednesday, 14:00 - 15:00\nClassroom: H-105"
+  },
+  {
+    "objectID": "teaching/courses/CS1.301Monsoon2022/index.html#lectures",
+    "href": "teaching/courses/CS1.301Monsoon2022/index.html#lectures",
+    "title": "CS1.301 Algorithm Analysis and Design (Monsoon 2022)",
+    "section": "Lectures",
+    "text": "Lectures\n\nIntroduction to Algorithm Analysis\n\nReferences: Chapter 2 of [1]\n\nBasic Graph Algorithms: BFS and DFS\n\nReferences: Section 3.2 of [1]\n\nBasic Graph Algorithms: DFS (contd), and Testing bipartiteness\n\nReferences: Sections 3.3 and 3.4 of [1]\n\nBasic Graph Algorithms: Testing bipartiteness, Search algorithms on Directed graphs\n\nReferences: Sections 3.4 and 3.5 of [1]\n\nBasic Graph Algorithms: Directed Acyclic Graphs, and Topological sort\n\nReferences: Sections 3.5 and 3.6 of [1]\n\nGreedy Algorithms: Shortest paths\n\nReferences: Section 4.4 of [1]\n\nGreedy Algorithms: Minimum spanning trees\n\nReferences: Sections 4.5 and 4.6 of [1]\n\nGreedy Algorithms: Huffman coding\n\nReferences: Section 4.8 of [1]\n\nGreedy Algorithms: Huffman coding (contd.), and Interval scheduling\n\nReferences: Sections 4.8 and 4.1 of [1]\n\nDivide and Conquer: Merge sort, Karatsuba’s integer multiplication, Strassen’s matrix multiplication\n\nReferences: Sections 5.1, 5.2 and 5.5 of [1]\n\nDivide and Conquer: Discrete Fourier Transform\n\nReferences: Section 5.5 of [1]\n\nDivide and Conquer: Closest pair of points\n\nReferences: Section 5.4 of [1]\n\nReview\nDynamic Programming: Fibonacci, Longest Increasing Subsequence\n\nReferences: Sections 3.2 and 3.6 of [4]\n\nDynamic Programming: Interval scheduling\n\nReferences: Sections 6.1 and 6.2 of [1]\n\nDynamic Programming: Subset problem, 0-1 Knapsack, Matrix Chain Multiplication\n\nReferences: Section 6.4 of [1], and section 2.8 of [5]\n\nDynamic Programming: All pairs shortest paths\n\nReferences: Section 6.8 of [1]\n\nNetwork Flows I\n\nReferences: Section 7.1 of [1]\n\nNetwork Flows II\n\nReferences: Sections 7.1 and 7.2 of [1]\n\nNetwork Flows III\n\nReferences: Section 7.1 of [1]\n\nNetwork Flows IV\n\nReferences: Section 7.1 of [1]\n\nComputational Efficiency, and Intractability I\n\nReferences: Chapter 12 of [4]\n\nComputational Efficiency, and Intractability II\n\nReferences: Chapter 12 of [4]\n\nComputational Efficiency, and Intractability III\n\nReferences: Chapter 12 of [4]\n\nComputational Efficiency, and Intractability IV\n\nReferences: Chapter 12 of [4]"
+  },
+  {
+    "objectID": "teaching/courses/CS1.301Monsoon2022/index.html#references",
+    "href": "teaching/courses/CS1.301Monsoon2022/index.html#references",
+    "title": "CS1.301 Algorithm Analysis and Design (Monsoon 2022)",
+    "section": "References",
+    "text": "References\n\nJ. Kleinberg, and E. Tardos (2005), Algorithm Design, Pearson (Addison Wesley).\nT. H. Cormen, C. E. Leiserson, R. Rivest, and C. Stein, Introduction to Algorithms (third edition, 2009), MIT press and McGraw Hill.\nS. Dasgupta, C. Papadimitrou, and U. Vazirani, Algorithms (first edition, 2006), McGraw Hill Education.\nJ. Erickson, Algorithms (first edition, 2019).\nA. Aho, J. Hopcraft, and J. Ullman, Design and Analysis of Algorithms (1974), Addison Wesley."
+  },
+  {
+    "objectID": "teaching/courses/CS1.301Monsoon2023/index.html",
+    "href": "teaching/courses/CS1.301Monsoon2023/index.html",
+    "title": "CS1.301 Algorithm Analysis and Design (Monsoon 2023)",
+    "section": "",
+    "text": "Teaching assistants: Posted on Moodle\nSchedule: Lectures: Tuesday and Friday, 10:00 – 11:25, Tutorial: Saturday, 12:40 - 13:40\nClassroom: H-205"
+  },
+  {
+    "objectID": "teaching/courses/CS1.301Monsoon2023/index.html#announcements",
+    "href": "teaching/courses/CS1.301Monsoon2023/index.html#announcements",
+    "title": "CS1.301 Algorithm Analysis and Design (Monsoon 2023)",
+    "section": "",
+    "text": "Teaching assistants: Posted on Moodle\nSchedule: Lectures: Tuesday and Friday, 10:00 – 11:25, Tutorial: Saturday, 12:40 - 13:40\nClassroom: H-205"
+  },
+  {
+    "objectID": "teaching/courses/CS1.301Monsoon2023/index.html#lectures",
+    "href": "teaching/courses/CS1.301Monsoon2023/index.html#lectures",
+    "title": "CS1.301 Algorithm Analysis and Design (Monsoon 2023)",
+    "section": "Lectures",
+    "text": "Lectures\n\nAlmost the same as the previous years’."
+  },
+  {
+    "objectID": "teaching/courses/CS1.301Monsoon2023/index.html#references",
+    "href": "teaching/courses/CS1.301Monsoon2023/index.html#references",
+    "title": "CS1.301 Algorithm Analysis and Design (Monsoon 2023)",
+    "section": "References",
+    "text": "References\n\nJ. Kleinberg, and E. Tardos (2005), Algorithm Design, Pearson (Addison Wesley).\nT. H. Cormen, C. E. Leiserson, R. Rivest, and C. Stein, Introduction to Algorithms (third edition, 2009), MIT press and McGraw Hill.\nS. Dasgupta, C. Papadimitrou, and U. Vazirani, Algorithms (first edition, 2006), McGraw Hill Education.\nJ. Erickson, Algorithms (first edition, 2019).\nA. Aho, J. Hopcraft, and J. Ullman, Design and Analysis of Algorithms (1974), Addison Wesley."
+  }
+]
