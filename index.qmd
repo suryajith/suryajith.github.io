@@ -1,0 +1,44 @@
+---
+title: ""
+format:
+  html: default
+---
+
+:::{.container}
+
+::: {.left-column}
+
+<img src="./newimg.png" 
+        alt="Picture" 
+        width="200"  
+        style="border-radius: 50%;" />
+
+<!-- # Suryajith Chillara
+
+**Affiliation:**  
+Assistant Professor,  
+[Center for Security, Theory and Algorithmic Research (CSTAR)](https://cstar-iiit.github.io),  
+[International Institute of Information Technology, Hyderabad (IIIT-H)](https://www.iiit.ac.in).
+
+**Contact:**  
+111, CSTAR, Vindhya A3,  
+International Institute of Information Technology,  
+Gachibowli, Hyderabad, India.
+
+**Email:** {firstname}.{lastname}@iiit.ac.in -->
+
+:::
+
+::: {.right-column}
+
+## Bio
+
+I am an Assistant Professor with [Center for Security, Theory and Algorithmic Research (CSTAR)](https://cstar-iiit.github.io) at [International Institute of Information Technology, Hyderabad (IIIT Hyderabad)](https://www.iiit.ac.in).
+
+My research broadly lies at the interface of Algorithms, [Computational Complexity Theory](https://en.wikipedia.org/wiki/Computational_complexity_theory) and [Coding Theory](https://en.wikipedia.org/wiki/Error_correction_code).
+
+Previously, I was a post-doctoral fellow at [University of Haifa](https://haifa.ac.il/index.php/en) mentored by [Noga Ron-Zewi](https://cs.haifa.ac.il/~noga), and at [IIT Bombay](https://www.cse.iitb.ac.in) mentored by [Nutan Limaye](https://www.cse.iitb.ac.in/~nutan/). I got my MSc and PhD degrees in Computer Science from [Chennai Mathematical Institute (CMI)](http://www.cmi.ac.in) under the supervision of [Partha Mukhopadhyay](http://www.cmi.ac.in/~partham). I got my undergraduate degree from [IIT Kanpur](http://www.iitk.ac.in).
+
+:::
+
+:::

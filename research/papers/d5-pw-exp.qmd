@@ -1,0 +1,28 @@
+---
+title: "Exponential Lower Bounds for Some Restricted Depth Five Powering Circuits"
+date: "2017-04-15"
+year: "2017"
+publisher: "Chicago Journal of Theoretical Computer Science (accepted)"
+authors: "S. Chillara, C. Engels, B. V. R. Rao, R. Saptharishi and K. Sreenivasiah"
+---
+
+[Link to the article](/storage/papers/d5pw.pdf)
+
+### Authors
+Suryajith Chillara, Christian Engels, B. V. Raghavendra Rao, Ramprasad Saptharishi and Karteek Sreenivasiah
+
+### Publisher Information
+- Journal: Chicago Journal of Theoretical Computer Science (accepted)
+
+## Abstract
+
+Depth five powering circuits are arithmetic circuits of the form $\Sigma\wedge\Sigma\wedge\Sigma$ where $\Sigma$ and $\wedge$ represent gates that compute sum and power of their inputs respectively. Such circuits compute polynomials of the form $\sum_{i=1}^t Q_i^{\alpha_{i}}$, where each $Q_i$ is a sum of powers of linear polynomials. These circuits are a natural generalization of the well known class of depth three powering circuits ($\Sigma\wedge\Sigma$ circuits). In this paper, we study the complexity of some restricted classes of depth five powering circuits that compute the monomial $x_1x_2\cdots x_n$. The restrictions we study are on the fan-ins of the $\Sigma$ and $\wedge$ gates (denoted by $\Sigma^{[a]}$ and $\wedge^{[d]}$) while the bottom $\Sigma$ gates compute homogeneous linear polynomials.
+
+We prove size lower bound of $2^{\Omega(n)}$ against the following classes of depth five powering circuits that compute the monomial $x_1x_2\cdots x_n$.
+
+- The $\Sigma\wedge\Sigma^{[m]}\wedge^{[\ge d]}\Sigma_{\text{Hom}}$ circuits where $d\geq 8$ and $m< \frac{0.29n}{d^2}2^{0.955d}$.
+- The $\Sigma\wedge\Sigma^{\{r\}}\wedge^{[= d]}\Sigma_{\text{Hom}}$ circuits where $r < \epsilon\cdot d$ is the rank of the linear forms under that sum gate, $\epsilon >0$ is a constant and $d\geq 8$.
+
+From this, we infer that the monomial can be computed by a $\Sigma\wedge\Sigma^{[=2^{\sqrt{n}}]}\wedge^{[=\sqrt{n}]}\Sigma_{\text{Hom}}$ (or a $\Sigma\wedge\Sigma^{\{=\sqrt{n}\}}\wedge^{[=\sqrt{n}]}\Sigma_{\text{Hom}}$) circuit of size $2^{O(\sqrt{n})}$ but any $\Sigma\wedge\Sigma^{[\leq 2^{0.955\sqrt{n}}]}\wedge^{[\ge \sqrt{n}]}\Sigma_{\text{Hom}}$ (or a $\Sigma\wedge\Sigma^{\{\leq \epsilon\sqrt{n}\}}\wedge^{[= \sqrt{n}]}\Sigma_{\text{Hom}}$) circuit computing it must be of size $2^{\Omega(n)}$.
+
+Our results show how the fan-in of the middle $\Sigma$ gates, the degree of the bottom powering gates and the homogeneity at the bottom $\Sigma$ gates play a crucial role in the computational power of $\Sigma\wedge\Sigma\wedge\Sigma$ circuits.

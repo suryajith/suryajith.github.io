@@ -1,0 +1,13 @@
+---
+title: "CS1.406 Advanced Algorithms (Spring 2025)"
+date: "2025-01-01"
+---
+
+## Announcements
+
+- **Teaching assistants:** 
+- **Schedule:** Monday and Friday, 11:40 -- 13:05
+- **Classroom:** H204
+
+## Lectures
+

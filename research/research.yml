@@ -1,0 +1,97 @@
+- title: Fractional Subadditivity of Submodular Functions, Equality Conditions and Their Applications
+  url: ./papers/fracsubadd-equality.qmd
+  authors: G. Jakhar, G. R. Kurri, S. Chillara, and V. M. Prabhakaran
+  venue: ISIT 2025
+  type: conf
+  year: 2025 
+
+- title: Branching Programs with Extended Memory, New Insights
+  url: ./papers/sbp-vnp.qmd
+  authors: S. Chillara and N. Raja
+  venue: CIAC 2025
+  type: conf
+  year: 2024  
+
+- title: On Hardness of Testing Equivalence to Sparse Polynomials Under Shifts
+  url: ./papers/sparsification-hardness.qmd
+  authors: S. Chillara, C. Grichener, and A. Shpilka
+  venue: STACS 2023
+  type: conf
+  year: 2023  
+
+- title: Functional Lower Bounds for Restricted Arithmetic Circuits of Depth Four
+  url: ./papers/functional.qmd
+  authors: S. Chillara
+  venue: FSTTCS 2021
+  type: conf
+  year: 2021  
+
+- title: New Exponential Size Lower Bounds against Depth Four Circuits of Bounded Individual Degree
+  url: ./papers/multiric-d4-exp.qmd
+  authors: S. Chillara
+  venue: Electron. Colloquium Comput. Complex.
+  type: preprint
+  year: 2020
+
+- title: On Computing Multilinear Polynomials using Multi-ic Depth Four Circuits
+  url: ./papers/multiric-d4-qpoly.qmd
+  authors: S. Chillara
+  venue: ACM Transactions on Computation Theory
+  type: journal
+  year: 2020  
+
+- title: Slightly Improved Lower Bounds for Homogeneous Multi-r-ic Formulas of Small-Depth
+  url: ./papers/multiric-homform.qmd
+  authors: S. Chillara
+  venue: Information Processing Letters
+  type: journal
+  year: 2020  
+
+- title: A Near-Optimal Depth-Hierarchy Theorem for Small-Depth Multilinear Circuits
+  url: ./papers/ml-dh.qmd
+  authors: S. Chillara, C. Engels, N. Limaye, and S. Srinivasan
+  venue: FOCS 2018
+  type: conf
+  year: 2018  
+
+- title: A Quadratic Size-Hierarchy Theorem for Small-Depth Multilinear Formulas
+  url: ./papers/ml-sh.qmd
+  authors: S. Chillara, N. Limaye, and S. Srinivasan
+  venue: ICALP 2018
+  type: conf
+  year: 2018  
+
+- title: Small-depth Multilinear Formula Lower Bounds for Iterated Matrix Multiplication, with Applications
+  url: ./papers/imm-ml.qmd
+  authors: S. Chillara, N. Limaye, and S. Srinivasan
+  venue: SIAM Journal of Computing
+  type: journal
+  year: 2019  
+
+- title: Exponential Lower Bounds for Some Restricted Depth Five Powering Circuits
+  url: ./papers/d5-pw-exp.qmd
+  authors: S. Chillara, C. Engels, B. V. R. Rao, R. Saptharishi, and K. Sreenivasiah
+  venue: Chicago Journal of Theoretical Computer Science
+  type: journal
+  year: 2017
+
+- title: The Chasm at Depth Four, and Tensor Rank, Old results, new insights
+  url: ./papers/d4-tr.qmd
+  authors: S. Chillara, M. Kumar, R. Saptharishi, and V. Vinay
+  venue: Electron. Colloquium Comput. Complex.
+  type: preprint
+  year: 2016  
+
+- title: On the Limits of Depth Reduction at Depth-3 Over Small Finite Fields
+  url: ./papers/d3-ff-exp.qmd
+  authors: S. Chillara and P. Mukhopadhyay
+  venue: Information and Computation
+  type: journal
+  year: 2014  
+
+- title: Depth 4 Lower Bounds, Determinantal Complexity, A Unified Approach
+  url: ./papers/d4-dc.qmd
+  authors: S. Chillara and P. Mukhopadhyay
+  venue: Computational Complexity
+  type: journal
+  year: 2019

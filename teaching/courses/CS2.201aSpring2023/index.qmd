@@ -1,0 +1,63 @@
+---
+title: "CS2.201a Computer Systems Organization (Spring 2023)"
+date: "2022-11-09"
+---
+
+## Announcements
+- **Instructors:** Suryajith Chillara and Girish Varma
+- **Teaching assistants:** Sriram Devata and A Kishore Kumar
+- **Schedule:** Monday and Tuesday, 14:00 -- 15:25
+- **Classroom:** H-103
+
+## Lectures
+### Part I
+1. Introduction to Computer Systems File
+    - [Class notes](https://www.dropbox.com/s/hozm4ybqg0mtezi/S23-CS2.201a-Lecture1.pdf?dl=0)
+    - References: Chapter 1 of [1]
+
+2. Computer Arithmetic 1 
+    - [Class notes](https://www.dropbox.com/s/2yhqo4nzuq51s0y/S23-CS2.201a-Lecture2.pdf?dl=0)
+    - References: Sections 2.1 and 2.2 of [1]
+    
+3. Computer Arithmetic 2
+    - [Class notes](https://www.dropbox.com/s/35olc9dbqqw61q4/S23-CS2.201a-Lecture3.pdf?dl=0)
+    - References: Sections 2.2 and 2.3 of [1]
+    
+4. Computer Arithmetic 3
+    - [Class notes](https://www.dropbox.com/s/zg98cano9gmvblm/S23-CS2.201a-Lecture4.pdf?dl=0)
+    - References: Section 2.4 of [1]
+
+5.  Assembly language programming 1 (SimpleRISC)
+    - References: Chapter 3 from [2]
+
+6. Assembly language programming 1 (SimpleRISC) (contd.)
+    - References: Chapter 3 from [2]
+    
+7. Assembly language programming 1 (SimpleRISC) (contd.)
+    - References: Chapter 3 from [2]
+    
+8. Assembly language programming 1 (SimpleRISC) (contd.)
+    - References: Chapter 3 from [2]
+    
+9. Assembly language programming 2 (ARM)
+    - References: Chapter 4 of [2]
+
+10. Assembly language programming 2 (ARM) (contd.)
+    - References: Chapter 4 of [2]
+
+11. Assembly programming 3 (x86) 
+    - References: Chapter 3 of [1], and Chapter 5 of [2]
+
+12. Assembly programming 3 (x86) (contd.)
+    - References: Chapter 3 of [1], and Chapter 5 of [2]
+
+13. Assembly programming 3 (x86) (contd.)
+    - References: Chapter 3 of [1], and Chapter 5 of [2]
+
+### Part II
+- Taught by [Dr. Girish Varma](https://girishvarma.in).
+
+## References
+1. R. Bryant and D. O'Hallaron (2015), Computer Systems: A programmer's perspective (Third edition), Addison-Wesley Publishing Company, USA.
+2. S. R. Sarangi (2021), [Basic Computer Architechture](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html), White Falcon Publishing, India.
+

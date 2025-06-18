@@ -1,0 +1,8 @@
+---
+title: "CS1.201 Data Structures and Algorithms: Lab (Spring 2023)"
+date: "2022-11-10"
+---
+
+### Lab-instructor while Sujit Gujar and Ravi Kiran S were main instructors.
+
+

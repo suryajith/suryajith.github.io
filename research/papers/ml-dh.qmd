@@ -1,0 +1,25 @@
+---
+title: "A Near-Optimal Depth-Hierarchy Theorem for Small-Depth Multilinear Circuits"
+date: "2018-10-15"
+year: "2018"
+publisher: "FOCS 2018, Pages 934-945"
+authors: "S. Chillara, C. Engels, N. Limaye and S. Srinivasan"
+---
+
+[Link to the article](/storage/papers/ml-dh.pdf)
+
+### Authors
+Suryajith Chillara, Nutan Limaye and Srikanth Srinivasan
+
+### Publisher Information
+
+- Conference: [FOCS 2018, Pages 934-945](https://www.computer.org/csdl/proceedings-article/focs/2018/423000a934/17D45WZZ7GU)
+
+## Abstract
+We study the size blow-up that is necessary to convert an algebraic circuit of product-depth $\Delta+1$ to one of product-depth $\Delta$ in the multilinear setting.
+
+We show that for every positive $\Delta = \Delta(n) = o(\log n/\log \log n)$, there is an explicit multilinear polynomial $P^{(\Delta)}$ on $n$ variables that can be computed by a multilinear formula of product-depth $\Delta+1$ and size $O(n)$, but not by any multilinear circuit of product-depth $\Delta$ and size less than $\exp(n^{\Omega(1/\Delta)})$. This result is tight up to the constant implicit in the double exponent for all $\Delta = o(\log n/\log \log n)$.
+
+This strengthens a result of Raz and Yehudayoff (Computational Complexity 2009) who prove a quasipolynomial separation for constant-depth multilinear circuits, and a result of Kayal, Nair and Saha (STACS 2016) who give an exponential separation in the case $\Delta = 1$.
+
+Our separating examples may be viewed as algebraic analogues of variants of the Graph Reachability problem studied by Chen, Oliveira, Servedio and Tan (STOC 2016), who used them to prove lower bounds for constant-depth *Boolean* circuits.

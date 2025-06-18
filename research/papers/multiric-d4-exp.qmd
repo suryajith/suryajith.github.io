@@ -1,0 +1,22 @@
+---
+title: "New Exponential Size Lower Bounds against Depth Four Circuits of Bounded Individual Degree"
+date: "2020-06-15"
+year: "2020"
+publisher: "Electron. Colloquium Comput. Complex. 27: 33 (2020)"
+authors: "S. Chillara"
+---
+
+[Link to the article](/storage/papers/exp-ml-mkic-d4.pdf)
+
+### Authors
+Suryajith Chillara
+
+### Publisher Information
+
+- Preprint: [Electron. Colloquium Comput. Complex. 27: 33 (2020)](https://eccc.weizmann.ac.il/report/2020/033/)
+
+## Abstract
+
+Kayal, Saha and Tavenas [Theory of Computing, 2018] showed that for all large enough integers $n$ and $d$ such that $d\geq \omega(\log{n})$, any syntactic depth four circuit of bounded individual degree $\delta = o(d)$ that computes the Iterated Matrix Multiplication polynomial ($IMM_{n,d}$) must have size $n^{\Omega\left(\sqrt{d/\delta}\right)}$. Unfortunately, this bound deteriorates as the value of $\delta$ increases. Further, the bound is superpolynomial only when $\delta$ is $o(d)$. It is natural to ask if the dependence on $\delta$ in the bound could be weakened. Towards this, in an earlier result [STACS, 2020], we showed that for all large enough integers $n$ and $d$ such that $d = \Theta(\log^2{n})$, any syntactic depth four circuit of bounded individual degree $\delta\leq n^{0.2}$ that computes $IMM_{n,d}$ must have size $n^{\Omega(\log{n})}$.
+
+In this paper, we make further progress by proving that for all large enough integers $n$ and $d$, and absolute constants $a$ and $b$ such that $\omega(\log^2n)\leq d\leq n^{a}$, any syntactic depth four circuit of bounded individual degree $\delta\leq n^{b}$ that computes $IMM_{n,d}$ must have size $n^{\Omega(\sqrt{d})}$. Our bound is obtained by carefully adapting the proof of Kumar and Saraf [SIAM J. Computing, 2017] to the complexity measure introduced in our earlier work [STACS, 2020].

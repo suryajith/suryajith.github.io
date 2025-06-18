@@ -1,0 +1,24 @@
+---
+title: "On the Limits of Depth Reduction at Depth-3 Over Small Finite Fields"
+date: "2014-07-25"
+year: "2014"
+publisher: "Information and Computation, Vol 256, Pages 35-44; Prelim version: MFCS 2014, Vol 2, Pages 177-188"
+authors: "S. Chillara, and P. Mukhopadhyay"
+---
+
+[Link to the article](/storage/papers/d3ff.pdf)
+
+### Authors
+Suryajith Chillara and Partha Mukhopadhyay
+
+### Publisher Information
+- Journal: [Information and Computation, Vol 256, Pages 35-44](https://www.sciencedirect.com/science/article/pii/S0890540117300573?via%3Dihub)
+- Conference: [MFCS 2014, Vol 2, Pages 177-188](https://link.springer.com/chapter/10.1007%2F978-3-662-44465-8_16)
+
+## Abstract
+
+In a surprising recent result, Gupta-Kamath-Kayal-Saptharishi have proved that over $\mathbb{Q}$ any $n^{O(1)}$-variate and $n$-degree polynomial in $VP$ can also be computed by  a depth three $\Sigma\Pi\Sigma$ circuit of size $2^{O(\sqrt{n} \log^{3/2}n)}$.  Over fixed-size finite fields, Grigoriev and Karpinski proved that any $\Sigma\Pi\Sigma$ circuit that computes the determinant (or the permanent) polynomial of a $n\times n$ matrix must be of size $2^{\Omega(n)}$. In this paper, for an explicit  polynomial in $VP$ (over fixed-size finite fields), we prove that any $\Sigma\Pi\Sigma$ circuit  computing it must be of size $2^{\Omega(n\log n)}$. The explicit polynomial that we consider is the iterated matrix multiplication polynomial of $n$ generic matrices of size $n\times n$.  The importance of this result is that over fixed-size fields there is no depth reduction technique that can be used to compute all the $n^{O(1)}$-variate and $n$-degree polynomials in $VP$  by depth 3 circuits of size
+$2^{o(n\log n)}$.
+The result of Grigoriev and Karpinski can only rule out such a possibility for $\Sigma\Pi\Sigma$ circuits of size $2^{o(n)}$.    
+
+We also give an example of an explicit polynomial ($NW_{n,\epsilon}(X)$) in $VNP$ (which is not known to be in $VP$), for which any $\Sigma\Pi\Sigma$ circuit computing it (over fixed-size fields) must be of  size $2^{\Omega(n\log n)}$. The polynomial we consider is constructed from the combinatorial design of Nisan and Wigderson, and is closely related to the polynomials  considered in many recent papers (by Kayal-Saha-Saptharishi, Kayal-Limaye-Saha-Srinivasan, and Kumar-Saraf),  where strong depth 4 circuit size lower bounds are shown.

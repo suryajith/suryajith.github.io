@@ -1,0 +1,20 @@
+---
+title: "Fractional Subadditivity of Submodular Functions: Equality Conditions and Their Applications"
+date: "2025-01-19"
+year: "2025"
+publisher: "ISIT 2025"
+authors: "G. Jakhar, G. R. Kurri, S. Chillara, and V. M. Prabhakaran"
+---
+
+[Link to the article](/storage/papers/fracsubadd-equality.pdf)
+
+
+### Authors
+Gunank Jahkar, Gowtham R. Kurri, Suryajith Chillara, and Vinod M. Prabhakaran
+
+### Publisher Information
+- ISIT 2025
+
+## Abstract
+
+Submodular functions are known to satisfy various forms of fractional subadditivity. This work investigates the conditions for equality to hold exactly or approximately in the fractional subadditivity of submodular functions. We establish that a small gap in the inequality implies that the function is close to being modular, and that the gap is zero if and only if the function is modular. We then present natural implications of these results for special cases of submodular functions, such as entropy, relative entropy, and matroid rank. As a consequence, we characterize the necessary and sufficient conditions for equality to hold in Shearer's lemma, recovering a result of Ellis et al. (2016) as a special case. We leverage our results to propose a new multivariate mutual information, which generalizes Watanabe's total correlation (1960), Han's dual total correlation (1978), and Csisz\'ar and Narayan's shared information (2004), and analyze its properties. Among these properties, we extend Watanabe's characterization of total correlation as the maximum correlation over partitions to fractional partitions. When applied to matrix determinantal inequalities for positive definite matrices, our results recover the equality conditions of the classical determinantal inequalities of Hadamard, Szasz, and Fischer as special cases.

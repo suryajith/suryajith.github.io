@@ -1,0 +1,26 @@
+---
+title: "Slightly Improved Lower Bounds for Homogeneous Multi-r-ic Formulas of Small-Depth"
+date: "2019-12-12"
+year: "2020"
+publisher: "Information Processing Letters, vol 156"
+authors: "S. Chillara"
+---
+
+
+[Link to the article](/storage/papers/multikic-constdepth.pdf)
+
+### Authors
+Suryajith Chillara
+
+### Publisher Information
+
+- Journal: [Information Processing Letters, vol 156](https://www.sciencedirect.com/science/article/pii/S0020019019301838?dgcid=author)
+
+## Abstract
+Kayal, Saha and Tavenas (Theory of Computing, 2018), showed that any bounded-depth homogeneous formula of bounded individual degree (bounded by $r$) that computes an explicit polynomial over $n$ variables must have size $\exp\left(\Omega\left(\frac{1}{r}\left(\frac{n}{4}\right)^{1/\Delta}\right)\right)$ for all depths $\Delta \leq O\left({\frac{\log n}{\log r+ \log\log n}}\right)$. In this article we show an improved size lower bound of $\exp\left(\Omega\left(\frac{\Delta}{r}\left({\frac{nr}{2}}\right)^{1/\Delta}\right)\right)$ for all depths $\Delta \leq O\left({\frac{\log n}{\log r}}\right)$, and for the same explicit polynomial.
+
+In comparison to Kayal, Saha and Tavenas (Theory of Computing, 2018)
+1. our results give superpolynomial lower bounds in a wider regime of depth $\Delta$, and
+2. for all $\Delta \in \left[\omega(1), o\left(\frac{\log n}{\log r}\right)\right]$ our lower bound is asymptotically better.
+
+This improvement is due to a finer product decomposition of general homogeneous formulas of bounded-depth. This follows from an adaptation of a new \emph{product decomposition} for bounded-depth multilinear formulas shown by Chillara, Limaye and Srinivasan (SIAM Journal of Computing, 2019).

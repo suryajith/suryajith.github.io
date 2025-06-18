@@ -1,0 +1,26 @@
+---
+title: "CS1.301 Algorithm Analysis and Design (Monsoon 2023)"
+date: "2023-07-01"
+---
+
+## Announcements
+
+- **Teaching assistants:** Posted on Moodle
+- **Schedule:** Lectures: Tuesday and Friday, 10:00 -- 11:25, Tutorial: Saturday, 12:40 - 13:40
+- **Classroom:** H-205
+
+## Lectures
+
+- Almost the same as the previous years'.
+
+
+
+
+
+## References
+
+1. J. Kleinberg, and E. Tardos (2005), Algorithm Design, Pearson (Addison Wesley).
+2. T. H. Cormen, C. E. Leiserson, R. Rivest, and C. Stein, Introduction to Algorithms (third edition, 2009), MIT press and McGraw Hill.
+3. S. Dasgupta, C. Papadimitrou, and U. Vazirani, Algorithms (first edition, 2006), McGraw Hill Education.
+4. J. Erickson, Algorithms (first edition, 2019).
+5. A. Aho, J. Hopcraft, and J. Ullman, Design and Analysis of Algorithms (1974), Addison Wesley.
