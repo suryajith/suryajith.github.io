@@ -11,3 +11,94 @@ date: "2025-01-01"
 
 ## Lectures
 
+#### Lecture 1: Verifying Matrix Multiplication
+
+**References:**
+- Section 1.3 of [Mitzenmacher-Upfal](https://www.cambridge.org/core/books/probability-and-computing/3A5B47DB315FC64B9256C5C8131C5EFA)
+
+#### Lectures 2, 3 & 4: PIT and Parallel Algorithms for Matching
+
+**References:** *(Prefer these over the notes uploaded)*
+1. Notes from UWash
+2. [Mulmuley Vazirani Vazirani paper (Lemma 3)](https://link.springer.com/article/10.1007/BF02579206)
+3. [New (stronger) proof for Isolation Lemma by Noam Ta-Shma](https://eccc.weizmann.ac.il/report/2015/080/)
+
+#### Lecture 5: Chernoff Bound
+
+**References:**
+- Section 4.1 till 4.3 of [Mitzenmacher & Upfal](https://www.cambridge.org/core/books/probability-and-computing/3A5B47DB315FC64B9256C5C8131C5EFA)
+
+#### Lectures 5 & 6: Approximate Counting
+
+**References:**
+1. Sections 11.1 and 11.2 of [Motwani-Raghavan](https://www.cambridge.org/core/books/randomized-algorithms/6A3E5CD760B0DDBA3794A100EE2843E8)
+2. Sections 10.1 and 10.2 of [Mitzenmacher-Upfal](https://www.cambridge.org/core/books/probability-and-computing/3A5B47DB315FC64B9256C5C8131C5EFA)
+3. **Suggested reading:** Section 10.3 of [Mitzenmacher-Upfal](https://www.cambridge.org/core/books/probability-and-computing/3A5B47DB315FC64B9256C5C8131C5EFA) *(optional)*
+
+#### Lectures 7 & 8: k-path Problem
+
+**References:**
+- [Course notes from MIT course on Fine Grained Complexity - 1](https://people.csail.mit.edu/virgi/6.1420/)
+- [MIT course on Fine Grained Complexity - 2](https://people.csail.mit.edu/virgi/6.s078/)
+- An expository of k-path
+
+#### Lecture 9: k-3D Matching
+
+**References:**
+- [Review article by Koutis and Williams](https://link.springer.com/chapter/10.1007/978-3-642-02927-1_54)
+
+#### Lecture 10: Counting Perfect Matchings
+
+**References:**
+1. Bax Franklin
+2. Simplified exposition of Bax-Franklin by Bjorklund-Williams
+
+#### Lecture 11: Dissimilar Vectors
+
+**References:**
+- Section 2 of Bjorklund-Williams
+
+#### Lectures 12, 13, 14 & 15
+
+**References:**
+- Chapter 7 of [Mitzenmacher-Upfal](https://www.cambridge.org/core/books/probability-and-computing/3A5B47DB315FC64B9256C5C8131C5EFA)
+
+#### Lectures 15 & 16: MaxSAT
+
+**References:**
+- Sections 6.1 till 6.3 of [Mitzenmacher-Upfal](https://www.cambridge.org/core/books/probability-and-computing/3A5B47DB315FC64B9256C5C8131C5EFA)
+
+#### Lecture 17: MinCut & RandQS
+
+**References:**
+- Chapter 1 of [Mitzenmacher-Upfal](https://www.cambridge.org/core/books/probability-and-computing/3A5B47DB315FC64B9256C5C8131C5EFA)
+
+#### Lecture 18: Coupon Collector Problem & Balls and Bins
+
+**References:**
+- Sections 2.4 and 5.2 of [Mitzenmacher-Upfal](https://www.cambridge.org/core/books/probability-and-computing/3A5B47DB315FC64B9256C5C8131C5EFA)
+
+#### Lectures 19-23: Hashing
+
+**References:**
+- Sections 15.1 and 15.3 of [Mitzenmacher-Upfal](https://www.cambridge.org/core/books/probability-and-computing/3A5B47DB315FC64B9256C5C8131C5EFA)
+- [Yossi Matias' notes on FKS hashing](http://theory.stanford.edu/~matias/papers.html)
+- More resources
+
+---
+
+#### Additional Resources
+
+##### Main Textbooks
+- **Mitzenmacher & Upfal**: [*Probability and Computing: Randomization and Probabilistic Techniques in Algorithms and Data Analysis*](https://www.cambridge.org/core/books/probability-and-computing/3A5B47DB315FC64B9256C5C8131C5EFA) - Cambridge University Press
+- **Motwani & Raghavan**: [*Randomized Algorithms*](https://www.cambridge.org/core/books/randomized-algorithms/6A3E5CD760B0DDBA3794A100EE2843E8) - Cambridge University Press
+
+##### Key Papers
+- [Mulmuley, Vazirani & Vazirani: "Matching is as easy as matrix inversion"](https://link.springer.com/article/10.1007/BF02579206) - Combinatorica 1987
+- [Noam Ta-Shma: "A simple proof of the Isolation Lemma"](https://eccc.weizmann.ac.il/report/2015/080/) - ECCC 2015
+- [Koutis & Williams: "Limits and Applications of Group Algebras for Parameterized Problems"](https://link.springer.com/chapter/10.1007/978-3-642-02927-1_54) - ICALP 2009
+
+##### Course Materials
+- [MIT Fine-Grained Complexity Course (Current)](https://people.csail.mit.edu/virgi/6.1420/)
+- [MIT Fine-Grained Complexity Course (Previous)](https://people.csail.mit.edu/virgi/6.s078/)
+- [Yossi Matias' Publications & FKS Hashing Notes](http://theory.stanford.edu/~matias/papers.html)
