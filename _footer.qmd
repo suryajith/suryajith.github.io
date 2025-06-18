@@ -1,6 +1,0 @@
-<footer>
-  <p>© 2025 Suryajith Chillara.</p>
-  <p>
-    Made with Quarto. (h/t to <a href="https://neeldhara.com">N</a>)
-  </p>
-</footer>
