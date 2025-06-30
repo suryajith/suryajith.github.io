@@ -175,214 +175,18 @@
     "text": "Similar courses\n\nPrevious offering of the course - Spring 2022\nSee the course at IISc by Siddharth Barman & Arindam Khan (and a list of similar courses on that page)."
   },
   {
-    "objectID": "teaching/index.html",
-    "href": "teaching/index.html",
-    "title": "Teaching",
+    "objectID": "students/index.html",
+    "href": "students/index.html",
+    "title": "Students",
     "section": "",
-    "text": "CS 1.503\nMathematical Foundations of Data Science\n Spring 2025\n\n\n\n\nCS 1.406\nAdvanced Algorithms\n Spring 2025\n\n\n\n\nCS 1.301\nAlgorithm Analysis and Design\n Fall 2024\n\n\n\n\nCS 1.406\nAdvanced Algorithms\n Spring 2024\n\n\n\n\nCS 1.503\nMathematical Foundations of Data Science\n Fall 2023\n\n\n\n\nCS 1.301\nAlgorithm Analysis and Design\n Fall 2023\n\n\n\n\nCS 1.201\nData Structures and Algorithms (lab)\n Spring 2023\n\n\n\n\nCS 2.201a\nComputer Systems Organization\n Spring 2023\n\n\n\n\nCS 1.406\nAdvanced Algorithms\n Spring 2023\n\n\n\n\nCS 1.301\nAlgorithm Analysis and Design\n Fall 2022\n\n\n\n\nCS 1.406\nAdvanced Algorithms\n Spring 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "PhD\n\nGunank Singh Jakhar (2023 - , Jointly with Gowtham R. Kurri)\n\n\n\nMasters\n\nPruthvi Boyapati (2024 - )\nNithish Raja (2022 - 2024, → PhD position at TU/e) –  MS Thesis \n\n\n\nDual Degree\n\nHarshil Singh (2025 - )\nAnushka Jain (2024 - )\nKeval Jain (2023 - , Jointly with Girish Varma)\nKriti Gupta (2023 - , Jointly with Girish Varma)\n\n\n\nHonours\n\nChitturi Meghana Sai Rama Lakshmi (2023 - 2025)\nArnav Negi (2024 - 2025)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "contact/index.html",
+    "href": "contact/index.html",
     "title": "Suryajith Chillara",
     "section": "",
-    "text": "I am an Assistant Professor with Center for Security, Theory and Algorithmic Research (CSTAR) at International Institute of Information Technology, Hyderabad (IIIT Hyderabad).\nMy research broadly lies at the interface of Algorithms, Computational Complexity Theory and Coding Theory.\nPreviously, I was a post-doctoral fellow at University of Haifa mentored by Noga Ron-Zewi, and at IIT Bombay mentored by Nutan Limaye. I got my MSc and PhD degrees in Computer Science from Chennai Mathematical Institute (CMI) under the supervision of Partha Mukhopadhyay. I got my undergraduate degree from IIT Kanpur."
-  },
-  {
-    "objectID": "index.html#bio",
-    "href": "index.html#bio",
-    "title": "Suryajith Chillara",
-    "section": "",
-    "text": "I am an Assistant Professor with Center for Security, Theory and Algorithmic Research (CSTAR) at International Institute of Information Technology, Hyderabad (IIIT Hyderabad).\nMy research broadly lies at the interface of Algorithms, Computational Complexity Theory and Coding Theory.\nPreviously, I was a post-doctoral fellow at University of Haifa mentored by Noga Ron-Zewi, and at IIT Bombay mentored by Nutan Limaye. I got my MSc and PhD degrees in Computer Science from Chennai Mathematical Institute (CMI) under the supervision of Partha Mukhopadhyay. I got my undergraduate degree from IIT Kanpur."
-  },
-  {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
-    "section": "",
-    "text": "Convention in theoretical computer science is to list authors in the alphabetical order of their last names.\n\n \n\n\n\n\n\n\nG. Jakhar, G. R. Kurri, S. Chillara, and V. M. Prabhakaran, Fractional Subadditivity of Submodular Functions, Equality Conditions and Their Applications, ISIT 2025\nconf\n\n\n\nS. Chillara and N. Raja, Branching Programs with Extended Memory, New Insights, CIAC 2025\nconf\n\n\n\nS. Chillara, C. Grichener, and A. Shpilka, On Hardness of Testing Equivalence to Sparse Polynomials Under Shifts, STACS 2023\nconf\n\n\n\nS. Chillara, Functional Lower Bounds for Restricted Arithmetic Circuits of Depth Four, FSTTCS 2021\nconf\n\n\n\nS. Chillara, New Exponential Size Lower Bounds against Depth Four Circuits of Bounded Individual Degree, Electron. Colloquium Comput. Complex.\npreprint\n\n\n\nS. Chillara, On Computing Multilinear Polynomials using Multi-ic Depth Four Circuits, ACM Transactions on Computation Theory\njournal\n\n\n\nS. Chillara, Slightly Improved Lower Bounds for Homogeneous Multi-r-ic Formulas of Small-Depth, Information Processing Letters\njournal\n\n\n\nS. Chillara, N. Limaye, and S. Srinivasan, Small-depth Multilinear Formula Lower Bounds for Iterated Matrix Multiplication, with Applications, SIAM Journal of Computing\njournal\n\n\n\nS. Chillara and P. Mukhopadhyay, Depth 4 Lower Bounds, Determinantal Complexity, A Unified Approach, Computational Complexity\njournal\n\n\n\nS. Chillara, C. Engels, N. Limaye, and S. Srinivasan, A Near-Optimal Depth-Hierarchy Theorem for Small-Depth Multilinear Circuits, FOCS 2018\nconf\n\n\n\nS. Chillara, N. Limaye, and S. Srinivasan, A Quadratic Size-Hierarchy Theorem for Small-Depth Multilinear Formulas, ICALP 2018\nconf\n\n\n\nS. Chillara, C. Engels, B. V. R. Rao, R. Saptharishi, and K. Sreenivasiah, Exponential Lower Bounds for Some Restricted Depth Five Powering Circuits, Chicago Journal of Theoretical Computer Science\njournal\n\n\n\nS. Chillara, M. Kumar, R. Saptharishi, and V. Vinay, The Chasm at Depth Four, and Tensor Rank, Old results, new insights, Electron. Colloquium Comput. Complex.\npreprint\n\n\n\nS. Chillara and P. Mukhopadhyay, On the Limits of Depth Reduction at Depth-3 Over Small Finite Fields, Information and Computation\njournal\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/papers/ml-sh.html",
-    "href": "research/papers/ml-sh.html",
-    "title": "A Quadratic Size-Hierarchy Theorem for Small-Depth Multilinear Formulas",
-    "section": "",
-    "text": "Link to the article"
-  },
-  {
-    "objectID": "research/papers/ml-sh.html#abstract",
-    "href": "research/papers/ml-sh.html#abstract",
-    "title": "A Quadratic Size-Hierarchy Theorem for Small-Depth Multilinear Formulas",
-    "section": "Abstract",
-    "text": "Abstract\nWe show explicit separations between the expressive powers of multilinear formulas of small-depth and all polynomial sizes.\nFormally, for any s = s(n) = n^{O(1)} and any \\delta&gt;0, we construct explicit families of multilinear polynomials P_n\\in\\mathbb{F}[x_1,\\ldots,x_n] that have multilinear formulas of size s and depth three but no multilinear formulas of size s^{1/2-\\delta} and depth o(\\log n/\\log \\log n).\nAs far as we know, this is the first such result for an algebraic model of computation.\nOur proof can be viewed as a derandomization of a lower bound technique of Raz (JACM 2009) using \\varepsilon-biased spaces."
-  },
-  {
-    "objectID": "research/papers/d5-pw-exp.html",
-    "href": "research/papers/d5-pw-exp.html",
-    "title": "Exponential Lower Bounds for Some Restricted Depth Five Powering Circuits",
-    "section": "",
-    "text": "Link to the article"
-  },
-  {
-    "objectID": "research/papers/d5-pw-exp.html#abstract",
-    "href": "research/papers/d5-pw-exp.html#abstract",
-    "title": "Exponential Lower Bounds for Some Restricted Depth Five Powering Circuits",
-    "section": "Abstract",
-    "text": "Abstract\nDepth five powering circuits are arithmetic circuits of the form \\Sigma\\wedge\\Sigma\\wedge\\Sigma where \\Sigma and \\wedge represent gates that compute sum and power of their inputs respectively. Such circuits compute polynomials of the form \\sum_{i=1}^t Q_i^{\\alpha_{i}}, where each Q_i is a sum of powers of linear polynomials. These circuits are a natural generalization of the well known class of depth three powering circuits (\\Sigma\\wedge\\Sigma circuits). In this paper, we study the complexity of some restricted classes of depth five powering circuits that compute the monomial x_1x_2\\cdots x_n. The restrictions we study are on the fan-ins of the \\Sigma and \\wedge gates (denoted by \\Sigma^{[a]} and \\wedge^{[d]}) while the bottom \\Sigma gates compute homogeneous linear polynomials.\nWe prove size lower bound of 2^{\\Omega(n)} against the following classes of depth five powering circuits that compute the monomial x_1x_2\\cdots x_n.\n\nThe \\Sigma\\wedge\\Sigma^{[m]}\\wedge^{[\\ge d]}\\Sigma_{\\text{Hom}} circuits where d\\geq 8 and m&lt; \\frac{0.29n}{d^2}2^{0.955d}.\nThe \\Sigma\\wedge\\Sigma^{\\{r\\}}\\wedge^{[= d]}\\Sigma_{\\text{Hom}} circuits where r &lt; \\epsilon\\cdot d is the rank of the linear forms under that sum gate, \\epsilon &gt;0 is a constant and d\\geq 8.\n\nFrom this, we infer that the monomial can be computed by a \\Sigma\\wedge\\Sigma^{[=2^{\\sqrt{n}}]}\\wedge^{[=\\sqrt{n}]}\\Sigma_{\\text{Hom}} (or a \\Sigma\\wedge\\Sigma^{\\{=\\sqrt{n}\\}}\\wedge^{[=\\sqrt{n}]}\\Sigma_{\\text{Hom}}) circuit of size 2^{O(\\sqrt{n})} but any \\Sigma\\wedge\\Sigma^{[\\leq 2^{0.955\\sqrt{n}}]}\\wedge^{[\\ge \\sqrt{n}]}\\Sigma_{\\text{Hom}} (or a \\Sigma\\wedge\\Sigma^{\\{\\leq \\epsilon\\sqrt{n}\\}}\\wedge^{[= \\sqrt{n}]}\\Sigma_{\\text{Hom}}) circuit computing it must be of size 2^{\\Omega(n)}.\nOur results show how the fan-in of the middle \\Sigma gates, the degree of the bottom powering gates and the homogeneity at the bottom \\Sigma gates play a crucial role in the computational power of \\Sigma\\wedge\\Sigma\\wedge\\Sigma circuits."
-  },
-  {
-    "objectID": "research/papers/d4-dc.html",
-    "href": "research/papers/d4-dc.html",
-    "title": "Depth 4 Lower Bounds, Determinantal Complexity : A Unified Approach",
-    "section": "",
-    "text": "Link to the article"
-  },
-  {
-    "objectID": "research/papers/d4-dc.html#abstract",
-    "href": "research/papers/d4-dc.html#abstract",
-    "title": "Depth 4 Lower Bounds, Determinantal Complexity : A Unified Approach",
-    "section": "Abstract",
-    "text": "Abstract\nTavenas has recently proved that any n^{O(1)}-variate and degree n polynomial in VP can be computed by a depth 4 \\Sigma\\Pi\\Sigma\\Pi circuit of size 2^{O(\\sqrt{n}\\log n)} (see Tavenas (2013)). So, to prove VP\\neq VNP it is sufficient to show that an explicit polynomial in VNP of degree n requires 2^{\\omega(\\sqrt{n}\\log n)} size depth 4 circuits. Soon after Tavenas’ result, for two different explicit polynomials, depth 4 circuit size lower bounds of 2^{\\Omega(\\sqrt{n}\\log n)} have been proved (see Kayal-Saha-Saptharishi (2013) and Fournier-Limaye-Malod-Srinivasan (2013)). In particular, using combinatorial design Kayal et al. construct an explicit polynomial in VNP that requires depth 4 circuits of size 2^{\\Omega(\\sqrt{n}\\log n)} and Fournier et al. show that the iterated matrix multiplication polynomial (which is in VP) also requires 2^{\\Omega(\\sqrt{n}\\log n)} size depth 4 circuits.\nIn this paper, we identify a simple combinatorial property such that any polynomial f that satisfies this property would achieve a similar depth 4 circuit size lower bound. In particular, it does not matter whether f is in VP or in VNP. As a result, we get a simple unified lower bound analysis for the above mentioned polynomials.\nAnother goal of this paper is to compare our current knowledge of the depth 4 circuit size lower bounds and the determinantal complexity lower bounds. Currently the best known determinantal complexity lower bound is \\Omega(n^2) for Permanent of a n\\times n matrix (which is a n^2-variate and degree n polynomial) (due to Cai, Chen and Li (2008)). We prove that the determinantal complexity of the iterated matrix multiplication polynomial is \\Omega(dn) where d is the number of matrices and n is the dimension of the matrices. So for d=n, we get that the iterated matrix multiplication polynomial achieves the current best known lower bounds in both fronts: depth 4 circuit size and determinantal complexity. Our result also settles the determinantal complexity of the iterated matrix multiplication polynomial to \\Theta(dn).\nTo the best of our knowledge, a \\Theta(n) bound for the determinantal complexity for the iterated matrix multiplication polynomial was known only for any constant d&gt;1 (cf. Jansen (2011))."
-  },
-  {
-    "objectID": "research/papers/multiric-homform.html",
-    "href": "research/papers/multiric-homform.html",
-    "title": "Slightly Improved Lower Bounds for Homogeneous Multi-r-ic Formulas of Small-Depth",
-    "section": "",
-    "text": "Link to the article"
-  },
-  {
-    "objectID": "research/papers/multiric-homform.html#abstract",
-    "href": "research/papers/multiric-homform.html#abstract",
-    "title": "Slightly Improved Lower Bounds for Homogeneous Multi-r-ic Formulas of Small-Depth",
-    "section": "Abstract",
-    "text": "Abstract\nKayal, Saha and Tavenas (Theory of Computing, 2018), showed that any bounded-depth homogeneous formula of bounded individual degree (bounded by r) that computes an explicit polynomial over n variables must have size \\exp\\left(\\Omega\\left(\\frac{1}{r}\\left(\\frac{n}{4}\\right)^{1/\\Delta}\\right)\\right) for all depths \\Delta \\leq O\\left({\\frac{\\log n}{\\log r+ \\log\\log n}}\\right). In this article we show an improved size lower bound of \\exp\\left(\\Omega\\left(\\frac{\\Delta}{r}\\left({\\frac{nr}{2}}\\right)^{1/\\Delta}\\right)\\right) for all depths \\Delta \\leq O\\left({\\frac{\\log n}{\\log r}}\\right), and for the same explicit polynomial.\nIn comparison to Kayal, Saha and Tavenas (Theory of Computing, 2018) 1. our results give superpolynomial lower bounds in a wider regime of depth \\Delta, and 2. for all \\Delta \\in \\left[\\omega(1), o\\left(\\frac{\\log n}{\\log r}\\right)\\right] our lower bound is asymptotically better.\nThis improvement is due to a finer product decomposition of general homogeneous formulas of bounded-depth. This follows from an adaptation of a new for bounded-depth multilinear formulas shown by Chillara, Limaye and Srinivasan (SIAM Journal of Computing, 2019)."
-  },
-  {
-    "objectID": "research/papers/d3-ff-exp.html",
-    "href": "research/papers/d3-ff-exp.html",
-    "title": "On the Limits of Depth Reduction at Depth-3 Over Small Finite Fields",
-    "section": "",
-    "text": "Link to the article"
-  },
-  {
-    "objectID": "research/papers/d3-ff-exp.html#abstract",
-    "href": "research/papers/d3-ff-exp.html#abstract",
-    "title": "On the Limits of Depth Reduction at Depth-3 Over Small Finite Fields",
-    "section": "Abstract",
-    "text": "Abstract\nIn a surprising recent result, Gupta-Kamath-Kayal-Saptharishi have proved that over \\mathbb{Q} any n^{O(1)}-variate and n-degree polynomial in VP can also be computed by a depth three \\Sigma\\Pi\\Sigma circuit of size 2^{O(\\sqrt{n} \\log^{3/2}n)}. Over fixed-size finite fields, Grigoriev and Karpinski proved that any \\Sigma\\Pi\\Sigma circuit that computes the determinant (or the permanent) polynomial of a n\\times n matrix must be of size 2^{\\Omega(n)}. In this paper, for an explicit polynomial in VP (over fixed-size finite fields), we prove that any \\Sigma\\Pi\\Sigma circuit computing it must be of size 2^{\\Omega(n\\log n)}. The explicit polynomial that we consider is the iterated matrix multiplication polynomial of n generic matrices of size n\\times n. The importance of this result is that over fixed-size fields there is no depth reduction technique that can be used to compute all the n^{O(1)}-variate and n-degree polynomials in VP by depth 3 circuits of size 2^{o(n\\log n)}. The result of Grigoriev and Karpinski can only rule out such a possibility for \\Sigma\\Pi\\Sigma circuits of size 2^{o(n)}.\nWe also give an example of an explicit polynomial (NW_{n,\\epsilon}(X)) in VNP (which is not known to be in VP), for which any \\Sigma\\Pi\\Sigma circuit computing it (over fixed-size fields) must be of size 2^{\\Omega(n\\log n)}. The polynomial we consider is constructed from the combinatorial design of Nisan and Wigderson, and is closely related to the polynomials considered in many recent papers (by Kayal-Saha-Saptharishi, Kayal-Limaye-Saha-Srinivasan, and Kumar-Saraf), where strong depth 4 circuit size lower bounds are shown."
-  },
-  {
-    "objectID": "research/papers/ml-dh.html",
-    "href": "research/papers/ml-dh.html",
-    "title": "A Near-Optimal Depth-Hierarchy Theorem for Small-Depth Multilinear Circuits",
-    "section": "",
-    "text": "Link to the article"
-  },
-  {
-    "objectID": "research/papers/ml-dh.html#abstract",
-    "href": "research/papers/ml-dh.html#abstract",
-    "title": "A Near-Optimal Depth-Hierarchy Theorem for Small-Depth Multilinear Circuits",
-    "section": "Abstract",
-    "text": "Abstract\nWe study the size blow-up that is necessary to convert an algebraic circuit of product-depth \\Delta+1 to one of product-depth \\Delta in the multilinear setting.\nWe show that for every positive \\Delta = \\Delta(n) = o(\\log n/\\log \\log n), there is an explicit multilinear polynomial P^{(\\Delta)} on n variables that can be computed by a multilinear formula of product-depth \\Delta+1 and size O(n), but not by any multilinear circuit of product-depth \\Delta and size less than \\exp(n^{\\Omega(1/\\Delta)}). This result is tight up to the constant implicit in the double exponent for all \\Delta = o(\\log n/\\log \\log n).\nThis strengthens a result of Raz and Yehudayoff (Computational Complexity 2009) who prove a quasipolynomial separation for constant-depth multilinear circuits, and a result of Kayal, Nair and Saha (STACS 2016) who give an exponential separation in the case \\Delta = 1.\nOur separating examples may be viewed as algebraic analogues of variants of the Graph Reachability problem studied by Chen, Oliveira, Servedio and Tan (STOC 2016), who used them to prove lower bounds for constant-depth Boolean circuits."
-  },
-  {
-    "objectID": "research/papers/imm-ml.html",
-    "href": "research/papers/imm-ml.html",
-    "title": "Small-depth Multilinear Formula Lower Bounds for Iterated Matrix Multiplication, with Applications",
-    "section": "",
-    "text": "Link to the article"
-  },
-  {
-    "objectID": "research/papers/imm-ml.html#abstract",
-    "href": "research/papers/imm-ml.html#abstract",
-    "title": "Small-depth Multilinear Formula Lower Bounds for Iterated Matrix Multiplication, with Applications",
-    "section": "Abstract",
-    "text": "Abstract\nThe complexity of Iterated Matrix Multiplication is a central theme in Computational Complexity theory, as the problem is closely related to the problem of separating various complexity classes within \\mathrm{P}. In this paper, we study the algebraic formula complexity of multiplying d many 2\\times 2 matrices, denoted IMM_{d}, and show that the well-known divide-and-conquer algorithm cannot be significantly improved at any depth, as long as the formulas are multilinear.\nFormally, for each depth \\Delta \\leq \\log d, we show that any product-depth \\Delta multilinear formula for IMM_d must have size \\exp(\\Omega(\\Delta d^{1/\\Delta})). It also follows from this that any multilinear circuit of product-depth \\Delta for the same polynomial of the above form must have a size of \\exp(\\Omega(d^{1/\\Delta})). In particular, any polynomial-sized multilinear formula for IMM_d must have depth \\Omega(\\log d), and any polynomial-sized multilinear circuit for IMM_d must have depth \\Omega(\\log d/\\log \\log d). Both these bounds are tight up to constant factors.\nOur lower bound has the following consequences for multilinear formula complexity.\n\nDepth-reduction: A well-known result of Brent (JACM 1974) implies that any formula of size s can be converted to one of size s^{O(1)} and depth O(\\log s); further, this reduction continues to hold for multilinear formulas. On the other hand, our lower bound implies that any depth-reduction in the multilinear setting cannot reduce the depth to o(\\log s) without a superpolynomial blow-up in size.\nCircuits vs. formulas: Any circuit of size s and product-depth \\Delta can be converted into a formula of product-depth \\Delta and size s^{O(\\Delta)}. In the multilinear setting, we show that it is not possible to improve on this significantly for small depths. Formally, our results imply that for all large enough s and \\Delta = o(\\log s/\\log \\log s), there is an explicit multilinear polynomial P_{s,\\Delta} that has a syntactic multilinear circuit of size s and is such that any multilinear formula of product-depth \\Delta computing P_{s,\\Delta} must have size s^{\\Omega(\\Delta)}.\nSeparations from general formulas: Shpilka and Yehudayoff (FnTTCS 2010) asked whether general formulas can be more efficient than multilinear formulas for computing multilinear polynomials. Our result, along with a non-trivial upper bound for IMM_{d} implied by a result of Gupta, Kamath, Kayal and Saptharishi (SICOMP 2016), shows that for any size s and product-depth \\Delta = o(\\log s), general formulas of size s and product-depth \\Delta cannot be converted to multilinear formulas of size s^{O(1)} and product-depth \\Delta, when the underlying field has characteristic zero."
-  },
-  {
-    "objectID": "research/papers/d4-tr.html",
-    "href": "research/papers/d4-tr.html",
-    "title": "The Chasm at Depth Four, and Tensor Rank: Old results, new insights",
-    "section": "",
-    "text": "Link to the article"
-  },
-  {
-    "objectID": "research/papers/d4-tr.html#abstract",
-    "href": "research/papers/d4-tr.html#abstract",
-    "title": "The Chasm at Depth Four, and Tensor Rank: Old results, new insights",
-    "section": "Abstract",
-    "text": "Abstract\nAgrawal and Vinay (2008) showed how any polynomial size arithmetic circuit can be thought of as a depth four arithmetic circuit of subexponential size. This unexpected depth reduction to constant depth is in contrast to circuits in the Boolean setting. The resulting circuit size in this simulation was more carefully analyzed by Korian (2011) and subsequently by Tavenas (2013). We provide a simple proof of this chain of results. We then abstract the main ingredient to apply it to formulas and constant depth circuits, and show more structured depth reductions for them.\nIn an apriori surprising result, Raz (2010) showed that for any n and d, such that $ (1) d O()$, constructing explicit tensors T:[n]^d \\rightarrow \\mathbb{F} of high enough rank would imply superpolynomial lower bounds for arithmetic formulas over the field \\mathbb{F}. Using the additional structure we obtain from our proof of the depth reduction for arithmetic formulas, we give a new and arguably simpler proof of this connection. We also extend this result for homogeneous formulas to show that, in fact, the connection holds for any d such that \\omega(1) \\leq d \\leq n^{o(1)}."
-  },
-  {
-    "objectID": "research/papers/functional.html",
-    "href": "research/papers/functional.html",
-    "title": "Functional Lower Bounds for Restricted Arithmetic Circuits of Depth Four",
-    "section": "",
-    "text": "Link to the article"
-  },
-  {
-    "objectID": "research/papers/functional.html#abstract",
-    "href": "research/papers/functional.html#abstract",
-    "title": "Functional Lower Bounds for Restricted Arithmetic Circuits of Depth Four",
-    "section": "Abstract",
-    "text": "Abstract\nRecently, Forbes, Kumar and Saptharishi [CCC, 2016] proved that there exists an explicit d^{O(1)}-variate and degree d polynomial P_{d} \\in VNP such that if any depth four circuit C of bounded formal degree d which computes a polynomial of bounded individual degree O(1), that is functionally equivalent to P_d, then C must have size 2^{\\Omega(\\sqrt{d}\\log{d})}.\nThe motivation for their work comes from Boolean Circuit Complexity. Based on a characterization for ACC^0 circuits by Yao [FOCS, 1985] and Beigel and Tarui [CC, 1994], Forbes, Kumar and Saptharishi [CCC, 2016] observed that functions in ACC^0 can also be computed by algebraic \\Sigma\\mathord{\\wedge}\\Sigma\\Pi circuits (i.e., circuits of the form – sums of powers of polynomials) of 2^{\\log^{O(1)}n} size. Thus they argued that a 2^{\\omega(\\log^{O(1)}{n})} functional lower bound for an explicit polynomial Q against \\Sigma\\mathord{\\wedge}\\Sigma\\Pi circuits would imply a lower bound for the corresponding Boolean function of Q against non-uniform ACC^0. In their work, they ask if their lower bound be extended to \\Sigma\\mathord{\\wedge}\\Sigma\\Pi circuits.\nIn this paper, for large integers n and d such that \\Omega(\\log^2{n})\\leq d\\leq n^{0.01}, we show that any \\Sigma\\mathord{\\wedge}\\Sigma\\Pi circuit of bounded individual degree at most O(\\frac{d}{k^2}) that functionally computes Iterated Matrix Multiplication polynomial IMM_{n,d} (\\in VP) over {\\{0,1\\}}^{n^2d} must have size n^{\\Omega(k)}. Since Iterated Matrix Multiplication IMM_{n,d} over \\{0,1\\}^{n^2d} is functionally in GapL, improvement of the afore mentioned lower bound to hold for quasipolynomially large values of individual degree would imply a fine-grained separation of ACC^0 from GapL.\nFor the sake of completeness, we also show a syntactic size lower bound against any \\Sigma\\mathord{\\wedge}\\Sigma\\Pi circuit computing IMM_{n,d} (for the same regime of d) which is tight over large fields. Like Forbes, Kumar and Saptharishi [CCC, 2016], we too prove lower bounds against circuits of bounded formal degree which functionally compute IMM_{n,d}, for a slightly larger range of individual degree."
-  },
-  {
-    "objectID": "research/papers/multiric-d4-exp.html",
-    "href": "research/papers/multiric-d4-exp.html",
-    "title": "New Exponential Size Lower Bounds against Depth Four Circuits of Bounded Individual Degree",
-    "section": "",
-    "text": "Link to the article"
-  },
-  {
-    "objectID": "research/papers/multiric-d4-exp.html#abstract",
-    "href": "research/papers/multiric-d4-exp.html#abstract",
-    "title": "New Exponential Size Lower Bounds against Depth Four Circuits of Bounded Individual Degree",
-    "section": "Abstract",
-    "text": "Abstract\nKayal, Saha and Tavenas [Theory of Computing, 2018] showed that for all large enough integers n and d such that d\\geq \\omega(\\log{n}), any syntactic depth four circuit of bounded individual degree \\delta = o(d) that computes the Iterated Matrix Multiplication polynomial (IMM_{n,d}) must have size n^{\\Omega\\left(\\sqrt{d/\\delta}\\right)}. Unfortunately, this bound deteriorates as the value of \\delta increases. Further, the bound is superpolynomial only when \\delta is o(d). It is natural to ask if the dependence on \\delta in the bound could be weakened. Towards this, in an earlier result [STACS, 2020], we showed that for all large enough integers n and d such that d = \\Theta(\\log^2{n}), any syntactic depth four circuit of bounded individual degree \\delta\\leq n^{0.2} that computes IMM_{n,d} must have size n^{\\Omega(\\log{n})}.\nIn this paper, we make further progress by proving that for all large enough integers n and d, and absolute constants a and b such that \\omega(\\log^2n)\\leq d\\leq n^{a}, any syntactic depth four circuit of bounded individual degree \\delta\\leq n^{b} that computes IMM_{n,d} must have size n^{\\Omega(\\sqrt{d})}. Our bound is obtained by carefully adapting the proof of Kumar and Saraf [SIAM J. Computing, 2017] to the complexity measure introduced in our earlier work [STACS, 2020]."
-  },
-  {
-    "objectID": "research/papers/fracsubadd-equality.html",
-    "href": "research/papers/fracsubadd-equality.html",
-    "title": "Fractional Subadditivity of Submodular Functions: Equality Conditions and Their Applications",
-    "section": "",
-    "text": "Link to the article"
-  },
-  {
-    "objectID": "research/papers/fracsubadd-equality.html#abstract",
-    "href": "research/papers/fracsubadd-equality.html#abstract",
-    "title": "Fractional Subadditivity of Submodular Functions: Equality Conditions and Their Applications",
-    "section": "Abstract",
-    "text": "Abstract\nSubmodular functions are known to satisfy various forms of fractional subadditivity. This work investigates the conditions for equality to hold exactly or approximately in the fractional subadditivity of submodular functions. We establish that a small gap in the inequality implies that the function is close to being modular, and that the gap is zero if and only if the function is modular. We then present natural implications of these results for special cases of submodular functions, such as entropy, relative entropy, and matroid rank. As a consequence, we characterize the necessary and sufficient conditions for equality to hold in Shearer’s lemma, recovering a result of Ellis et al. (2016) as a special case. We leverage our results to propose a new multivariate mutual information, which generalizes Watanabe’s total correlation (1960), Han’s dual total correlation (1978), and Csisz'ar and Narayan’s shared information (2004), and analyze its properties. Among these properties, we extend Watanabe’s characterization of total correlation as the maximum correlation over partitions to fractional partitions. When applied to matrix determinantal inequalities for positive definite matrices, our results recover the equality conditions of the classical determinantal inequalities of Hadamard, Szasz, and Fischer as special cases."
-  },
-  {
-    "objectID": "research/papers/sparsification-hardness.html",
-    "href": "research/papers/sparsification-hardness.html",
-    "title": "On Hardness of Testing Equivalence to Sparse Polynomials Under Shifts",
-    "section": "",
-    "text": "Link to the article"
-  },
-  {
-    "objectID": "research/papers/sparsification-hardness.html#abstract",
-    "href": "research/papers/sparsification-hardness.html#abstract",
-    "title": "On Hardness of Testing Equivalence to Sparse Polynomials Under Shifts",
-    "section": "Abstract",
-    "text": "Abstract\nWe say that two given polynomials f, g \\in R[X], over a ring R, are equivalent under shifts if there exists a vector a \\in R^n such that f(X+a) = g(X). This is a special variant of the polynomial projection problem in Algebraic Complexity Theory. Grigoriev and Karpinski (FOCS 1990), Lakshman and Saunders (SICOMP, 1995), and Grigoriev and Lakshman (ISSAC 1995) studied the problem of testing polynomial equivalence of a given polynomial to any t-sparse polynomial, over the rational numbers, and gave exponential time algorithms. In this paper, we provide hardness results for this problem. Formally, for a ring R, let \\mathrm{SparseShift}_R be the following decision problem — Given a polynomial P(X), is there a vector a such that P(X+a) contains fewer monomials than P(X). We show that \\mathrm{SparseShift}_R is at least as hard as checking if a given system of polynomial equations over R[x_1,\\ldots, x_n] has a solution (Hilbert’s Nullstellensatz).\nAs a consequence of this reduction, we get the following results\n\n\\mathrm{SparseShift}_\\mathbb{Z} is undecidable.\nFor any ring R (which is not a field) such that HN_R is NP_R-complete over the Blum-Shub-Smale model of computation, \\mathrm{SparseShift}_R is also NP_R-complete.\n\nWe also study the gap version of the \\mathrm{SparseShift}_R and show the following.\n\nFor every positive function \\beta:\\mathbb{N}\\to \\mathbb{R} such that \\beta\\in o(1), N^\\beta-gap-\\mathrm{SparseShift}_\\mathbb{Z} is also undecidable (where N is the input length).\nFor R=\\mathbb{F}_p, \\mathbb{Q}, \\mathbb{R} or \\mathbb{Z}_q and for every \\beta&gt;1 the \\beta-gap-\\mathrm{SparseShift}_R problem is {NP}-hard."
-  },
-  {
-    "objectID": "research/papers/multiric-d4-qpoly.html",
-    "href": "research/papers/multiric-d4-qpoly.html",
-    "title": "On Computing Multilinear Polynomials using Multi-r-ic Depth Four Circuits",
-    "section": "",
-    "text": "Link to the article"
-  },
-  {
-    "objectID": "research/papers/multiric-d4-qpoly.html#abstract",
-    "href": "research/papers/multiric-d4-qpoly.html#abstract",
-    "title": "On Computing Multilinear Polynomials using Multi-r-ic Depth Four Circuits",
-    "section": "Abstract",
-    "text": "Abstract\nIn this paper, we are interested in understanding the complexity of computing multilinear polynomials using depth four circuits in which the polynomial computed at every node has a bound on the individual degree of r \\geq 1 with respect to all its variables (referred to as multi-r-c circuits). The goal of this study is to make progress towards proving superpolynomial lower bounds for general depth four circuits computing multilinear polynomials, by proving better bounds as the value of r increases.\nRecently, Kayal, Saha and Tavenas (Theory of Computing, 2018) showed that any depth four arithmetic circuit of bounded individual degree r computing an explicit multilinear polynomial on n^{O(1)} variables and degree d, must have size at least \\left(\\frac{n}{r^{1.1}}\\right)^{\\Omega\\left(\\sqrt{\\frac{d}{r}}\\right)}. This bound however deteriorates as the value of r increases. It is a natural question to ask if we can prove a bound that does not deteriorate as the value of r increases, or a bound that holds for a larger regime of r.\nIn this paper, we prove a lower bound which does not deteriorate with increasing values of r, albeit for a specific instance of d = d(n) but for a wider range of r. Formally, for all large enough integers n and a small constant \\eta, we show that there exists an explicit polynomial on n^{O(1)} variables and degree \\Theta(\\log^2 n) such that any depth four circuit of bounded individual degree r\\leq n^{\\eta} must have size at least \\exp\\left(\\Omega\\left(\\log^2 n\\right)\\right). This improvement is obtained by suitably adapting the complexity measure of Kayal et al. (Theory of Computing, 2018). This adaptation of the measure is inspired by the complexity measure used by Kayal et al. (SIAM J. Computing, 2017)."
+    "text": "Contact:\n111, CSTAR, Vindhya A3,\nInternational Institute of Information Technology,\nGachibowli, Hyderabad, India.\nEmail: {firstname}.{lastname}@iiit.ac.in"
   },
   {
     "objectID": "research/papers/sbp-vnp.html",
@@ -399,18 +203,214 @@
     "text": "Abstract\nOne of the central themes of Algebraic Complexity Theory is to understand the relative computation power of algebraic complexity classes \\mathsf{VP} and \\mathsf{VNP}. \\mathsf{VP} is a class of polynomial families which can be computed efficiently by algebraic circuits. \\mathsf{VNP} is a class of polynomials which can be efficiently expressed through polynomial families in \\mathsf{VP}, but we do not know if they can be computed efficiently. It is a long standing open problem in this area to show that \\mathsf{VP} is a strict subset of \\mathsf{VNP}. At this juncture, it is fair to believe that newer characterization of these complexity classes could help us understand these models better (and possibly help us is resolving this question in restricted settings like non-commutativity at the very least).\nRecently, Mengel [MFCS, 2013] showed that Algebraic Branching Programs (ABPs) (it is well known that algebraic branching programs (ABPs) characterize the class \\mathsf{VBP} (or equivalently \\mathsf{VP}_{\\mathrm{skew}})) can be extended with memory and the computational models thus obtained can be used to characterize \\mathsf{VP} and \\mathsf{VNP}. In particular, Mengel showed that ABPs with a single stack characterize \\mathsf{VP}, and branching programs with random-access memory characterize \\mathsf{VNP}.\nIn this work we show that algebraic branching programs with just 2 stacks efficiently simulates the polynomial families in \\mathsf{VNP}, and two stack branching programs are \\mathsf{VNP}-complete.\nFurther, we observe that k-stack branching programs (for all polynomially bounded k) are no more powerful than 2-stack branching programs (upto a polynomial blowup in size).\nThis strengthens the work of Mengel in the following way – \\mathsf{VBP} vs. \\mathsf{VP} vs. \\mathsf{VNP} are characterized by algebraic branching programs with 0, 1, and 2 stacks, respectively, or no-memory, a stack as memory, and a queue as memory respectively, which hold even in the non-commutative setting.\nWe also refine Mengel’s characterization of \\mathsf{VP} through stack-height characterization."
   },
   {
-    "objectID": "contact/index.html",
-    "href": "contact/index.html",
-    "title": "Suryajith Chillara",
+    "objectID": "research/papers/multiric-d4-qpoly.html",
+    "href": "research/papers/multiric-d4-qpoly.html",
+    "title": "On Computing Multilinear Polynomials using Multi-r-ic Depth Four Circuits",
     "section": "",
-    "text": "Contact:\n111, CSTAR, Vindhya A3,\nInternational Institute of Information Technology,\nGachibowli, Hyderabad, India.\nEmail: {firstname}.{lastname}@iiit.ac.in"
+    "text": "Link to the article"
   },
   {
-    "objectID": "students/index.html",
-    "href": "students/index.html",
-    "title": "Students",
+    "objectID": "research/papers/multiric-d4-qpoly.html#abstract",
+    "href": "research/papers/multiric-d4-qpoly.html#abstract",
+    "title": "On Computing Multilinear Polynomials using Multi-r-ic Depth Four Circuits",
+    "section": "Abstract",
+    "text": "Abstract\nIn this paper, we are interested in understanding the complexity of computing multilinear polynomials using depth four circuits in which the polynomial computed at every node has a bound on the individual degree of r \\geq 1 with respect to all its variables (referred to as multi-r-c circuits). The goal of this study is to make progress towards proving superpolynomial lower bounds for general depth four circuits computing multilinear polynomials, by proving better bounds as the value of r increases.\nRecently, Kayal, Saha and Tavenas (Theory of Computing, 2018) showed that any depth four arithmetic circuit of bounded individual degree r computing an explicit multilinear polynomial on n^{O(1)} variables and degree d, must have size at least \\left(\\frac{n}{r^{1.1}}\\right)^{\\Omega\\left(\\sqrt{\\frac{d}{r}}\\right)}. This bound however deteriorates as the value of r increases. It is a natural question to ask if we can prove a bound that does not deteriorate as the value of r increases, or a bound that holds for a larger regime of r.\nIn this paper, we prove a lower bound which does not deteriorate with increasing values of r, albeit for a specific instance of d = d(n) but for a wider range of r. Formally, for all large enough integers n and a small constant \\eta, we show that there exists an explicit polynomial on n^{O(1)} variables and degree \\Theta(\\log^2 n) such that any depth four circuit of bounded individual degree r\\leq n^{\\eta} must have size at least \\exp\\left(\\Omega\\left(\\log^2 n\\right)\\right). This improvement is obtained by suitably adapting the complexity measure of Kayal et al. (Theory of Computing, 2018). This adaptation of the measure is inspired by the complexity measure used by Kayal et al. (SIAM J. Computing, 2017)."
+  },
+  {
+    "objectID": "research/papers/sparsification-hardness.html",
+    "href": "research/papers/sparsification-hardness.html",
+    "title": "On Hardness of Testing Equivalence to Sparse Polynomials Under Shifts",
     "section": "",
-    "text": "PhD\n\nGunank Singh Jakhar (2023 - , Jointly with Gowtham R. Kurri)\n\n\n\nMasters\n\nPruthvi Boyapati (2024 - )\nNithish Raja (2022 - 2024, → PhD position at TU/e) –  MS Thesis \n\n\n\nDual Degree\n\nHarshil Singh (2025 - )\nAnushka Jain (2024 - )\nKeval Jain (2023 - , Jointly with Girish Varma)\nKriti Gupta (2023 - , Jointly with Girish Varma)\n\n\n\nHonours\n\nChitturi Meghana Sai Rama Lakshmi (2023 - 2025)\nArnav Negi (2024 - 2025)"
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/sparsification-hardness.html#abstract",
+    "href": "research/papers/sparsification-hardness.html#abstract",
+    "title": "On Hardness of Testing Equivalence to Sparse Polynomials Under Shifts",
+    "section": "Abstract",
+    "text": "Abstract\nWe say that two given polynomials f, g \\in R[X], over a ring R, are equivalent under shifts if there exists a vector a \\in R^n such that f(X+a) = g(X). This is a special variant of the polynomial projection problem in Algebraic Complexity Theory. Grigoriev and Karpinski (FOCS 1990), Lakshman and Saunders (SICOMP, 1995), and Grigoriev and Lakshman (ISSAC 1995) studied the problem of testing polynomial equivalence of a given polynomial to any t-sparse polynomial, over the rational numbers, and gave exponential time algorithms. In this paper, we provide hardness results for this problem. Formally, for a ring R, let \\mathrm{SparseShift}_R be the following decision problem — Given a polynomial P(X), is there a vector a such that P(X+a) contains fewer monomials than P(X). We show that \\mathrm{SparseShift}_R is at least as hard as checking if a given system of polynomial equations over R[x_1,\\ldots, x_n] has a solution (Hilbert’s Nullstellensatz).\nAs a consequence of this reduction, we get the following results\n\n\\mathrm{SparseShift}_\\mathbb{Z} is undecidable.\nFor any ring R (which is not a field) such that HN_R is NP_R-complete over the Blum-Shub-Smale model of computation, \\mathrm{SparseShift}_R is also NP_R-complete.\n\nWe also study the gap version of the \\mathrm{SparseShift}_R and show the following.\n\nFor every positive function \\beta:\\mathbb{N}\\to \\mathbb{R} such that \\beta\\in o(1), N^\\beta-gap-\\mathrm{SparseShift}_\\mathbb{Z} is also undecidable (where N is the input length).\nFor R=\\mathbb{F}_p, \\mathbb{Q}, \\mathbb{R} or \\mathbb{Z}_q and for every \\beta&gt;1 the \\beta-gap-\\mathrm{SparseShift}_R problem is {NP}-hard."
+  },
+  {
+    "objectID": "research/papers/fracsubadd-equality.html",
+    "href": "research/papers/fracsubadd-equality.html",
+    "title": "Fractional Subadditivity of Submodular Functions: Equality Conditions and Their Applications",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/fracsubadd-equality.html#abstract",
+    "href": "research/papers/fracsubadd-equality.html#abstract",
+    "title": "Fractional Subadditivity of Submodular Functions: Equality Conditions and Their Applications",
+    "section": "Abstract",
+    "text": "Abstract\nSubmodular functions are known to satisfy various forms of fractional subadditivity. This work investigates the conditions for equality to hold exactly or approximately in the fractional subadditivity of submodular functions. We establish that a small gap in the inequality implies that the function is close to being modular, and that the gap is zero if and only if the function is modular. We then present natural implications of these results for special cases of submodular functions, such as entropy, relative entropy, and matroid rank. As a consequence, we characterize the necessary and sufficient conditions for equality to hold in Shearer’s lemma, recovering a result of Ellis et al. (2016) as a special case. We leverage our results to propose a new multivariate mutual information, which generalizes Watanabe’s total correlation (1960), Han’s dual total correlation (1978), and Csisz'ar and Narayan’s shared information (2004), and analyze its properties. Among these properties, we extend Watanabe’s characterization of total correlation as the maximum correlation over partitions to fractional partitions. When applied to matrix determinantal inequalities for positive definite matrices, our results recover the equality conditions of the classical determinantal inequalities of Hadamard, Szasz, and Fischer as special cases."
+  },
+  {
+    "objectID": "research/papers/multiric-d4-exp.html",
+    "href": "research/papers/multiric-d4-exp.html",
+    "title": "New Exponential Size Lower Bounds against Depth Four Circuits of Bounded Individual Degree",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/multiric-d4-exp.html#abstract",
+    "href": "research/papers/multiric-d4-exp.html#abstract",
+    "title": "New Exponential Size Lower Bounds against Depth Four Circuits of Bounded Individual Degree",
+    "section": "Abstract",
+    "text": "Abstract\nKayal, Saha and Tavenas [Theory of Computing, 2018] showed that for all large enough integers n and d such that d\\geq \\omega(\\log{n}), any syntactic depth four circuit of bounded individual degree \\delta = o(d) that computes the Iterated Matrix Multiplication polynomial (IMM_{n,d}) must have size n^{\\Omega\\left(\\sqrt{d/\\delta}\\right)}. Unfortunately, this bound deteriorates as the value of \\delta increases. Further, the bound is superpolynomial only when \\delta is o(d). It is natural to ask if the dependence on \\delta in the bound could be weakened. Towards this, in an earlier result [STACS, 2020], we showed that for all large enough integers n and d such that d = \\Theta(\\log^2{n}), any syntactic depth four circuit of bounded individual degree \\delta\\leq n^{0.2} that computes IMM_{n,d} must have size n^{\\Omega(\\log{n})}.\nIn this paper, we make further progress by proving that for all large enough integers n and d, and absolute constants a and b such that \\omega(\\log^2n)\\leq d\\leq n^{a}, any syntactic depth four circuit of bounded individual degree \\delta\\leq n^{b} that computes IMM_{n,d} must have size n^{\\Omega(\\sqrt{d})}. Our bound is obtained by carefully adapting the proof of Kumar and Saraf [SIAM J. Computing, 2017] to the complexity measure introduced in our earlier work [STACS, 2020]."
+  },
+  {
+    "objectID": "research/papers/functional.html",
+    "href": "research/papers/functional.html",
+    "title": "Functional Lower Bounds for Restricted Arithmetic Circuits of Depth Four",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/functional.html#abstract",
+    "href": "research/papers/functional.html#abstract",
+    "title": "Functional Lower Bounds for Restricted Arithmetic Circuits of Depth Four",
+    "section": "Abstract",
+    "text": "Abstract\nRecently, Forbes, Kumar and Saptharishi [CCC, 2016] proved that there exists an explicit d^{O(1)}-variate and degree d polynomial P_{d} \\in VNP such that if any depth four circuit C of bounded formal degree d which computes a polynomial of bounded individual degree O(1), that is functionally equivalent to P_d, then C must have size 2^{\\Omega(\\sqrt{d}\\log{d})}.\nThe motivation for their work comes from Boolean Circuit Complexity. Based on a characterization for ACC^0 circuits by Yao [FOCS, 1985] and Beigel and Tarui [CC, 1994], Forbes, Kumar and Saptharishi [CCC, 2016] observed that functions in ACC^0 can also be computed by algebraic \\Sigma\\mathord{\\wedge}\\Sigma\\Pi circuits (i.e., circuits of the form – sums of powers of polynomials) of 2^{\\log^{O(1)}n} size. Thus they argued that a 2^{\\omega(\\log^{O(1)}{n})} functional lower bound for an explicit polynomial Q against \\Sigma\\mathord{\\wedge}\\Sigma\\Pi circuits would imply a lower bound for the corresponding Boolean function of Q against non-uniform ACC^0. In their work, they ask if their lower bound be extended to \\Sigma\\mathord{\\wedge}\\Sigma\\Pi circuits.\nIn this paper, for large integers n and d such that \\Omega(\\log^2{n})\\leq d\\leq n^{0.01}, we show that any \\Sigma\\mathord{\\wedge}\\Sigma\\Pi circuit of bounded individual degree at most O(\\frac{d}{k^2}) that functionally computes Iterated Matrix Multiplication polynomial IMM_{n,d} (\\in VP) over {\\{0,1\\}}^{n^2d} must have size n^{\\Omega(k)}. Since Iterated Matrix Multiplication IMM_{n,d} over \\{0,1\\}^{n^2d} is functionally in GapL, improvement of the afore mentioned lower bound to hold for quasipolynomially large values of individual degree would imply a fine-grained separation of ACC^0 from GapL.\nFor the sake of completeness, we also show a syntactic size lower bound against any \\Sigma\\mathord{\\wedge}\\Sigma\\Pi circuit computing IMM_{n,d} (for the same regime of d) which is tight over large fields. Like Forbes, Kumar and Saptharishi [CCC, 2016], we too prove lower bounds against circuits of bounded formal degree which functionally compute IMM_{n,d}, for a slightly larger range of individual degree."
+  },
+  {
+    "objectID": "research/papers/d4-tr.html",
+    "href": "research/papers/d4-tr.html",
+    "title": "The Chasm at Depth Four, and Tensor Rank: Old results, new insights",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/d4-tr.html#abstract",
+    "href": "research/papers/d4-tr.html#abstract",
+    "title": "The Chasm at Depth Four, and Tensor Rank: Old results, new insights",
+    "section": "Abstract",
+    "text": "Abstract\nAgrawal and Vinay (2008) showed how any polynomial size arithmetic circuit can be thought of as a depth four arithmetic circuit of subexponential size. This unexpected depth reduction to constant depth is in contrast to circuits in the Boolean setting. The resulting circuit size in this simulation was more carefully analyzed by Korian (2011) and subsequently by Tavenas (2013). We provide a simple proof of this chain of results. We then abstract the main ingredient to apply it to formulas and constant depth circuits, and show more structured depth reductions for them.\nIn an apriori surprising result, Raz (2010) showed that for any n and d, such that $ (1) d O()$, constructing explicit tensors T:[n]^d \\rightarrow \\mathbb{F} of high enough rank would imply superpolynomial lower bounds for arithmetic formulas over the field \\mathbb{F}. Using the additional structure we obtain from our proof of the depth reduction for arithmetic formulas, we give a new and arguably simpler proof of this connection. We also extend this result for homogeneous formulas to show that, in fact, the connection holds for any d such that \\omega(1) \\leq d \\leq n^{o(1)}."
+  },
+  {
+    "objectID": "research/papers/imm-ml.html",
+    "href": "research/papers/imm-ml.html",
+    "title": "Small-depth Multilinear Formula Lower Bounds for Iterated Matrix Multiplication, with Applications",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/imm-ml.html#abstract",
+    "href": "research/papers/imm-ml.html#abstract",
+    "title": "Small-depth Multilinear Formula Lower Bounds for Iterated Matrix Multiplication, with Applications",
+    "section": "Abstract",
+    "text": "Abstract\nThe complexity of Iterated Matrix Multiplication is a central theme in Computational Complexity theory, as the problem is closely related to the problem of separating various complexity classes within \\mathrm{P}. In this paper, we study the algebraic formula complexity of multiplying d many 2\\times 2 matrices, denoted IMM_{d}, and show that the well-known divide-and-conquer algorithm cannot be significantly improved at any depth, as long as the formulas are multilinear.\nFormally, for each depth \\Delta \\leq \\log d, we show that any product-depth \\Delta multilinear formula for IMM_d must have size \\exp(\\Omega(\\Delta d^{1/\\Delta})). It also follows from this that any multilinear circuit of product-depth \\Delta for the same polynomial of the above form must have a size of \\exp(\\Omega(d^{1/\\Delta})). In particular, any polynomial-sized multilinear formula for IMM_d must have depth \\Omega(\\log d), and any polynomial-sized multilinear circuit for IMM_d must have depth \\Omega(\\log d/\\log \\log d). Both these bounds are tight up to constant factors.\nOur lower bound has the following consequences for multilinear formula complexity.\n\nDepth-reduction: A well-known result of Brent (JACM 1974) implies that any formula of size s can be converted to one of size s^{O(1)} and depth O(\\log s); further, this reduction continues to hold for multilinear formulas. On the other hand, our lower bound implies that any depth-reduction in the multilinear setting cannot reduce the depth to o(\\log s) without a superpolynomial blow-up in size.\nCircuits vs. formulas: Any circuit of size s and product-depth \\Delta can be converted into a formula of product-depth \\Delta and size s^{O(\\Delta)}. In the multilinear setting, we show that it is not possible to improve on this significantly for small depths. Formally, our results imply that for all large enough s and \\Delta = o(\\log s/\\log \\log s), there is an explicit multilinear polynomial P_{s,\\Delta} that has a syntactic multilinear circuit of size s and is such that any multilinear formula of product-depth \\Delta computing P_{s,\\Delta} must have size s^{\\Omega(\\Delta)}.\nSeparations from general formulas: Shpilka and Yehudayoff (FnTTCS 2010) asked whether general formulas can be more efficient than multilinear formulas for computing multilinear polynomials. Our result, along with a non-trivial upper bound for IMM_{d} implied by a result of Gupta, Kamath, Kayal and Saptharishi (SICOMP 2016), shows that for any size s and product-depth \\Delta = o(\\log s), general formulas of size s and product-depth \\Delta cannot be converted to multilinear formulas of size s^{O(1)} and product-depth \\Delta, when the underlying field has characteristic zero."
+  },
+  {
+    "objectID": "research/papers/ml-dh.html",
+    "href": "research/papers/ml-dh.html",
+    "title": "A Near-Optimal Depth-Hierarchy Theorem for Small-Depth Multilinear Circuits",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/ml-dh.html#abstract",
+    "href": "research/papers/ml-dh.html#abstract",
+    "title": "A Near-Optimal Depth-Hierarchy Theorem for Small-Depth Multilinear Circuits",
+    "section": "Abstract",
+    "text": "Abstract\nWe study the size blow-up that is necessary to convert an algebraic circuit of product-depth \\Delta+1 to one of product-depth \\Delta in the multilinear setting.\nWe show that for every positive \\Delta = \\Delta(n) = o(\\log n/\\log \\log n), there is an explicit multilinear polynomial P^{(\\Delta)} on n variables that can be computed by a multilinear formula of product-depth \\Delta+1 and size O(n), but not by any multilinear circuit of product-depth \\Delta and size less than \\exp(n^{\\Omega(1/\\Delta)}). This result is tight up to the constant implicit in the double exponent for all \\Delta = o(\\log n/\\log \\log n).\nThis strengthens a result of Raz and Yehudayoff (Computational Complexity 2009) who prove a quasipolynomial separation for constant-depth multilinear circuits, and a result of Kayal, Nair and Saha (STACS 2016) who give an exponential separation in the case \\Delta = 1.\nOur separating examples may be viewed as algebraic analogues of variants of the Graph Reachability problem studied by Chen, Oliveira, Servedio and Tan (STOC 2016), who used them to prove lower bounds for constant-depth Boolean circuits."
+  },
+  {
+    "objectID": "research/papers/d3-ff-exp.html",
+    "href": "research/papers/d3-ff-exp.html",
+    "title": "On the Limits of Depth Reduction at Depth-3 Over Small Finite Fields",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/d3-ff-exp.html#abstract",
+    "href": "research/papers/d3-ff-exp.html#abstract",
+    "title": "On the Limits of Depth Reduction at Depth-3 Over Small Finite Fields",
+    "section": "Abstract",
+    "text": "Abstract\nIn a surprising recent result, Gupta-Kamath-Kayal-Saptharishi have proved that over \\mathbb{Q} any n^{O(1)}-variate and n-degree polynomial in VP can also be computed by a depth three \\Sigma\\Pi\\Sigma circuit of size 2^{O(\\sqrt{n} \\log^{3/2}n)}. Over fixed-size finite fields, Grigoriev and Karpinski proved that any \\Sigma\\Pi\\Sigma circuit that computes the determinant (or the permanent) polynomial of a n\\times n matrix must be of size 2^{\\Omega(n)}. In this paper, for an explicit polynomial in VP (over fixed-size finite fields), we prove that any \\Sigma\\Pi\\Sigma circuit computing it must be of size 2^{\\Omega(n\\log n)}. The explicit polynomial that we consider is the iterated matrix multiplication polynomial of n generic matrices of size n\\times n. The importance of this result is that over fixed-size fields there is no depth reduction technique that can be used to compute all the n^{O(1)}-variate and n-degree polynomials in VP by depth 3 circuits of size 2^{o(n\\log n)}. The result of Grigoriev and Karpinski can only rule out such a possibility for \\Sigma\\Pi\\Sigma circuits of size 2^{o(n)}.\nWe also give an example of an explicit polynomial (NW_{n,\\epsilon}(X)) in VNP (which is not known to be in VP), for which any \\Sigma\\Pi\\Sigma circuit computing it (over fixed-size fields) must be of size 2^{\\Omega(n\\log n)}. The polynomial we consider is constructed from the combinatorial design of Nisan and Wigderson, and is closely related to the polynomials considered in many recent papers (by Kayal-Saha-Saptharishi, Kayal-Limaye-Saha-Srinivasan, and Kumar-Saraf), where strong depth 4 circuit size lower bounds are shown."
+  },
+  {
+    "objectID": "research/papers/multiric-homform.html",
+    "href": "research/papers/multiric-homform.html",
+    "title": "Slightly Improved Lower Bounds for Homogeneous Multi-r-ic Formulas of Small-Depth",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/multiric-homform.html#abstract",
+    "href": "research/papers/multiric-homform.html#abstract",
+    "title": "Slightly Improved Lower Bounds for Homogeneous Multi-r-ic Formulas of Small-Depth",
+    "section": "Abstract",
+    "text": "Abstract\nKayal, Saha and Tavenas (Theory of Computing, 2018), showed that any bounded-depth homogeneous formula of bounded individual degree (bounded by r) that computes an explicit polynomial over n variables must have size \\exp\\left(\\Omega\\left(\\frac{1}{r}\\left(\\frac{n}{4}\\right)^{1/\\Delta}\\right)\\right) for all depths \\Delta \\leq O\\left({\\frac{\\log n}{\\log r+ \\log\\log n}}\\right). In this article we show an improved size lower bound of \\exp\\left(\\Omega\\left(\\frac{\\Delta}{r}\\left({\\frac{nr}{2}}\\right)^{1/\\Delta}\\right)\\right) for all depths \\Delta \\leq O\\left({\\frac{\\log n}{\\log r}}\\right), and for the same explicit polynomial.\nIn comparison to Kayal, Saha and Tavenas (Theory of Computing, 2018) 1. our results give superpolynomial lower bounds in a wider regime of depth \\Delta, and 2. for all \\Delta \\in \\left[\\omega(1), o\\left(\\frac{\\log n}{\\log r}\\right)\\right] our lower bound is asymptotically better.\nThis improvement is due to a finer product decomposition of general homogeneous formulas of bounded-depth. This follows from an adaptation of a new for bounded-depth multilinear formulas shown by Chillara, Limaye and Srinivasan (SIAM Journal of Computing, 2019)."
+  },
+  {
+    "objectID": "research/papers/d4-dc.html",
+    "href": "research/papers/d4-dc.html",
+    "title": "Depth 4 Lower Bounds, Determinantal Complexity : A Unified Approach",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/d4-dc.html#abstract",
+    "href": "research/papers/d4-dc.html#abstract",
+    "title": "Depth 4 Lower Bounds, Determinantal Complexity : A Unified Approach",
+    "section": "Abstract",
+    "text": "Abstract\nTavenas has recently proved that any n^{O(1)}-variate and degree n polynomial in VP can be computed by a depth 4 \\Sigma\\Pi\\Sigma\\Pi circuit of size 2^{O(\\sqrt{n}\\log n)} (see Tavenas (2013)). So, to prove VP\\neq VNP it is sufficient to show that an explicit polynomial in VNP of degree n requires 2^{\\omega(\\sqrt{n}\\log n)} size depth 4 circuits. Soon after Tavenas’ result, for two different explicit polynomials, depth 4 circuit size lower bounds of 2^{\\Omega(\\sqrt{n}\\log n)} have been proved (see Kayal-Saha-Saptharishi (2013) and Fournier-Limaye-Malod-Srinivasan (2013)). In particular, using combinatorial design Kayal et al. construct an explicit polynomial in VNP that requires depth 4 circuits of size 2^{\\Omega(\\sqrt{n}\\log n)} and Fournier et al. show that the iterated matrix multiplication polynomial (which is in VP) also requires 2^{\\Omega(\\sqrt{n}\\log n)} size depth 4 circuits.\nIn this paper, we identify a simple combinatorial property such that any polynomial f that satisfies this property would achieve a similar depth 4 circuit size lower bound. In particular, it does not matter whether f is in VP or in VNP. As a result, we get a simple unified lower bound analysis for the above mentioned polynomials.\nAnother goal of this paper is to compare our current knowledge of the depth 4 circuit size lower bounds and the determinantal complexity lower bounds. Currently the best known determinantal complexity lower bound is \\Omega(n^2) for Permanent of a n\\times n matrix (which is a n^2-variate and degree n polynomial) (due to Cai, Chen and Li (2008)). We prove that the determinantal complexity of the iterated matrix multiplication polynomial is \\Omega(dn) where d is the number of matrices and n is the dimension of the matrices. So for d=n, we get that the iterated matrix multiplication polynomial achieves the current best known lower bounds in both fronts: depth 4 circuit size and determinantal complexity. Our result also settles the determinantal complexity of the iterated matrix multiplication polynomial to \\Theta(dn).\nTo the best of our knowledge, a \\Theta(n) bound for the determinantal complexity for the iterated matrix multiplication polynomial was known only for any constant d&gt;1 (cf. Jansen (2011))."
+  },
+  {
+    "objectID": "research/papers/d5-pw-exp.html",
+    "href": "research/papers/d5-pw-exp.html",
+    "title": "Exponential Lower Bounds for Some Restricted Depth Five Powering Circuits",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/d5-pw-exp.html#abstract",
+    "href": "research/papers/d5-pw-exp.html#abstract",
+    "title": "Exponential Lower Bounds for Some Restricted Depth Five Powering Circuits",
+    "section": "Abstract",
+    "text": "Abstract\nDepth five powering circuits are arithmetic circuits of the form \\Sigma\\wedge\\Sigma\\wedge\\Sigma where \\Sigma and \\wedge represent gates that compute sum and power of their inputs respectively. Such circuits compute polynomials of the form \\sum_{i=1}^t Q_i^{\\alpha_{i}}, where each Q_i is a sum of powers of linear polynomials. These circuits are a natural generalization of the well known class of depth three powering circuits (\\Sigma\\wedge\\Sigma circuits). In this paper, we study the complexity of some restricted classes of depth five powering circuits that compute the monomial x_1x_2\\cdots x_n. The restrictions we study are on the fan-ins of the \\Sigma and \\wedge gates (denoted by \\Sigma^{[a]} and \\wedge^{[d]}) while the bottom \\Sigma gates compute homogeneous linear polynomials.\nWe prove size lower bound of 2^{\\Omega(n)} against the following classes of depth five powering circuits that compute the monomial x_1x_2\\cdots x_n.\n\nThe \\Sigma\\wedge\\Sigma^{[m]}\\wedge^{[\\ge d]}\\Sigma_{\\text{Hom}} circuits where d\\geq 8 and m&lt; \\frac{0.29n}{d^2}2^{0.955d}.\nThe \\Sigma\\wedge\\Sigma^{\\{r\\}}\\wedge^{[= d]}\\Sigma_{\\text{Hom}} circuits where r &lt; \\epsilon\\cdot d is the rank of the linear forms under that sum gate, \\epsilon &gt;0 is a constant and d\\geq 8.\n\nFrom this, we infer that the monomial can be computed by a \\Sigma\\wedge\\Sigma^{[=2^{\\sqrt{n}}]}\\wedge^{[=\\sqrt{n}]}\\Sigma_{\\text{Hom}} (or a \\Sigma\\wedge\\Sigma^{\\{=\\sqrt{n}\\}}\\wedge^{[=\\sqrt{n}]}\\Sigma_{\\text{Hom}}) circuit of size 2^{O(\\sqrt{n})} but any \\Sigma\\wedge\\Sigma^{[\\leq 2^{0.955\\sqrt{n}}]}\\wedge^{[\\ge \\sqrt{n}]}\\Sigma_{\\text{Hom}} (or a \\Sigma\\wedge\\Sigma^{\\{\\leq \\epsilon\\sqrt{n}\\}}\\wedge^{[= \\sqrt{n}]}\\Sigma_{\\text{Hom}}) circuit computing it must be of size 2^{\\Omega(n)}.\nOur results show how the fan-in of the middle \\Sigma gates, the degree of the bottom powering gates and the homogeneity at the bottom \\Sigma gates play a crucial role in the computational power of \\Sigma\\wedge\\Sigma\\wedge\\Sigma circuits."
+  },
+  {
+    "objectID": "research/papers/ml-sh.html",
+    "href": "research/papers/ml-sh.html",
+    "title": "A Quadratic Size-Hierarchy Theorem for Small-Depth Multilinear Formulas",
+    "section": "",
+    "text": "Link to the article"
+  },
+  {
+    "objectID": "research/papers/ml-sh.html#abstract",
+    "href": "research/papers/ml-sh.html#abstract",
+    "title": "A Quadratic Size-Hierarchy Theorem for Small-Depth Multilinear Formulas",
+    "section": "Abstract",
+    "text": "Abstract\nWe show explicit separations between the expressive powers of multilinear formulas of small-depth and all polynomial sizes.\nFormally, for any s = s(n) = n^{O(1)} and any \\delta&gt;0, we construct explicit families of multilinear polynomials P_n\\in\\mathbb{F}[x_1,\\ldots,x_n] that have multilinear formulas of size s and depth three but no multilinear formulas of size s^{1/2-\\delta} and depth o(\\log n/\\log \\log n).\nAs far as we know, this is the first such result for an algebraic model of computation.\nOur proof can be viewed as a derandomization of a lower bound technique of Raz (JACM 2009) using \\varepsilon-biased spaces."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Convention in theoretical computer science is to list authors in the alphabetical order of their last names.\n\n \n\n\n\n\n\n\nG. Jakhar, G. R. Kurri, S. Chillara, and V. M. Prabhakaran, Fractional Subadditivity of Submodular Functions, Equality Conditions and Their Applications, ISIT 2025\nconf\n\n\n\nS. Chillara and N. Raja, Branching Programs with Extended Memory, New Insights, CIAC 2025\nconf\n\n\n\nS. Chillara, C. Grichener, and A. Shpilka, On Hardness of Testing Equivalence to Sparse Polynomials Under Shifts, STACS 2023\nconf\n\n\n\nS. Chillara, Functional Lower Bounds for Restricted Arithmetic Circuits of Depth Four, FSTTCS 2021\nconf\n\n\n\nS. Chillara, New Exponential Size Lower Bounds against Depth Four Circuits of Bounded Individual Degree, Electron. Colloquium Comput. Complex.\npreprint\n\n\n\nS. Chillara, On Computing Multilinear Polynomials using Multi-ic Depth Four Circuits, ACM Transactions on Computation Theory\njournal\n\n\n\nS. Chillara, Slightly Improved Lower Bounds for Homogeneous Multi-r-ic Formulas of Small-Depth, Information Processing Letters\njournal\n\n\n\nS. Chillara, N. Limaye, and S. Srinivasan, Small-depth Multilinear Formula Lower Bounds for Iterated Matrix Multiplication, with Applications, SIAM Journal of Computing\njournal\n\n\n\nS. Chillara and P. Mukhopadhyay, Depth 4 Lower Bounds, Determinantal Complexity, A Unified Approach, Computational Complexity\njournal\n\n\n\nS. Chillara, C. Engels, N. Limaye, and S. Srinivasan, A Near-Optimal Depth-Hierarchy Theorem for Small-Depth Multilinear Circuits, FOCS 2018\nconf\n\n\n\nS. Chillara, N. Limaye, and S. Srinivasan, A Quadratic Size-Hierarchy Theorem for Small-Depth Multilinear Formulas, ICALP 2018\nconf\n\n\n\nS. Chillara, C. Engels, B. V. R. Rao, R. Saptharishi, and K. Sreenivasiah, Exponential Lower Bounds for Some Restricted Depth Five Powering Circuits, Chicago Journal of Theoretical Computer Science\njournal\n\n\n\nS. Chillara, M. Kumar, R. Saptharishi, and V. Vinay, The Chasm at Depth Four, and Tensor Rank, Old results, new insights, Electron. Colloquium Comput. Complex.\npreprint\n\n\n\nS. Chillara and P. Mukhopadhyay, On the Limits of Depth Reduction at Depth-3 Over Small Finite Fields, Information and Computation\njournal\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Suryajith Chillara",
+    "section": "",
+    "text": "I am an Assistant Professor with Center for Security, Theory and Algorithmic Research (CSTAR) at International Institute of Information Technology, Hyderabad (IIIT Hyderabad).\nMy research broadly lies at the interface of Algorithms, Computational Complexity Theory and Coding Theory.\nPreviously, I was a post-doctoral fellow at University of Haifa mentored by Noga Ron-Zewi, and at IIT Bombay mentored by Nutan Limaye. I got my MSc and PhD degrees in Computer Science from Chennai Mathematical Institute (CMI) under the supervision of Partha Mukhopadhyay. I got my undergraduate degree from IIT Kanpur."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Suryajith Chillara",
+    "section": "",
+    "text": "I am an Assistant Professor with Center for Security, Theory and Algorithmic Research (CSTAR) at International Institute of Information Technology, Hyderabad (IIIT Hyderabad).\nMy research broadly lies at the interface of Algorithms, Computational Complexity Theory and Coding Theory.\nPreviously, I was a post-doctoral fellow at University of Haifa mentored by Noga Ron-Zewi, and at IIT Bombay mentored by Nutan Limaye. I got my MSc and PhD degrees in Computer Science from Chennai Mathematical Institute (CMI) under the supervision of Partha Mukhopadhyay. I got my undergraduate degree from IIT Kanpur."
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "MA 5.101\nDiscrete Structures\n Fall 2025\n\n\n\n\nCS 1.503\nMathematical Foundations of Data Science\n Spring 2025\n\n\n\n\nCS 1.406\nAdvanced Algorithms\n Spring 2025\n\n\n\n\nCS 1.301\nAlgorithm Analysis and Design\n Fall 2024\n\n\n\n\nCS 1.406\nAdvanced Algorithms\n Spring 2024\n\n\n\n\nCS 1.503\nMathematical Foundations of Data Science\n Fall 2023\n\n\n\n\nCS 1.301\nAlgorithm Analysis and Design\n Fall 2023\n\n\n\n\nCS 1.201\nData Structures and Algorithms (lab)\n Spring 2023\n\n\n\n\nCS 2.201a\nComputer Systems Organization\n Spring 2023\n\n\n\n\nCS 1.406\nAdvanced Algorithms\n Spring 2023\n\n\n\n\nCS 1.301\nAlgorithm Analysis and Design\n Fall 2022\n\n\n\n\nCS 1.406\nAdvanced Algorithms\n Spring 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "teaching/courses/CS1.201Spring2023/index.html",
