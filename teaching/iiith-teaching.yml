@@ -1,3 +1,12 @@
+- title: Discrete Structures
+  url: ./courses/MA5.101Monsoon2025/index.qmd
+  audience: Undergraduate course
+  year: 2025
+  date: 01 August 2025
+  semester: 1
+  coursecode: MA 5.101
+  location: IIIT Hyderabad  
+  status: Current
 - title: Mathematical Foundations of Data Science
   url: ./courses/MFDSSpring2025/index.qmd
   audience: Special topics
@@ -6,7 +15,7 @@
   semester: 2
   coursecode: CS 1.503
   location: IIIT Hyderabad  
-  status: Current
+  status: Archive
 - title: Advanced Algorithms
   url: ./courses/CS1.406Spring2025/index.qmd
   audience: Advanced course
@@ -15,7 +24,7 @@
   semester: 2
   coursecode: CS 1.406
   location: IIIT Hyderabad  
-  status: Current
+  status: Archive
 - title: Algorithm Analysis and Design
   url: ./courses/CS1.301Monsoon2024/index.qmd
   audience: Undergraduate course
@@ -42,7 +51,7 @@
   semester: 1
   coursecode: CS 1.503
   location: IIIT Hyderabad  
-  status: Current
+  status: Archive
 - title: Algorithm Analysis and Design
   url: ./courses/CS1.301Monsoon2023/index.qmd
   audience: Undergraduate course
@@ -96,4 +105,4 @@
   semester: 2
   coursecode: CS 1.406
   location: IIIT Hyderabad  
-  status: Current
+  status: Archive
