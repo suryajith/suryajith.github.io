@@ -1,4 +1,11 @@
 ---
 title: "MA5.101 - Discrete Structures"
-subtitle: "Monsoon 2025"
+date: "08-01-2025"
 --- 
+
+
+## Announcements
+- Instructors: [Prof. Praveen Paruchuri](https://sites.google.com/view/praveen-paruchuri/) and I
+- **Teaching assistants:** TBA
+- **Schedule:** TBA
+- **Classroom:** TBA
