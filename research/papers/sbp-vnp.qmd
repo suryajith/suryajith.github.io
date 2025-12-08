@@ -12,7 +12,7 @@ authors: "S. Chillara, and N. Raja"
 Suryajith Chillara and Nithish Raja
 
 ### Publisher Information
-- Conf: CIAC 2025 (to appear)
+- Conf: CIAC 2025 
 
 ## Abstract
 

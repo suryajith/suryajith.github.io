@@ -8,7 +8,7 @@ format:
 
 ::: {.left-column}
 
-<img src="./newimg.png" 
+<img src="./WebImg.jpg" 
         alt="Picture" 
         width="200"  
         style="border-radius: 50%;" />
