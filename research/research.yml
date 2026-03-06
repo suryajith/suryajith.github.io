@@ -1,3 +1,10 @@
+- title: Generalized Information Inequalities via Submodularity, and Two Combinatorial Problems
+  url: ./papers/gen-info-ineq-submodularity.qmd
+  authors: G. Jakhar, G. R. Kurri, S. Chillara, and V. M. Prabhakaran
+  venue: arXiv:2601.15723
+  type: preprint
+  year: 2026
+
 - title: Fractional Subadditivity of Submodular Functions, Equality Conditions and Their Applications
   url: ./papers/fracsubadd-equality.qmd
   authors: G. Jakhar, G. R. Kurri, S. Chillara, and V. M. Prabhakaran

@@ -1,0 +1,21 @@
+---
+title: "Generalized Information Inequalities via Submodularity, and Two Combinatorial Problems"
+date: "2026-01-22"
+year: "2026"
+publisher: "arXiv"
+authors: "G. Jakhar, G. R. Kurri, S. Chillara, and V. M. Prabhakaran"
+---
+
+[Link to the article](https://arxiv.org/pdf/2601.15723.pdf)
+
+
+### Authors
+Gunank Jakhar, Gowtham R. Kurri, Suryajith Chillara, and Vinod M. Prabhakaran
+
+### Publisher Information
+- arXiv: [2601.15723](https://arxiv.org/abs/2601.15723)
+- DOI: [10.48550/arXiv.2601.15723](https://doi.org/10.48550/arXiv.2601.15723)
+
+## Abstract
+
+It is well known that there is a strong connection between entropy inequalities and submodularity, since the entropy of a collection of random variables is a submodular function. Unifying frameworks for information inequalities arising from submodularity were developed by Madiman and Tetali (2010) and Sason (2022). Madiman and Tetali (2010) established strong and weak fractional inequalities that subsume classical results such as Han's inequality and Shearer's lemma. Sason (2022) introduced a convex-functional framework for generalizing Han's inequality, and derived unified inequalities for submodular and supermodular functions. In this work, we build on these frameworks and make three contributions. First, we establish convex-functional generalizations of the strong and weak Madiman-Tetali inequalities for submodular functions. Second, using a special case of the strong Madiman-Tetali inequality, we derive a new Loomis-Whitney-type projection inequality for finite point sets in $\mathbb{R}^d$, which improves upon the classical Loomis-Whitney bound by incorporating slice-level structural information. Finally, we study an extremal graph theory problem that recovers and extends the previously known results of Sason (2022) and Boucheron et al., employing Shearer's lemma in contrast to the use of Han's inequality in those works.

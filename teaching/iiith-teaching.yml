@@ -6,6 +6,15 @@
   semester: 1
   coursecode: MA 5.101
   location: IIIT Hyderabad  
+  status: Archive
+- title: Advanced Algorithms
+  url: ./courses/CS1.406Spring2026/index.qmd
+  audience: Advanced course
+  year: 2026
+  date: 01 January 2026
+  semester: 2
+  coursecode: CS 1.406
+  location: IIIT Hyderabad  
   status: Current
 - title: Mathematical Foundations of Data Science
   url: ./courses/MFDSSpring2025/index.qmd
