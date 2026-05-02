@@ -2,7 +2,7 @@
 title: "Multilinear Formula Lower Bounds for Sparse Determinants"
 date: "2026-05-02"
 year: "2026"
-publisher: "Preprint"
+publisher: "CCC 2026 (to appear)"
 authors: "P. Boyapati, S. Chillara, and P. Vempati"
 ---
 
@@ -16,8 +16,8 @@ Pruthvi Boyapati, Suryajith Chillara, and Pratyush Vempati
 
 ## Abstract
 
-Raz (2009) proved that multilinear formulas computing the determinant of a generic n × n matrix require size nΩ(log n). A fundamental question in understanding this lower bound is identifying which structural properties of the determinant drive this hardness. Is it the quadratic number of variables? The dense connectivity? Specific algebraic symmetries?
+Raz (2009) proved that multilinear formulas computing the determinant of a generic $n \times n$ matrix require size $n^{\Omega(\log n)}$. A fundamental question in understanding this lower bound is identifying which structural properties of the determinant drive this hardness. Is it the quadratic number of variables? The dense connectivity? Specific algebraic symmetries?
 
-We establish that density is not essential. We prove the existence of n × n symbolic matrices with only Θ(n log6 n) nonzero entries - reducing the variable count by a factor of n/log6 n - such that any multilinear formula computing their determinants still requires size nΩ(log n). Our construction uses rectangle sampling from the complete bipartite graph to generate sparse matrices that simultaneously maintain perfect matchings (ensuring nonzero determinant) while exhibiting diagonal imbalance under random vertex permutations - a geometric property we identify as the key driver of factor imbalance in Raz's framework.
+We establish that density is not essential. We prove the existence of $n \times n$ symbolic matrices with only $\Theta(n \log^6 n)$ nonzero entries - reducing the variable count by a factor of $n/{\log^6 n}$ - such that any multilinear formula computing their determinants still requires size $n^{\Omega(\log n)}$. Our construction uses rectangle sampling from the complete bipartite graph to generate sparse matrices that simultaneously maintain perfect matchings (ensuring nonzero determinant) while exhibiting diagonal imbalance under random vertex permutations - a geometric property we identify as the key driver of factor imbalance in Raz's framework.
 
 This demonstrates that Raz's partial derivatives method is remarkably robust to sparsification, and suggests that the fundamental source of multilinear hardness for determinant lies in expansion-like combinatorial structure rather than density. Our techniques combine concentration inequalities for dependent random variables with insights from random graph theory.
