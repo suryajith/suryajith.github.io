@@ -68,6 +68,49 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
+  <script>document.addEventListener("DOMContentLoaded", function () {
+ var mathElements = document.getElementsByClassName("math");
+ var macros = [];
+ for (var i = 0; i < mathElements.length; i++) {
+  var texText = mathElements[i].firstChild;
+  if (mathElements[i].tagName == "SPAN") {
+   katex.render(texText.data, mathElements[i], {
+    displayMode: mathElements[i].classList.contains('display'),
+    throwOnError: false,
+    macros: macros,
+    fleqn: false
+   });
+}}});
+  </script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css">
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 <meta property="og:title" content="Multilinear Formula Lower Bounds for Sparse Determinants – Suryajith Chillara">
@@ -183,8 +226,8 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Raz (2009) proved that multilinear formulas computing the determinant of a generic n × n matrix require size nΩ(log n). A fundamental question in understanding this lower bound is identifying which structural properties of the determinant drive this hardness. Is it the quadratic number of variables? The dense connectivity? Specific algebraic symmetries?</p>
-<p>We establish that density is not essential. We prove the existence of n × n symbolic matrices with only Θ(n log6 n) nonzero entries - reducing the variable count by a factor of n/log6 n - such that any multilinear formula computing their determinants still requires size nΩ(log n). Our construction uses rectangle sampling from the complete bipartite graph to generate sparse matrices that simultaneously maintain perfect matchings (ensuring nonzero determinant) while exhibiting diagonal imbalance under random vertex permutations - a geometric property we identify as the key driver of factor imbalance in Raz’s framework.</p>
+<p>Raz (2009) proved that multilinear formulas computing the determinant of a generic <span class="math inline">n \times n</span> matrix require size <span class="math inline">n^{\Omega(\log n)}</span>. A fundamental question in understanding this lower bound is identifying which structural properties of the determinant drive this hardness. Is it the quadratic number of variables? The dense connectivity? Specific algebraic symmetries?</p>
+<p>We establish that density is not essential. We prove the existence of <span class="math inline">n \times n</span> symbolic matrices with only <span class="math inline">\Theta(n \log^6 n)</span> nonzero entries - reducing the variable count by a factor of <span class="math inline">n/{\log^6 n}</span> - such that any multilinear formula computing their determinants still requires size <span class="math inline">n^{\Omega(\log n)}</span>. Our construction uses rectangle sampling from the complete bipartite graph to generate sparse matrices that simultaneously maintain perfect matchings (ensuring nonzero determinant) while exhibiting diagonal imbalance under random vertex permutations - a geometric property we identify as the key driver of factor imbalance in Raz’s framework.</p>
 <p>This demonstrates that Raz’s partial derivatives method is remarkably robust to sparsification, and suggests that the fundamental source of multilinear hardness for determinant lies in expansion-like combinatorial structure rather than density. Our techniques combine concentration inequalities for dependent random variables with insights from random graph theory.</p>
 
 
