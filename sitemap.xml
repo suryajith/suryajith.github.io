@@ -2,138 +2,142 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://suryajith.github.io/teaching/courses/CS1.301Monsoon2024/index.html</loc>
-    <lastmod>2025-12-08T16:16:55.637Z</lastmod>
+    <lastmod>2026-03-06T15:11:33.131Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/teaching/courses/MFDSSpring2025/index.html</loc>
-    <lastmod>2025-12-08T16:16:55.641Z</lastmod>
+    <lastmod>2026-03-06T15:11:33.140Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/teaching/courses/MFDSMonsoon2023/index.html</loc>
-    <lastmod>2025-12-08T16:16:55.640Z</lastmod>
+    <lastmod>2026-03-06T15:11:33.139Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/teaching/courses/CS2.201aSpring2023/index.html</loc>
-    <lastmod>2025-12-08T16:16:55.640Z</lastmod>
+    <lastmod>2026-03-06T15:11:33.137Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/teaching/courses/CS1.406Spring2025/index.html</loc>
-    <lastmod>2025-12-08T16:16:55.639Z</lastmod>
+    <lastmod>2026-03-06T15:11:33.135Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/teaching/courses/CS1.406Spring2023/index.html</loc>
-    <lastmod>2025-12-08T16:16:55.638Z</lastmod>
+    <lastmod>2026-03-06T15:11:33.133Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/teaching/courses/CS1.201Spring2023/index.html</loc>
-    <lastmod>2025-12-08T16:16:55.635Z</lastmod>
+    <lastmod>2026-03-06T15:11:32.571Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/teaching/index.html</loc>
-    <lastmod>2025-12-08T16:16:55.641Z</lastmod>
+    <lastmod>2026-03-06T15:11:33.143Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/index.html</loc>
-    <lastmod>2025-12-08T16:16:55.616Z</lastmod>
+    <lastmod>2025-12-08T16:16:55.000Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/research/index.html</loc>
-    <lastmod>2025-12-08T16:16:55.618Z</lastmod>
+    <lastmod>2026-03-06T15:11:28.687Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/research/papers/ml-sh.html</loc>
-    <lastmod>2025-12-08T16:16:55.624Z</lastmod>
+    <lastmod>2026-03-06T15:11:30.851Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/research/papers/gen-info-ineq-submodularity.html</loc>
-    <lastmod>2026-03-06T14:37:51.618Z</lastmod>
+    <lastmod>2026-03-06T15:11:28.691Z</lastmod>
   </url>
   <url>
-    <loc>https://suryajith.github.io/research/papers/sparsification-hardness.html</loc>
-    <lastmod>2025-12-08T16:16:55.625Z</lastmod>
-  </url>
-  <url>
-    <loc>https://suryajith.github.io/research/papers/fracsubadd-equality.html</loc>
-    <lastmod>2025-12-08T16:16:55.621Z</lastmod>
-  </url>
-  <url>
-    <loc>https://suryajith.github.io/research/papers/multiric-d4-exp.html</loc>
-    <lastmod>2025-12-08T16:16:55.624Z</lastmod>
-  </url>
-  <url>
-    <loc>https://suryajith.github.io/research/papers/functional.html</loc>
-    <lastmod>2025-12-08T16:16:55.622Z</lastmod>
-  </url>
-  <url>
-    <loc>https://suryajith.github.io/research/papers/d4-tr.html</loc>
-    <lastmod>2025-12-08T16:16:55.620Z</lastmod>
-  </url>
-  <url>
-    <loc>https://suryajith.github.io/research/papers/imm-ml.html</loc>
-    <lastmod>2025-12-08T16:16:55.623Z</lastmod>
-  </url>
-  <url>
-    <loc>https://suryajith.github.io/research/papers/ml-dh.html</loc>
-    <lastmod>2025-12-08T16:16:55.623Z</lastmod>
-  </url>
-  <url>
-    <loc>https://suryajith.github.io/research/papers/d3-ff-exp.html</loc>
-    <lastmod>2025-12-08T16:16:55.619Z</lastmod>
-  </url>
-  <url>
-    <loc>https://suryajith.github.io/research/papers/multiric-homform.html</loc>
-    <lastmod>2025-12-08T16:16:55.625Z</lastmod>
+    <loc>https://suryajith.github.io/research/papers/sparse-det.html</loc>
+    <lastmod>2026-05-02T15:23:11.664Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/research/papers/d4-dc.html</loc>
-    <lastmod>2025-12-08T16:16:55.619Z</lastmod>
+    <lastmod>2026-03-06T15:11:28.689Z</lastmod>
+  </url>
+  <url>
+    <loc>https://suryajith.github.io/research/papers/multiric-homform.html</loc>
+    <lastmod>2026-03-06T15:11:32.557Z</lastmod>
+  </url>
+  <url>
+    <loc>https://suryajith.github.io/research/papers/d3-ff-exp.html</loc>
+    <lastmod>2026-03-06T15:11:28.688Z</lastmod>
+  </url>
+  <url>
+    <loc>https://suryajith.github.io/research/papers/ml-dh.html</loc>
+    <lastmod>2026-03-06T15:11:30.850Z</lastmod>
+  </url>
+  <url>
+    <loc>https://suryajith.github.io/research/papers/imm-ml.html</loc>
+    <lastmod>2026-03-06T15:11:30.132Z</lastmod>
+  </url>
+  <url>
+    <loc>https://suryajith.github.io/research/papers/d4-tr.html</loc>
+    <lastmod>2026-03-06T15:11:28.689Z</lastmod>
+  </url>
+  <url>
+    <loc>https://suryajith.github.io/research/papers/functional.html</loc>
+    <lastmod>2026-03-06T15:11:28.691Z</lastmod>
+  </url>
+  <url>
+    <loc>https://suryajith.github.io/research/papers/multiric-d4-exp.html</loc>
+    <lastmod>2026-03-06T15:11:31.406Z</lastmod>
+  </url>
+  <url>
+    <loc>https://suryajith.github.io/research/papers/fracsubadd-equality.html</loc>
+    <lastmod>2026-03-06T15:11:28.690Z</lastmod>
+  </url>
+  <url>
+    <loc>https://suryajith.github.io/research/papers/sparsification-hardness.html</loc>
+    <lastmod>2026-03-06T15:11:32.558Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/research/papers/d5-pw-exp.html</loc>
-    <lastmod>2025-12-08T16:16:55.620Z</lastmod>
+    <lastmod>2026-03-06T15:11:28.690Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/research/papers/multiric-d4-qpoly.html</loc>
-    <lastmod>2025-12-08T16:16:55.624Z</lastmod>
+    <lastmod>2026-03-06T15:11:31.408Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/research/papers/sbp-vnp.html</loc>
-    <lastmod>2025-12-08T16:16:55.625Z</lastmod>
+    <lastmod>2026-03-06T15:11:32.558Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/contact/index.html</loc>
-    <lastmod>2025-12-08T16:16:55.615Z</lastmod>
+    <lastmod>2026-03-06T15:11:28.682Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/students/index.html</loc>
-    <lastmod>2026-03-06T14:34:52.735Z</lastmod>
+    <lastmod>2026-03-06T15:11:32.570Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/teaching/courses/MA5.101Monsoon2025/index.html</loc>
-    <lastmod>2025-12-08T16:16:55.640Z</lastmod>
+    <lastmod>2026-03-06T15:11:33.137Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/teaching/courses/CS1.406Spring2024/index.html</loc>
-    <lastmod>2025-12-08T16:16:55.639Z</lastmod>
+    <lastmod>2026-03-06T15:11:33.134Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/teaching/courses/CS1.406Spring2022/index.html</loc>
-    <lastmod>2025-12-08T16:16:55.638Z</lastmod>
+    <lastmod>2026-03-06T15:11:33.132Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/teaching/courses/Teaching@IITB/index.html</loc>
-    <lastmod>2025-12-08T16:16:55.641Z</lastmod>
+    <lastmod>2026-03-06T15:11:33.141Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/teaching/courses/CS1.406Spring2026/index.html</loc>
-    <lastmod>2026-03-06T14:41:14.944Z</lastmod>
+    <lastmod>2026-03-06T15:11:33.136Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/teaching/courses/CS1.301Monsoon2022/index.html</loc>
-    <lastmod>2025-12-08T16:16:55.636Z</lastmod>
+    <lastmod>2026-03-06T15:11:32.572Z</lastmod>
   </url>
   <url>
     <loc>https://suryajith.github.io/teaching/courses/CS1.301Monsoon2023/index.html</loc>
-    <lastmod>2025-12-08T16:16:55.636Z</lastmod>
+    <lastmod>2026-03-06T15:11:32.573Z</lastmod>
   </url>
 </urlset>
