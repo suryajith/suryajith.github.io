@@ -1,3 +1,10 @@
+- title: Multilinear Formula Lower Bounds for Sparse Determinants
+  url: ./papers/sparse-det.qmd
+  authors: P. Boyapati, S. Chillara, and P. Vempati
+  venue: CCC 2026 (to appear)
+  type: conf
+  year: 2026
+
 - title: Generalized Information Inequalities via Submodularity, and Two Combinatorial Problems
   url: ./papers/gen-info-ineq-submodularity.qmd
   authors: G. Jakhar, G. R. Kurri, S. Chillara, and V. M. Prabhakaran
