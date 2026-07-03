@@ -2,7 +2,7 @@
 title: "Multilinear Formula Lower Bounds for Sparse Determinants"
 date: "2026-05-02"
 year: "2026"
-publisher: "CCC 2026 (to appear)"
+publisher: "CCC 2026"
 authors: "P. Boyapati, S. Chillara, and P. Vempati"
 ---
 
