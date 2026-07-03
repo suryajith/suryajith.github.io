@@ -1,0 +1,23 @@
+---
+title: "From Submodularity to Matrix Determinants: Strengthening Han's, Szász's, and Fischer's Inequalities"
+date: "2026-05-12"
+year: "2026"
+publisher: "arXiv"
+authors: "G. Jakhar, G. R. Kurri, S. Chillara, and V. M. Prabhakaran"
+---
+
+[Link to the article](https://arxiv.org/pdf/2605.11998.pdf)
+
+
+### Authors
+Gunank Jakhar, Gowtham R. Kurri, Suryajith Chillara, and Vinod M. Prabhakaran
+
+### Publisher Information
+- arXiv: [2605.11998](https://arxiv.org/abs/2605.11998)
+- DOI: [10.48550/arXiv.2605.11998](https://doi.org/10.48550/arXiv.2605.11998)
+
+## Abstract
+
+Dembo, Cover, and Thomas (1991) developed an elegant information-theoretic framework for proving determinantal inequalities for positive definite matrices, which relies on the structural inequalities of differential entropy. Submodular functions, which subsume entropy, inherently satisfy these structural inequalities because they obey generalized forms of the fundamental properties of entropy -- a chain rule and the property that conditioning reduces the function's value (under an appropriate definition of conditioning). Applying subadditivity, Han's inequality (1978), and partition subadditivity (i.e., subadditivity over a partition) yields Hadamard's, Szász's, and Fischer's inequalities, respectively. Furthermore, this framework recovers Ky Fan's inequality (1955), a strengthening of Hadamard's inequality. This improvement fundamentally arises because conditional subadditivity yields a tighter upper bound on the joint entropy than the one obtained via unconditional subadditivity.
+
+In this paper, we establish conditional strengthenings of Han's inequality and partition subadditivity in the general setting of submodular functions. We derive equality conditions for these strengthened bounds and characterize when they strictly improve their unconditional counterparts. We specialize these results to differential entropy and apply them to establish strengthened versions of Szász's and Fischer's inequalities. The strengthening of Szász's inequality recovers Ky Fan's inequality as a special case, and is strictly stronger than the classical Szász's inequality for any non-diagonal positive definite matrix. We also derive an inequality concerning eigenvalues, which generalizes and strictly strengthens a corresponding eigenvalue inequality of Ky Fan. We provide numerical examples to explicitly illustrate the tightness of our proposed matrix determinantal bounds.

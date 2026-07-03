@@ -1,7 +1,21 @@
+- title: Shortest Paths with Linear Edge Weights
+  url: ./papers/parametric-shortest-paths.qmd
+  authors: S. Chillara, K. Gajjar, and N. Raja
+  venue: FOCS 2026
+  type: conf
+  year: 2026
+
+- title: From Submodularity to Matrix Determinants, Strengthening Han's, Szász's, and Fischer's Inequalities
+  url: ./papers/submod-det-ineq.qmd
+  authors: G. Jakhar, G. R. Kurri, S. Chillara, and V. M. Prabhakaran
+  venue: arXiv:2605.11998
+  type: preprint
+  year: 2026
+
 - title: Multilinear Formula Lower Bounds for Sparse Determinants
   url: ./papers/sparse-det.qmd
   authors: P. Boyapati, S. Chillara, and P. Vempati
-  venue: CCC 2026 (to appear)
+  venue: CCC 2026
   type: conf
   year: 2026
 
