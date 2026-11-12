@@ -44,10 +44,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-447e42e69aaa9833c0ba1b986f430b20.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-82af2bbc528db44781650729bae9d4b4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-8e31fd92c6a58a111fd0fb4db091da6c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-67a863f60b86a21d0b65e6beef9fa7c1.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-8e31fd92c6a58a111fd0fb4db091da6c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -149,7 +153,177 @@ window.Quarto = {
 <meta property="og:site_name" content="Suryajith Chillara">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Skip to main content</a>
+<body class="nav-fixed fullcontent quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Skip to main content</a><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          toggle.setAttribute("aria-checked", alternate ? "true" : "false");
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455).
+    // Not run on load: stylesheets are set before first paint there, and
+    // scrolling would undo the scroll to a URL fragment (#14973).
+    // The one pixel nudge keeps the reader where they were.
+    const refreshSafariScrollbar = () => {
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        const scrollY = window.scrollY;
+        window.scrollTo(0, scrollY > 0 ? scrollY - 1 : 1);
+        setTimeout(() => {
+          window.scrollTo(0, scrollY);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      refreshSafariScrollbar();
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -190,6 +364,7 @@ window.Quarto = {
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
+  <button type="button" role="switch" aria-checked="false" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode" aria-label="Toggle dark mode"><i class="bi"></i></button>
 </div>
             <div id="quarto-search" class="" title="Search"></div>
       </div> <!-- /container-fluid -->
@@ -202,6 +377,7 @@ window.Quarto = {
     
 <!-- main -->
 <main class="content page-columns page-full" id="quarto-document-content" tabindex="-1">
+
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -233,97 +409,97 @@ Convention in theoretical computer science is to list authors in the alphabetica
 <tr class="odd" data-categories="null" data-index="0">
 <td class="listing-url"><span><a href="../research/papers/coded-pir-weight-dichotomy.html"><span class="bi bi-link"></span></a></span></td>
 <td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara and K. Gupta, <a href="../research/papers/coded-pir-weight-dichotomy.html">A Weight Dichotomy for the Multiplicity-Storage Tradeoff in Coded PIR</a>, ITW 2026</span></td>
-<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="conf" style="background:darkorchid;">conf</span></td>
+<td><span class="badge badge-primary owl-purple" data-bs-toggle="tooltip" data-bs-placement="top" title="conf">conf</span></td>
 </tr>
 <tr class="even" data-categories="null" data-index="1">
 <td class="listing-url"><span><a href="../research/papers/han-shearer-equality.html"><span class="bi bi-link"></span></a></span></td>
 <td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">G. Jakhar, G. R. Kurri, S. Chillara, and V. M. Prabhakaran, <a href="../research/papers/han-shearer-equality.html">On Han- and Shearer-Type Information Inequalities: Equality Conditions and Combinatorial Applications</a>, arXiv:2610.18693</span></td>
-<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="preprint" style="background:grey;">preprint</span></td>
+<td><span class="badge badge-primary owl-grey" data-bs-toggle="tooltip" data-bs-placement="top" title="preprint">preprint</span></td>
 </tr>
 <tr class="odd" data-categories="null" data-index="2">
 <td class="listing-url"><span><a href="../research/papers/parametric-shortest-paths.html"><span class="bi bi-link"></span></a></span></td>
 <td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, K. Gajjar, and N. Raja, <a href="../research/papers/parametric-shortest-paths.html">Shortest Paths with Linear Edge Weights</a>, FOCS 2026</span></td>
-<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="conf" style="background:darkorchid;">conf</span></td>
+<td><span class="badge badge-primary owl-purple" data-bs-toggle="tooltip" data-bs-placement="top" title="conf">conf</span></td>
 </tr>
 <tr class="even" data-categories="null" data-index="3">
 <td class="listing-url"><span><a href="../research/papers/submod-det-ineq.html"><span class="bi bi-link"></span></a></span></td>
 <td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">G. Jakhar, G. R. Kurri, S. Chillara, and V. M. Prabhakaran, <a href="../research/papers/submod-det-ineq.html">From Submodularity to Matrix Determinants, Strengthening Han's, Szász's, and Fischer's Inequalities</a>, arXiv:2605.11998</span></td>
-<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="preprint" style="background:grey;">preprint</span></td>
+<td><span class="badge badge-primary owl-grey" data-bs-toggle="tooltip" data-bs-placement="top" title="preprint">preprint</span></td>
 </tr>
 <tr class="odd" data-categories="null" data-index="4">
 <td class="listing-url"><span><a href="../research/papers/sparse-det.html"><span class="bi bi-link"></span></a></span></td>
 <td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">P. Boyapati, S. Chillara, and P. Vempati, <a href="../research/papers/sparse-det.html">Multilinear Formula Lower Bounds for Sparse Determinants</a>, CCC 2026</span></td>
-<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="conf" style="background:darkorchid;">conf</span></td>
+<td><span class="badge badge-primary owl-purple" data-bs-toggle="tooltip" data-bs-placement="top" title="conf">conf</span></td>
 </tr>
 <tr class="even" data-categories="null" data-index="5">
 <td class="listing-url"><span><a href="../research/papers/fracsubadd-equality.html"><span class="bi bi-link"></span></a></span></td>
 <td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">G. Jakhar, G. R. Kurri, S. Chillara, and V. M. Prabhakaran, <a href="../research/papers/fracsubadd-equality.html">Fractional Subadditivity of Submodular Functions, Equality Conditions and Their Applications</a>, ISIT 2025</span></td>
-<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="conf" style="background:darkorchid;">conf</span></td>
+<td><span class="badge badge-primary owl-purple" data-bs-toggle="tooltip" data-bs-placement="top" title="conf">conf</span></td>
 </tr>
 <tr class="odd" data-categories="null" data-index="6">
 <td class="listing-url"><span><a href="../research/papers/sbp-vnp.html"><span class="bi bi-link"></span></a></span></td>
 <td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara and N. Raja, <a href="../research/papers/sbp-vnp.html">Branching Programs with Extended Memory, New Insights</a>, CIAC 2025</span></td>
-<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="conf" style="background:darkorchid;">conf</span></td>
+<td><span class="badge badge-primary owl-purple" data-bs-toggle="tooltip" data-bs-placement="top" title="conf">conf</span></td>
 </tr>
 <tr class="even" data-categories="null" data-index="7">
 <td class="listing-url"><span><a href="../research/papers/sparsification-hardness.html"><span class="bi bi-link"></span></a></span></td>
 <td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, C. Grichener, and A. Shpilka, <a href="../research/papers/sparsification-hardness.html">On Hardness of Testing Equivalence to Sparse Polynomials Under Shifts</a>, STACS 2023</span></td>
-<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="conf" style="background:darkorchid;">conf</span></td>
+<td><span class="badge badge-primary owl-purple" data-bs-toggle="tooltip" data-bs-placement="top" title="conf">conf</span></td>
 </tr>
 <tr class="odd" data-categories="null" data-index="8">
 <td class="listing-url"><span><a href="../research/papers/functional.html"><span class="bi bi-link"></span></a></span></td>
 <td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, <a href="../research/papers/functional.html">Functional Lower Bounds for Restricted Arithmetic Circuits of Depth Four</a>, FSTTCS 2021</span></td>
-<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="conf" style="background:darkorchid;">conf</span></td>
+<td><span class="badge badge-primary owl-purple" data-bs-toggle="tooltip" data-bs-placement="top" title="conf">conf</span></td>
 </tr>
 <tr class="even" data-categories="null" data-index="9">
 <td class="listing-url"><span><a href="../research/papers/multiric-d4-exp.html"><span class="bi bi-link"></span></a></span></td>
 <td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, <a href="../research/papers/multiric-d4-exp.html">New Exponential Size Lower Bounds against Depth Four Circuits of Bounded Individual Degree</a>, Electron. Colloquium Comput. Complex.</span></td>
-<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="preprint" style="background:grey;">preprint</span></td>
+<td><span class="badge badge-primary owl-grey" data-bs-toggle="tooltip" data-bs-placement="top" title="preprint">preprint</span></td>
 </tr>
 <tr class="odd" data-categories="null" data-index="10">
 <td class="listing-url"><span><a href="../research/papers/multiric-d4-qpoly.html"><span class="bi bi-link"></span></a></span></td>
 <td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, <a href="../research/papers/multiric-d4-qpoly.html">On Computing Multilinear Polynomials using Multi-ic Depth Four Circuits</a>, ACM Transactions on Computation Theory</span></td>
-<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="journal" style="background:olivedrab;">journal</span></td>
+<td><span class="badge badge-primary owl-green" data-bs-toggle="tooltip" data-bs-placement="top" title="journal">journal</span></td>
 </tr>
 <tr class="even" data-categories="null" data-index="11">
 <td class="listing-url"><span><a href="../research/papers/multiric-homform.html"><span class="bi bi-link"></span></a></span></td>
 <td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, <a href="../research/papers/multiric-homform.html">Slightly Improved Lower Bounds for Homogeneous Multi-r-ic Formulas of Small-Depth</a>, Information Processing Letters</span></td>
-<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="journal" style="background:olivedrab;">journal</span></td>
+<td><span class="badge badge-primary owl-green" data-bs-toggle="tooltip" data-bs-placement="top" title="journal">journal</span></td>
 </tr>
 <tr class="odd" data-categories="null" data-index="12">
 <td class="listing-url"><span><a href="../research/papers/imm-ml.html"><span class="bi bi-link"></span></a></span></td>
 <td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, N. Limaye, and S. Srinivasan, <a href="../research/papers/imm-ml.html">Small-depth Multilinear Formula Lower Bounds for Iterated Matrix Multiplication, with Applications</a>, SIAM Journal of Computing</span></td>
-<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="journal" style="background:olivedrab;">journal</span></td>
+<td><span class="badge badge-primary owl-green" data-bs-toggle="tooltip" data-bs-placement="top" title="journal">journal</span></td>
 </tr>
 <tr class="even" data-categories="null" data-index="13">
 <td class="listing-url"><span><a href="../research/papers/d4-dc.html"><span class="bi bi-link"></span></a></span></td>
 <td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara and P. Mukhopadhyay, <a href="../research/papers/d4-dc.html">Depth 4 Lower Bounds, Determinantal Complexity, A Unified Approach</a>, Computational Complexity</span></td>
-<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="journal" style="background:olivedrab;">journal</span></td>
+<td><span class="badge badge-primary owl-green" data-bs-toggle="tooltip" data-bs-placement="top" title="journal">journal</span></td>
 </tr>
 <tr class="odd" data-categories="null" data-index="14">
 <td class="listing-url"><span><a href="../research/papers/ml-dh.html"><span class="bi bi-link"></span></a></span></td>
 <td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, C. Engels, N. Limaye, and S. Srinivasan, <a href="../research/papers/ml-dh.html">A Near-Optimal Depth-Hierarchy Theorem for Small-Depth Multilinear Circuits</a>, FOCS 2018</span></td>
-<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="conf" style="background:darkorchid;">conf</span></td>
+<td><span class="badge badge-primary owl-purple" data-bs-toggle="tooltip" data-bs-placement="top" title="conf">conf</span></td>
 </tr>
 <tr class="even" data-categories="null" data-index="15">
 <td class="listing-url"><span><a href="../research/papers/ml-sh.html"><span class="bi bi-link"></span></a></span></td>
 <td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, N. Limaye, and S. Srinivasan, <a href="../research/papers/ml-sh.html">A Quadratic Size-Hierarchy Theorem for Small-Depth Multilinear Formulas</a>, ICALP 2018</span></td>
-<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="conf" style="background:darkorchid;">conf</span></td>
+<td><span class="badge badge-primary owl-purple" data-bs-toggle="tooltip" data-bs-placement="top" title="conf">conf</span></td>
 </tr>
 <tr class="odd" data-categories="null" data-index="16">
 <td class="listing-url"><span><a href="../research/papers/d5-pw-exp.html"><span class="bi bi-link"></span></a></span></td>
 <td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, C. Engels, B. V. R. Rao, R. Saptharishi, and K. Sreenivasiah, <a href="../research/papers/d5-pw-exp.html">Exponential Lower Bounds for Some Restricted Depth Five Powering Circuits</a>, Chicago Journal of Theoretical Computer Science</span></td>
-<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="journal" style="background:olivedrab;">journal</span></td>
+<td><span class="badge badge-primary owl-green" data-bs-toggle="tooltip" data-bs-placement="top" title="journal">journal</span></td>
 </tr>
 <tr class="even" data-categories="null" data-index="17">
 <td class="listing-url"><span><a href="../research/papers/d4-tr.html"><span class="bi bi-link"></span></a></span></td>
 <td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara, M. Kumar, R. Saptharishi, and V. Vinay, <a href="../research/papers/d4-tr.html">The Chasm at Depth Four, and Tensor Rank, Old results, new insights</a>, Electron. Colloquium Comput. Complex.</span></td>
-<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="preprint" style="background:grey;">preprint</span></td>
+<td><span class="badge badge-primary owl-grey" data-bs-toggle="tooltip" data-bs-placement="top" title="preprint">preprint</span></td>
 </tr>
 <tr class="odd" data-categories="null" data-index="18">
 <td class="listing-url"><span><a href="../research/papers/d3-ff-exp.html"><span class="bi bi-link"></span></a></span></td>
 <td class="listing-title" style="min-width: 450px"><span data-bs-toggle="tooltip" data-bs-placement="top" title="">S. Chillara and P. Mukhopadhyay, <a href="../research/papers/d3-ff-exp.html">On the Limits of Depth Reduction at Depth-3 Over Small Finite Fields</a>, Information and Computation</span></td>
-<td><span class="badge badge-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="journal" style="background:olivedrab;">journal</span></td>
+<td><span class="badge badge-primary owl-green" data-bs-toggle="tooltip" data-bs-placement="top" title="journal">journal</span></td>
 </tr>
 </tbody>
 </table>
@@ -343,6 +519,54 @@ Convention in theoretical computer science is to list authors in the alphabetica
 </footer>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const toggle = window.document.createElement('button');
+      toggle.type = "button";
+      toggle.setAttribute("role", "switch");
+      toggle.setAttribute("aria-checked", "false");
+      toggle.classList.add('top-right');
+      toggle.classList.add('quarto-color-scheme-toggle');
+      toggle.setAttribute("aria-label", "Toggle dark mode");
+      toggle.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      toggle.appendChild(i);
+      // Put the toggle in a landmark of its own, so that landmark navigation
+      // can reach it.
+      //
+      // The container is always a fresh direct child of body, and the toggle is
+      // never moved into page furniture that the theme or the author controls.
+      // The toggle is positioned against the page, so any ancestor that
+      // establishes a containing block captures it: a positioned element or a
+      // grid for position: absolute, and transform, filter, will-change or
+      // contain for position: fixed. A direct child of body has none of these
+      // to inherit, and the shift when one appears is silent and visual.
+      //
+      // ARIA says a document should have at most one banner, and axe reports a
+      // duplicate whether or not the banners carry distinct labels. So use a
+      // header when the page has no banner yet, and a named region otherwise.
+      //
+      // A header is a banner wherever it sits, unless it is inside sectioning
+      // content, so this cannot just look at the children of body: a custom
+      // page layout wraps the title block header in a plain div. An explicit
+      // role="banner" always counts.
+      const sectioning = 'article, aside, main, nav, section, [role="article"], [role="complementary"], [role="main"], [role="navigation"], [role="region"]';
+      const hasBanner = Array.from(
+        window.document.querySelectorAll('header:not([role]), [role="banner"]')
+      ).some(function(el) {
+        return el.hasAttribute("role") || el.closest(sectioning) === null;
+      });
+      const container = window.document.createElement(hasBanner ? "div" : "header");
+      if (hasBanner) {
+        container.setAttribute("role", "region");
+        container.setAttribute("aria-label", "Toggle dark mode");
+      }
+      container.classList.add('quarto-color-scheme-toggle-container');
+      container.appendChild(toggle);
+      window.document.body.appendChild(container);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
     const icon = "";
     const anchorJS = new window.AnchorJS();
     anchorJS.options = {
