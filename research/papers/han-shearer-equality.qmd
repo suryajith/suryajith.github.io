@@ -1,0 +1,21 @@
+---
+title: "On Han- and Shearer-Type Information Inequalities: Equality Conditions and Combinatorial Applications"
+date: "2026-10-13"
+year: "2026"
+publisher: "arXiv"
+authors: "G. Jakhar, G. R. Kurri, S. Chillara, and V. M. Prabhakaran"
+---
+
+[Link to the article](https://arxiv.org/pdf/2610.18693.pdf)
+
+
+### Authors
+Gunank Jakhar, Gowtham R. Kurri, Suryajith Chillara, and Vinod M. Prabhakaran
+
+### Publisher Information
+- arXiv: [2610.18693](https://arxiv.org/abs/2610.18693)
+- DOI: [10.48550/arXiv.2610.18693](https://doi.org/10.48550/arXiv.2610.18693)
+
+## Abstract
+
+Madiman and Tetali (2010) established strong and weak fractional inequalities that subsume classical entropy subset inequalities such as Han's inequality and Shearer's lemma. In this work, we derive a decomposition of the gap in the strong fractional inequality and use it to establish the necessary and sufficient conditions for equality in the strong form of Han's inequality. As a consequence, we characterize the equality conditions for a strong Loomis-Whitney-type projection inequality of Balister and Bollobás (2012). Finally, we apply the weak fractional inequality to an extremal graph theory problem, recovering and extending results of Sason (2022) and Boucheron et al. (2013), whose approaches rely on Han's inequality.

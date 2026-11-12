@@ -1,3 +1,17 @@
+- title: A Weight Dichotomy for the Multiplicity-Storage Tradeoff in Coded PIR
+  url: ./papers/coded-pir-weight-dichotomy.qmd
+  authors: S. Chillara and K. Gupta
+  venue: ITW 2026
+  type: conf
+  year: 2026
+
+- title: On Han- and Shearer-Type Information Inequalities: Equality Conditions and Combinatorial Applications
+  url: ./papers/han-shearer-equality.qmd
+  authors: G. Jakhar, G. R. Kurri, S. Chillara, and V. M. Prabhakaran
+  venue: arXiv:2610.18693
+  type: preprint
+  year: 2026
+
 - title: Shortest Paths with Linear Edge Weights
   url: ./papers/parametric-shortest-paths.qmd
   authors: S. Chillara, K. Gajjar, and N. Raja
@@ -17,13 +31,6 @@
   authors: P. Boyapati, S. Chillara, and P. Vempati
   venue: CCC 2026
   type: conf
-  year: 2026
-
-- title: Generalized Information Inequalities via Submodularity, and Two Combinatorial Problems
-  url: ./papers/gen-info-ineq-submodularity.qmd
-  authors: G. Jakhar, G. R. Kurri, S. Chillara, and V. M. Prabhakaran
-  venue: arXiv:2601.15723
-  type: preprint
   year: 2026
 
 - title: Fractional Subadditivity of Submodular Functions, Equality Conditions and Their Applications

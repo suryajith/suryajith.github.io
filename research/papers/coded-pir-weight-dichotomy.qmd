@@ -1,0 +1,17 @@
+---
+title: "A Weight Dichotomy for the Multiplicity-Storage Tradeoff in Coded PIR"
+date: "2026"
+year: "2026"
+publisher: "ITW 2026"
+authors: "S. Chillara and K. Gupta"
+---
+
+### Authors
+Suryajith Chillara and Kriti Gupta
+
+### Publisher Information
+- Conf: 2026 IEEE Information Theory Workshop (ITW)
+
+## Abstract
+
+Coded Private Information Retrieval (PIR) must balance server storage against the communication and query complexity demanded from the user. The Woodruff–Yekhanin (WY) scheme and subsequent work achieve low query complexity by letting servers compute high-order directional derivatives over a fully replicated Reed–Muller codeword, while the Lavauzelle–Nardi (LN) scheme minimizes storage to a single encoded curve per server, at the price of maximum query complexity. We establish that a genuine intermediate multiplicity–storage tradeoff exists if and only if the line-degree parameter $\omega \geq 2$. For $\omega = 1$ (affine-line-based coding), enabling even first-order multiplicity forces complete WY-like codeword replication. For Weighted Reed–Muller (WRM) codes with weight $\eta = \omega \geq 2$, the non-surjectivity of degree-$\geq 2$ polynomials over finite fields creates algebraic slack supporting fractional co-location: a server stores $t = s+1$ parallel-class curves and a Vandermonde inversion lets the user extract the desired derivative while keeping its private query direction hidden. The first-order ($s=1$) storage saving is proved unconditionally. For $s \geq 2$, conditional on a natural Polynomial Image Independence Conjecture (PIIC)—whose $s=1$ case is the classical Weil bound—the marginal storage cost of each additional multiplicity unit follows a geometric series halving at every step. The protocol achieves strict $\omega$-privacy: any coalition of up to $\omega$ servers learns nothing about the target index.
